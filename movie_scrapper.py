@@ -36,7 +36,8 @@ def ratings_func(div):
 # Downloading imdb bollywood movies from 2000 to 2022
 count = 0
 movies_list = []
-for pages in range(1, 6370, 50):
+for pages in range(6351, 6370, 50):
+    print(pages)
     url = 'https://www.imdb.com/search/title/?title_type=feature&release_date=2000-01-01,2022-12-31&countries=in&languages=hi&sort=release_date,asc&start={page}&ref_=adv_nxt'.format(
         page=pages)
     response = requests.get(url)
@@ -52,9 +53,9 @@ for pages in range(1, 6370, 50):
     movie_title = [h3.find('a').get_text() for h3 in movies]
     year = [year_func(h3) for h3 in movies]
 
-    # print(len(place))
-    print("Done with page ", pages)
-    print(count)
+    # print(len(year))
+    # print("Done with page ", pages)
+    # print(count)
     # print(year)
     # break
     try:
@@ -70,5 +71,5 @@ for pages in range(1, 6370, 50):
 
     movies_list.extend(dict_list)
 
-# print(movies_list)
+# print(movies_list[-1])
 print(len(movies_list))
