@@ -11,6 +11,19 @@ def year_func(h3):
     except IndexError:
         count += 1
 
+def ratings_func(h3):
+    global count
+    try:
+        return re.findall(r'\d+', h3.find('span', {'class': 'lister-item-year'}).get_text())[0]
+    except IndexError:
+        count += 1
+
+def place_func(h3):
+    global count
+    try:
+        return re.findall(r'\d+', h3.find('span', {'class': 'lister-item-year'}).get_text())[0]
+    except IndexError:
+        count += 1
 
 # Downloading imdb bollywood movies from 2000 to 2022
 count = 0
