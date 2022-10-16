@@ -15,8 +15,8 @@ def year_func(h3):
         response = requests.get(link)
         soup = BeautifulSoup(response.text, "html.parser")
         date = soup.find('a', {'class': 'ipc-metadata-list-item__list-content-item',
-                                 'class': 'ipc-metadata-list-item__list-content-item--link',
-                                 'href': '{title}releaseinfo?ref_=tt_dt_rdat'.format(title=title)}).get_text()
+                               'class': 'ipc-metadata-list-item__list-content-item--link',
+                               'href': '{title}releaseinfo?ref_=tt_dt_rdat'.format(title=title)}).get_text()
         year = re.search(r"\d{4}", date).group(0)
         return year
 
@@ -33,10 +33,23 @@ def ratings_func(div):
         # count += 1
 
 
+def index_func(i):
+    try:
+        return {"place": place[i],
+                "movie_title": movie_title[i],
+                "rating": ratings[i],
+                "year": year[i],
+                "star_cast": crew[i],
+                "about": about[i]
+                }
+    except IndexError:
+        pass
+
+
 # Downloading imdb bollywood movies from 2000 to 2022
 count = 0
 movies_list = []
-for pages in range(6351, 6370, 50):
+for pages in range(1, 6370, 50):
     print(pages)
     url = 'https://www.imdb.com/search/title/?title_type=feature&release_date=2000-01-01,2022-12-31&countries=in&languages=hi&sort=release_date,asc&start={page}&ref_=adv_nxt'.format(
         page=pages)
@@ -59,17 +72,12 @@ for pages in range(6351, 6370, 50):
     # print(year)
     # break
     try:
-        dict_list = [{"place": place[i],
-                      "movie_title": movie_title[i],
-                      "rating": ratings[i],
-                      "year": year[i],
-                      "star_cast": crew[i],
-                      "about": about[i]
-                      } for i in range(50)]
+        temp_list = [index_func(i) for i in range(50)]
+        dict_list = [i for i in temp_list if i is not None]
     except IndexError:
         continue
 
     movies_list.extend(dict_list)
 
-# print(movies_list[-1])
+# print(movies_list)
 print(len(movies_list))
