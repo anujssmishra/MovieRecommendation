@@ -14,6 +14,7 @@ def year_func(h3):
         link = 'https://www.imdb.com' + title
         response = requests.get(link)
         soup = BeautifulSoup(response.text, "html.parser")
+        # noinspection SpellCheckingInspection
         date = soup.find('a', {'class': 'ipc-metadata-list-item__list-content-item',
                                'class': 'ipc-metadata-list-item__list-content-item--link',
                                'href': '{title}releaseinfo?ref_=tt_dt_rdat'.format(title=title)}).get_text()
@@ -50,9 +51,8 @@ def index_func(i):
 count = 0
 movies_list = []
 for pages in range(1, 6370, 50):
-    print(pages)
-    url = 'https://www.imdb.com/search/title/?title_type=feature&release_date=2000-01-01,2022-12-31&countries=in&languages=hi&sort=release_date,asc&start={page}&ref_=adv_nxt'.format(
-        page=pages)
+    url = 'https://www.imdb.com/search/title/?title_type=feature&release_date=2000-01-01,' \
+          '2022-12-31&countries=in&languages=hi&sort=release_date,asc&start={page}&ref_=adv_nxt'.format(page=pages)
     response = requests.get(url)
     soup = BeautifulSoup(response.text, "html.parser")
 
@@ -66,11 +66,6 @@ for pages in range(1, 6370, 50):
     movie_title = [h3.find('a').get_text() for h3 in movies]
     year = [year_func(h3) for h3 in movies]
 
-    # print(len(year))
-    # print("Done with page ", pages)
-    # print(count)
-    # print(year)
-    # break
     try:
         temp_list = [index_func(i) for i in range(50)]
         dict_list = [i for i in temp_list if i is not None]
