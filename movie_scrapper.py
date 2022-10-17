@@ -4,12 +4,10 @@ import re
 import pandas as pd
 
 
-def year_func(h3):
-    global count
+def get_year(h3):
     try:
         return re.findall(r'\d+', h3.find('span', {'class': 'lister-item-year'}).get_text())[0]
     except IndexError:
-        count += 1
         title = (h3.find('a')['href'])
         link = 'https://www.imdb.com' + title
         response = requests.get(link)
@@ -22,8 +20,7 @@ def year_func(h3):
         return year
 
 
-def ratings_func(div):
-    # global count
+def get_ratings(div):
     try:
         if (len(div.find_all("div")) == 4):
             return 'No ratings'
@@ -31,10 +28,9 @@ def ratings_func(div):
             return div.find("div").attrs.get('data-value')
     except AttributeError:
         return 'No ratings'
-        # count += 1
 
 
-def index_func(i):
+def get_index(i):
     try:
         return {"place": place[i],
                 "movie_title": movie_title[i],
@@ -47,8 +43,15 @@ def index_func(i):
         pass
 
 
+def get_reviews(h3):
+    title = (h3.find('a')['href'])
+    link = 'https://www.imdb.com' + title + 'reviews'
+    response = requests.get(link)
+    soup = BeautifulSoup(response.text, "html.parser")
+    return link
+
+
 # Downloading imdb bollywood movies from 2000 to 2022
-count = 0
 movies_list = []
 for pages in range(1, 6370, 50):
     url = 'https://www.imdb.com/search/title/?title_type=feature&release_date=2000-01-01,' \
@@ -59,20 +62,25 @@ for pages in range(1, 6370, 50):
     movies = soup.select("h3.lister-item-header")
     crew = [" ".join(div.find_all("p")[2].get_text().split()) for div in
             soup.select("div.lister-item.mode-advanced div.lister-item-content")]
-    ratings = [ratings_func(div) for div in soup.select("div.lister-item-content")]
+    ratings = [get_ratings(div) for div in soup.select("div.lister-item-content")]
     about = ["".join(div.find_all('p', {'class': 'text-muted'})[1].get_text()).split("\n")[1] for div in
              soup.select("div.lister-item-content")]
     place = [h3.find('span', {'class': 'lister-item-index'}).get_text().replace('.', '') for h3 in movies]
     movie_title = [h3.find('a').get_text() for h3 in movies]
-    year = [year_func(h3) for h3 in movies]
-
+    year = [get_year(h3) for h3 in movies]
+    reviews = [get_reviews(h3) for h3 in movies]
+    print(reviews[0])
     try:
-        temp_list = [index_func(i) for i in range(50)]
+        temp_list = [get_index(i) for i in range(50)]
         dict_list = [i for i in temp_list if i is not None]
     except IndexError:
         continue
 
     movies_list.extend(dict_list)
 
-# print(movies_list)
-print(len(movies_list))
+print(reviews[0])
+# print(len(movies_list))
+
+##.......##
+# df = pd.DataFrame(list)
+# df.to_csv('imdb_top_250_movies.csv', index=False)

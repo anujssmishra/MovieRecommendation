@@ -1,44 +1,29 @@
-from bs4 import BeautifulSoup
 import requests
-import re
-import pandas as pd
+from bs4 import BeautifulSoup
 
-# Downloading imdb top 250 movie's data
-url = 'http://www.imdb.com/chart/top'
-response = requests.get(url)
-soup = BeautifulSoup(response.text, "html.parser")
-movies = soup.select('td.titleColumn')
-crew = [a.attrs.get('title') for a in soup.select('td.titleColumn a')]
-ratings = [b.attrs.get('data-value')
-           for b in soup.select('td.posterColumn span[name=ir]')]
+url = 'http://www.imdb.com/title/tt0073707/reviews?ref_=tt_urv'
+link = 'http://www.imdb.com/title/tt0073707/reviews/_ajax'
+res = requests.get(url)
 
-# create a empty list for storing
-# movie information
-list = []
+params = {
+    'ref_': 'undefined',
+    'paginationKey': ''
+}
 
-# Iterating over movies to extract
-# each movie's details
-for index in range(0, len(movies)):
-    # Separating movie into: 'place',
-    # 'title', 'year'
-    movie_string = movies[index].get_text()
-    movie = (' '.join(movie_string.split()).replace('.', ''))
-    movie_title = movie[len(str(index)) + 1:-7]
-    year = re.search('\((.*?)\)', movie_string).group(1)
-    place = movie[:len(str(index)) - (len(movie))]
-    data = {"place": place,
-            "movie_title": movie_title,
-            "rating": ratings[index],
-            "year": year,
-            "star_cast": crew[index],
-            }
-    list.append(data)
+names = []
 
-# printing movie details with its rating.
-for movie in list:
-    print(movie['place'], '-', movie['movie_title'], '(' + movie['year'] +
-          ') -', 'Starring:', movie['star_cast'], movie['rating'])
+while True:
+    soup = BeautifulSoup(res.text, "html.parser")
+    for item in soup.select(".review-container"):
+        reviewer_name = item.select_one("span.display-name-link > a").get_text(strip=True)
+        # print(reviewer_name)
+        names.append(reviewer_name)
 
-##.......##
-df = pd.DataFrame(list)
-# df.to_csv('imdb_top_250_movies.csv', index=False)
+    try:
+        pagination_key = soup.select_one(".load-more-data[data-key]").get("data-key")
+    except AttributeError:
+        break
+    params['paginationKey'] = pagination_key
+    res = requests.get(link, params=params)
+
+print(len(names))
