@@ -14,9 +14,13 @@ names = []
 
 while True:
     soup = BeautifulSoup(res.text, "html.parser")
+    flag = True
     for item in soup.select(".review-container"):
+        if flag:
+            flag = False
+            continue
         reviewer_name = item.select_one("span.display-name-link > a").get_text(strip=True)
-        # print(reviewer_name)
+        print(reviewer_name)
         review = item.select_one("div.text.show-more__control").get_text(strip=True)
         print(review)
         break

@@ -22,22 +22,23 @@ def get_year(h3):
 
 def get_ratings(div):
     try:
-        if (len(div.find_all("div")) == 4):
+        if len(div.find_all("div")) == 4:
             return 'No ratings'
         else:
-            return div.find("div").attrs.get('data-value')
+            return div.find("strong").get_text()
     except AttributeError:
         return 'No ratings'
 
 
 def get_index(i):
     try:
-        return {"place": place[i],
-                "movie_title": movie_title[i],
-                "rating": ratings[i],
-                "year": year[i],
-                "star_cast": crew[i],
-                "about": about[i]
+        return {"Place": place[i],
+                "Movie Title": movie_title[i],
+                "Rating": ratings[i],
+                "Year": year[i],
+                "Star_cast": crew[i],
+                "About": about[i],
+                "Reviews": reviews[i]
                 }
     except IndexError:
         pass
@@ -45,15 +46,47 @@ def get_index(i):
 
 def get_reviews(h3):
     title = (h3.find('a')['href'])
-    link = 'https://www.imdb.com' + title + 'reviews'
+    url = 'https://www.imdb.com' + title + 'reviews?ref_=tt_urv'
+    link = 'https://www.imdb.com' + title + 'reviews/_ajax'
+    response = requests.get(url)
+
+    params = {
+        'ref_': 'undefined',
+        'paginationKey': ''
+    }
+
+    reviews_total = []
+
+    while True:
+        soup = BeautifulSoup(response.text, "html.parser")
+        for item in soup.select(".review-container"):
+            reviewer_name = item.select_one("span.display-name-link > a").get_text(strip=True)
+            # print(reviewer_name)
+            review = item.select_one("div.text.show-more__control").get_text(strip=True)
+            # print(review)
+            reviews_total.append({"Reviewer name": reviewer_name, "Review": review})
+
+        try:
+            pagination_key = soup.select_one(".load-more-data[data-key]").get("data-key")
+        except AttributeError:
+            break
+        params['paginationKey'] = pagination_key
+        response = requests.get(link, params=params)
+
+    return reviews_total
+
+
+def get_about(h3):
+    title = (h3.find('a')['href'])
+    link = 'https://www.imdb.com' + title + 'plotsummary?ref_=adv_pl'
     response = requests.get(link)
     soup = BeautifulSoup(response.text, "html.parser")
-    return link
+    return soup.select_one('li.ipl-zebra-list__item > p').get_text(strip=True)
 
 
 # Downloading imdb bollywood movies from 2000 to 2022
 movies_list = []
-for pages in range(1, 6370, 50):
+for pages in range(1, 6, 50):
     url = 'https://www.imdb.com/search/title/?title_type=feature&release_date=2000-01-01,' \
           '2022-12-31&countries=in&languages=hi&sort=release_date,asc&start={page}&ref_=adv_nxt'.format(page=pages)
     response = requests.get(url)
@@ -63,13 +96,12 @@ for pages in range(1, 6370, 50):
     crew = [" ".join(div.find_all("p")[2].get_text().split()) for div in
             soup.select("div.lister-item.mode-advanced div.lister-item-content")]
     ratings = [get_ratings(div) for div in soup.select("div.lister-item-content")]
-    about = ["".join(div.find_all('p', {'class': 'text-muted'})[1].get_text()).split("\n")[1] for div in
-             soup.select("div.lister-item-content")]
+    about = [get_about(h3) for h3 in movies]
     place = [h3.find('span', {'class': 'lister-item-index'}).get_text().replace('.', '') for h3 in movies]
     movie_title = [h3.find('a').get_text() for h3 in movies]
     year = [get_year(h3) for h3 in movies]
     reviews = [get_reviews(h3) for h3 in movies]
-    print(reviews[0])
+    # print(ratings[0])
     try:
         temp_list = [get_index(i) for i in range(50)]
         dict_list = [i for i in temp_list if i is not None]
@@ -78,9 +110,9 @@ for pages in range(1, 6370, 50):
 
     movies_list.extend(dict_list)
 
-print(reviews[0])
+# print(ratings)
 # print(len(movies_list))
 
 ##.......##
-# df = pd.DataFrame(list)
-# df.to_csv('imdb_top_250_movies.csv', index=False)
+df = pd.DataFrame(movies_list)
+df.to_csv('imdb_bollywood_movies_2000_2022.csv', index=False)
