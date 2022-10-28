@@ -86,7 +86,7 @@ def get_about(h3):
 
 # Downloading imdb bollywood movies from 2000 to 2022
 movies_list = []
-for pages in range(1, 6, 50):
+for pages in range(4001, 5001, 50):
     url = 'https://www.imdb.com/search/title/?title_type=feature&release_date=2000-01-01,' \
           '2022-12-31&countries=in&languages=hi&sort=release_date,asc&start={page}&ref_=adv_nxt'.format(page=pages)
     response = requests.get(url)
@@ -109,10 +109,11 @@ for pages in range(1, 6, 50):
         continue
 
     movies_list.extend(dict_list)
+    print("Done with page", pages)
 
 # print(ratings)
 # print(len(movies_list))
 
 ##.......##
 df = pd.DataFrame(movies_list)
-df.to_csv('imdb_bollywood_movies_2000_2022.csv', index=False)
+df.to_csv('imdb_bollywood_movies_2000_2022_part5.csv', index=False)
