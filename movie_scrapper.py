@@ -61,9 +61,7 @@ def get_reviews(h3):
         soup = BeautifulSoup(response.text, "html.parser")
         for item in soup.select(".review-container"):
             reviewer_name = item.select_one("span.display-name-link > a").get_text(strip=True)
-            # print(reviewer_name)
             review = item.select_one("div.text.show-more__control").get_text(strip=True)
-            # print(review)
             reviews_total.append({"Reviewer name": reviewer_name, "Review": review})
 
         try:
@@ -86,7 +84,7 @@ def get_about(h3):
 
 # Downloading imdb bollywood movies from 2000 to 2022
 movies_list = []
-for pages in range(4001, 5001, 50):
+for pages in range(1, 6373, 50):
     url = 'https://www.imdb.com/search/title/?title_type=feature&release_date=2000-01-01,' \
           '2022-12-31&countries=in&languages=hi&sort=release_date,asc&start={page}&ref_=adv_nxt'.format(page=pages)
     response = requests.get(url)
@@ -101,7 +99,6 @@ for pages in range(4001, 5001, 50):
     movie_title = [h3.find('a').get_text() for h3 in movies]
     year = [get_year(h3) for h3 in movies]
     reviews = [get_reviews(h3) for h3 in movies]
-    # print(ratings[0])
     try:
         temp_list = [get_index(i) for i in range(50)]
         dict_list = [i for i in temp_list if i is not None]
@@ -111,9 +108,6 @@ for pages in range(4001, 5001, 50):
     movies_list.extend(dict_list)
     print("Done with page", pages)
 
-# print(ratings)
-# print(len(movies_list))
-
 ##.......##
 df = pd.DataFrame(movies_list)
-df.to_csv('imdb_bollywood_movies_2000_2022_part5.csv', index=False)
+df.to_csv('imdb_bollywood_movies_2000_2022_part.csv', index=False)
