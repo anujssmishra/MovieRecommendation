@@ -32,12 +32,14 @@ def get_ratings(div):
 
 def get_index(i):
     try:
+        if ratings[i] == "No ratings" and reviews[i] == 0:
+            raise IndexError
         return {"Place": place[i],
                 "Movie Title": movie_title[i],
                 "Rating": ratings[i],
                 "Year": year[i],
-                "Star_cast": crew[i],
-                "About": about[i],
+                # "Star_cast": crew[i],
+                # "About": about[i],
                 "Reviews": reviews[i]
                 }
     except IndexError:
@@ -59,10 +61,12 @@ def get_reviews(h3):
 
     while True:
         soup = BeautifulSoup(response.text, "html.parser")
+        review_count = 0
         for item in soup.select(".review-container"):
-            reviewer_name = item.select_one("span.display-name-link > a").get_text(strip=True)
-            review = item.select_one("div.text.show-more__control").get_text(strip=True)
-            reviews_total.append({"Reviewer name": reviewer_name, "Review": review})
+            # reviewer_name = item.select_one("span.display-name-link > a").get_text(strip=True)
+            # review = item.select_one("div.text.show-more__control").get_text(strip=True)
+            # reviews_total.append({"Reviewer name": reviewer_name, "Review": review})
+            review_count += 1
 
         try:
             pagination_key = soup.select_one(".load-more-data[data-key]").get("data-key")
@@ -71,7 +75,7 @@ def get_reviews(h3):
         params['paginationKey'] = pagination_key
         response = requests.get(link, params=params)
 
-    return reviews_total
+    return review_count
 
 
 def get_about(h3):
@@ -84,7 +88,7 @@ def get_about(h3):
 
 # Downloading imdb bollywood movies from 2000 to 2022
 movies_list = []
-for pages in range(1, 6373, 50):
+for pages in range(4001, 5000, 50):
     url = 'https://www.imdb.com/search/title/?title_type=feature&release_date=2000-01-01,' \
           '2022-12-31&countries=in&languages=hi&sort=release_date,asc&start={page}&ref_=adv_nxt'.format(page=pages)
     response = requests.get(url)
@@ -106,8 +110,10 @@ for pages in range(1, 6373, 50):
         continue
 
     movies_list.extend(dict_list)
-    print("Done with page", pages)
+    # break
+    # print("Done with page", pages)
 
+# print(movies_list)
 ##.......##
 df = pd.DataFrame(movies_list)
-df.to_csv('imdb_bollywood_movies_2000_2022_part.csv', index=False)
+df.to_csv('quantitative_part5.csv', index=False)

@@ -1,0 +1,4100 @@
+Place,Movie Title,Rating,Year,Reviews
+1,Tapish,6.5,2000,2
+3,Kannan Varuvaan,6.2,2000,1
+4,Vamsee,4.6,2000,0
+8,Agniputra,5.1,2000,1
+9,Justice Chowdhary,4.6,2000,1
+11,Qurbaniyaan,4.6,2000,0
+13,Kaala Mandir,3.6,2000,0
+16,Bhoot Raaj,3.7,2000,0
+20,Champakali,4.7,2000,0
+26,Basanti,4.4,2000,0
+32,Zindagi,2.8,2000,0
+41,Bhayanak Maut,7.4,2000,0
+58,Khooni Kaala Jadu,6.6,2000,0
+63,Kaali Pahadi,4.6,2000,0
+80,Shamshaan,3.4,2000,0
+83,Saamri,3.2,2000,0
+118,Mansoor Miyanar Ghora,6.7,2000,0
+127,Jai Maa Durga,6.4,2000,0
+138,Chimanee Pakhre,7.9,2000,0
+140,Dum: Man Of Power,6.8,2000,0
+142,Uyirile Kalanthathu,6.3,2000,0
+154,Bulandi,5.2,2000,8
+155,Mela,3.6,2000,13
+156,Paromitar Ek Din,7.6,2000,5
+157,Kaho Naa... Pyaar Hai,6.9,2000,11
+158,Dulhan Hum Le Jayenge,5.1,2000,11
+159,Phir Bhi Dil Hai Hindustani,6.1,2000,22
+161,Mere Aagosh Mein,6.5,2000,0
+162,Sultaan,5.8,2000,1
+163,Dacait,6.1,2000,0
+164,Pukar,6.7,2000,9
+165,Badal,5,2000,4
+166,Apradhi Kaun,5.6,2000,0
+167,Aaj Ka Nanha Farishta,6.1,2000,0
+168,Hey Ram,7.9,2000,23
+169,Daku Ramkali,5.5,2000,0
+170,Khauff,4.5,2000,2
+171,Krodh,4.5,2000,3
+172,Papa the Great,5.5,2000,0
+174,Hera Pheri,8.1,2000,20
+175,Baaghi,4.4,2000,5
+176,Gang,6.2,2000,5
+177,Hadh Kar Di Aapne,5.3,2000,7
+179,Raja Kali Amman,4.3,2000,0
+180,Hari-Bhari,7.6,2000,3
+181,Chal Mere Bhai,4.7,2000,13
+182,Jung,4.2,2000,5
+183,Kya Kehna,5.8,2000,7
+184,Daak Bangla,4.8,2000,0
+185,Hum To Mohabbat Karega,3,2000,2
+187,Josh,6.1,2000,14
+188,Kabrastan,3.1,2000,0
+189,Joru Ka Ghulam,5.1,2000,2
+190,Tarkieb,5,2000,5
+191,Refugee,5.2,2000,7
+192,Bichhoo,5,2000,2
+193,Jungle,6.1,2000,9
+194,Kunwara,5.1,2000,3
+195,Har Dil Jo Pyar Karega...,5.1,2000,14
+196,Nidaan,6.4,2000,0
+197,Ek Ajooba,6.5,2000,0
+198,Deewane,4.6,2000,3
+199,Dhadkan,6.5,2000,23
+200,Woh Bewafa Thi,4.6,2000,0
+201,Tera Jadoo Chal Gayaa,3.1,2000,3
+202,Hamara Dil Aapke Paas Hai,5.5,2000,8
+203,Daku Ganga Jamuna,4.5,2000,0
+204,Bas Yaari Rakho,6.4,2000,1
+205,The Revenge: Geeta Mera Naam,2.7,2000,0
+206,Fiza,6,2000,20
+207,Karobaar: The Business of Love,3.8,2000,3
+208,Rhythm,7.7,2000,12
+209,Kaali Topi Lal Rumaal,6.2,2000,0
+210,Dil Pe Mat Le Yaar!!,5.2,2000,4
+211,Aaj Ka Ravan,4.4,2000,0
+214,Shikari,4.7,2000,8
+215,Aaghaaz,4.6,2000,5
+216,Astitva,7.4,2000,11
+218,Jis Desh Mein Ganga Rehta Hain,4.9,2000,7
+219,Mohabbatein,7,2000,24
+220,Mission Kashmir,6.6,2000,19
+221,Kurukshetra,6.1,2000,4
+222,Beti No. 1,3.7,2000,0
+223,Kahin Pyaar Na Ho Jaaye,4.4,2000,9
+224,Kaali Ki Saugandh,6.4,2000,0
+226,Bawandar,7,2000,3
+227,Anjaane,4.4,2000,0
+228,Ghaath,4.8,2000,2
+229,Gaja Gamini,4.4,2000,6
+230,Sabse Bada Be-Imaan,5.8,2000,0
+231,Raju Chacha,5.1,2000,5
+232,Raja Ko Rani Se Pyar Ho Gaya,3.6,2000,0
+233,Champion,4.5,2000,5
+234,Pandavas: The Five Warriors,4.7,2000,4
+235,Khiladi 420,5.2,2000,6
+236,Dhaai Akshar Prem Ke,3.5,2000,7
+237,Zindagi Zindabad,7.6,2000,0
+238,Snip!,5.5,2000,4
+239,Bhai Thakur,3.4,2000,0
+240,Satyameva Jayate,5.4,2000,0
+242,Tune Mera Dil Le Liyaa,3.7,2000,0
+243,Biwi No. 2,5.8,2000,0
+244,Jallad No. 1,4.5,2000,0
+245,Snegithiye,6.7,2000,2
+246,Nagadevathe,5.7,2000,0
+247,Choo Lenge Akash,7.5,2000,0
+248,Le Chal Apne Sang,6.2,2000,0
+249,Ek Sthree,6.1,2000,0
+250,Anokha Moti,7.6,2000,0
+252,Meri Jung Ka Elaan,5.8,2000,0
+253,Billa No. 786,4.5,2000,0
+254,Shikaar,3.9,2000,2
+256,Raat Ki Baat,4.2,2000,0
+257,Glamour Girl,2.1,2000,0
+259,Bechainee,No ratings,2000,1
+261,Sudhandhiram,4.2,2000,0
+262,Ayudha Pooja,5.6,2000,0
+264,Jwalamukhi,4.5,2000,0
+265,Ethirum Puthirum,5.4,2001,0
+266,Mohanayanangal,5.6,2001,0
+270,Apna Bana Ke Dekho,5.9,2001,0
+271,Adhipathi,4.4,2001,0
+273,Zakhmi Sherni,3.8,2001,0
+278,Junglee Tarzan,5.4,2001,0
+280,Mahakali Ka Insaaf,5.9,2001,0
+287,Bhooton Ka Honeymoon,5.3,2001,0
+289,Badla Sherni Ka,8.1,2001,0
+300,Josh-E-Jawaani,5.1,2001,0
+314,Meri Dhoti Tera Ghagra,5.6,2001,0
+315,Kottai Mariamman,4,2001,2
+334,Qatil Chudail,5.4,2001,0
+346,Aag Ke Sholay,7.3,2001,0
+350,Vatsyayana Kamasutra,5.9,2001,0
+374,Sai Teri Maya,6.8,2001,0
+377,Maut Ki Pukar,No ratings,2001,1
+385,Taandav: Tune of Taandav,3.1,2001,1
+386,Jaan Likhu Janam Likhu,3.6,2001,0
+394,Rowdy Cheetah,8.3,2001,0
+398,Galiyon Ka Badshah,6.6,2001,0
+399,Bindiya Mange Bandook,4.3,2001,0
+400,Farz,4.4,2001,6
+401,Devi Putrudu,5.7,2001,0
+402,Zubeidaa,6.5,2001,23
+403,Kuch Khatti Kuch Meethi,4.7,2001,5
+404,Bhairav,4.8,2001,2
+405,Aashiq,4,2001,4
+407,Bhagawat Ek Jung,4.8,2001,1
+408,Kasoor,6,2001,16
+410,Censor,3.1,2001,4
+411,Grahan,5.2,2001,3
+412,Jagira,5.6,2001,0
+414,Jeetenge Hum,6.1,2001,0
+415,Qatil Haseeno Ka,3.1,2001,0
+416,Ek Aur Jung,5.9,2001,0
+417,Zahreela,4.9,2001,1
+418,Chori Chori Chupke Chupke,5.5,2001,17
+419,Prematho Raa,5.2,2001,0
+420,Officer,4.3,2001,5
+421,American Desi,6.6,2001,15
+422,Rahul,5.4,2001,3
+424,One 2 Ka 4,5.4,2001,8
+425,Eduruleni Manishi,4.4,2001,0
+426,Love You Hamesha,5.2,2001,4
+427,Jungle Ki Sherni,6.9,2001,0
+428,Jodi No. 1,5.8,2001,2
+429,Little John,5.1,2001,1
+430,Albela,3.6,2001,7
+431,Chhupa Rustam: A Musical Thriller,4.9,2001,3
+432,Pyaar Tune Kya Kiya...,5.7,2001,9
+435,Ek Lootera,7.5,2001,0
+436,Daman: A Victim of Marital Violence,5.5,2001,4
+437,Uljhan,4.7,2001,2
+438,Khatron Ke Khiladi,4.2,2001,0
+440,Ek Rishtaa: The Bond of Love,5.2,2001,12
+441,Ammayi Kosam,5.8,2001,0
+442,Mujhe Kucch Kehna Hai,4.7,2001,11
+443,Mis Chalu,6,2001,0
+444,Avgat,5,2001,1
+445,Zaroorat,3.6,2001,0
+446,Paagalpan,6.8,2001,0
+447,Lagaan: Once Upon a Time in India,8.1,2001,7
+448,Gadar: Ek Prem Katha,7.3,2001,19
+449,Bhalevadivi Basu,5.1,2001,0
+451,Mujhe Meri Biwi Se Bachaao,4.2,2001,3
+452,Yaadein...,4.2,2001,8
+453,Love Ke Liye Kuch Bhi Karega,6,2001,5
+454,Bas Itna Sa Khwaab Hai...,3.8,2001,1
+455,Aks,5.8,2001,21
+456,Tum Bin...: Love Will Find a Way,7.5,2001,13
+457,Dhill,7,2001,2
+458,Gumnam Qatil,3.3,2001,0
+460,Laadli,8.8,2001,0
+462,Dil Chahta Hai,8.1,2001,4
+463,Yeh Raaste Hain Pyaar Ke,4,2001,3
+464,Meri Pyaari Bahania Banegi Dulhania,5.9,2001,0
+465,Cover Story,5.5,2001,1
+466,Monsoon Wedding,7.3,2001,17
+467,Lajja,6.6,2001,19
+468,Nayak: The Real Hero,7.8,2001,20
+469,Shirdi Sai Baba,4.5,2001,3
+470,Maya,7.1,2001,15
+471,Pyaar Zindagi Hai,6.5,2001,3
+472,Everybody Says I'm Fine!,5.9,2001,9
+473,Asoka,6.4,2001,8
+474,Ajnabee,6.3,2001,15
+475,Kyo Kii... Main Jhuth Nahin Bolta,5.4,2001,5
+476,The Warrior,6.7,2001,1
+477,Pyaar Ishq Aur Mohabbat,4.2,2001,5
+478,Chandni Bar,7.6,2001,16
+479,Saugandh Geeta Ki,4.4,2001,0
+480,The Mystic Masseur,5.8,2001,17
+481,Dial 100,No ratings,2001,1
+483,Yeh Teraa Ghar Yeh Meraa Ghar,5.9,2001,5
+484,Rehnaa Hai Terre Dil Mein,7.6,2001,18
+486,Indian,5.4,2001,7
+487,Mitti,5.1,2001,0
+488,Bhago Boot,7.6,2001,1
+489,Daughters of This Century,7.1,2001,0
+490,Tera Mera Saath Rahen,5.1,2001,4
+491,Boond,4.6,2001,0
+492,Aalavandhan,7.1,2001,21
+493,Yeh Zindagi Ka Safar,3.6,2001,3
+494,Deewaanapan,4.6,2001,2
+495,Kasam,2.9,2001,2
+496,Arjun Devaa,3.9,2001,1
+497,Moksha: Salvation,6.3,2001,12
+498,Ehsaas: The Feeling,5.3,2001,4
+499,Bub (Father),8.8,2001,0
+500,Kabhi Khushi Kabhie Gham...,7.4,2001,25
+501,Majunu,5.1,2001,0
+502,Tere Liye,5.6,2001,0
+503,Aamdani Atthanni Kharcha Rupaiya,4.7,2001,6
+504,Style,6.7,2001,5
+505,Dil Ne Phir Yaad Kiya,3.3,2001,1
+506,Rakkilikal,3.4,2001,0
+507,Dattak,7.7,2001,5
+508,Hum Ho Gaye Aap Ke,4.4,2001,6
+509,Ittefaq,4.8,2001,1
+510,Veer Savarkar,7.7,2001,5
+512,Master,5,2001,0
+513,Hadh: Life on the Edge of Death,4.2,2001,0
+514,Baaja,6.7,2001,0
+516,Afsana Dilwalon Ka,3.6,2001,0
+517,Is Pyaar Ko Kya Naam Doon,6.2,2001,0
+518,Bengal Tiger,5.4,2001,1
+519,Inteqam,2.8,2001,0
+520,Husn Ke Lootere,4.2,2001,0
+521,Tamboo Mein Bamoo,7.7,2001,0
+522,Hum Deewane Pyar Ke,6.7,2001,1
+523,Devi Durga Shakti,6.1,2001,0
+524,Dal: The Gang,5.5,2001,0
+525,Meri Adaalat,4.4,2001,1
+526,Aaj Ka Gunda,5,2001,0
+527,Yeh Hai Pyar Ka Mausam,3.8,2001,1
+528,Jai Ganesh Deva,4,2001,0
+529,Bhooka Sher,5.2,2001,1
+530,Amma Nagamma,6.3,2001,0
+532,Thavasi,4.7,2001,0
+533,Dafan,4.4,2001,0
+535,Kasam Tere Pyar Ki,6.3,2001,1
+538,Yamini,4.5,2002,0
+539,Miss Suvarna,6.2,2002,0
+540,Soundharyalahari,4.4,2002,0
+542,Taqdeer Ka Sikander,5.8,2002,0
+543,Dushmani,7.6,2002,0
+544,Gautam Govinda,3.1,2002,1
+545,Hindustani Sipahi,5.8,2002,0
+546,Mawali No.1,3.9,2002,0
+547,Meri Partigya,4,2002,0
+549,Badmaash No.1,4.9,2002,1
+550,Raat Ke Saudagar,No ratings,2002,1
+553,Tarzan Ki Beti,5.1,2002,0
+562,Shola Bai,3.2,2002,0
+609,Har Har Mahadev,7.8,2002,0
+610,Aag Ka Prem Yudh,9,2002,0
+625,Yodha the Warrior,7.9,2002,0
+627,Durga Maiya,No ratings,2002,1
+631,Daag: The Burning Fire,7.7,2002,0
+633,Simhadriya Simha,8.1,2002,0
+634,Bhagat Singh,3.3,2002,0
+637,Pitaah,6.4,2002,8
+638,Inth Ka Jawab Patthar,3.3,2002,0
+640,Koi Mere Dil Se Poochhe,3.4,2002,3
+641,Takkari Donga,6.6,2002,1
+642,Yeh Dil Aashiqanaa,4.3,2002,6
+643,Maa Tujhhe Salaam,3.6,2002,2
+644,Filhaal...,5.7,2002,10
+645,Raaz,6.6,2002,7
+646,Kali Salwaar,6.1,2002,1
+647,Yeh Mohabbat Hai,5.2,2002,1
+648,Haan Maine Bhi Pyaar Kiya,3.6,2002,10
+649,Mitr: My Friend,6.8,2002,7
+650,Tumko Na Bhool Paayenge,5.7,2002,19
+652,Kranti,3.9,2002,1
+653,16-Dec,6.9,2002,10
+654,Kitne Door... Kitne Paas,4.4,2002,2
+655,Vadh,6.1,2002,5
+656,Ansh: The Deadly Part,6.5,2002,3
+657,Aankhen,7.4,2002,4
+658,Divine Temple Khajuraho,4.7,2002,0
+659,Kya Yehi Pyaar Hai,4.2,2002,6
+660,Gemini,6.2,2002,2
+661,Thamizhan,5.9,2002,0
+662,Company,8,2002,21
+663,Aap Mujhe Achche Lagne Lage,3.1,2002,13
+664,Pyaar Diwana Hota Hai,3.8,2002,5
+665,Tum Se Achcha Kaun Hai,4.8,2002,6
+666,Lal Salaam,6.6,2002,2
+667,Santosham,7.2,2002,2
+668,Na Tum Jaano Na Hum,4.9,2002,8
+669,Ab Ke Baras,3.4,2002,1
+670,Danger,6.9,2002,3
+671,Kabhie Tum Kabhie Hum,4.4,2002,0
+673,Devdas,7.5,2002,24
+674,Hum Tumhare Hain Sanam,5.3,2002,19
+675,Yeh Kaisi Mohabbat,3.9,2002,4
+676,Hum Kisi Se Kum Nahin,4.2,2002,7
+677,Shaheed-E-Azam,7.6,2002,1
+678,The Legend of Bhagat Singh,8.2,2002,4
+679,Mere Yaar Ki Shaadi Hai,5.4,2002,13
+680,23rd March 1931: Shaheed,5.2,2002,11
+681,Badhaai Ho Badhaai,4.7,2002,4
+682,Awara Paagal Deewana,6.2,2002,21
+683,Kuch Tum Kaho Kuch Hum Kahein,5.9,2002,4
+684,Kyaa Dil Ne Kahaa,2.9,2002,3
+687,Yeh Hai Jalwa,4.8,2002,6
+688,Om Jai Jagadish,5.5,2002,10
+689,Shararat,4.8,2002,4
+690,Border Kashmir,4.5,2002,0
+691,Humraaz,6.4,2002,17
+692,Akhiyon Se Goli Maare,5.1,2002,6
+693,Mujhse Dosti Karoge!,5,2002,3
+694,Chhal,6.6,2002,3
+695,Encounter: The Killing,6.2,2002,2
+696,Devi Ahilya Bai,7,2002,1
+697,Gangobai,3.7,2002,0
+698,Jaani Dushman: Ek Anokhi Kahani,2.6,2002,2
+699,Maine Dil Tujhko Diya,4,2002,7
+700,Soch,4.4,2002,2
+701,Chor Machaaye Shor,4.3,2002,5
+702,Sabse Badhkar Hum,2.8,2002,1
+703,Dil Hai Tumhaara,5.5,2002,16
+704,Ek Chhotisi Love Story,3.1,2002,13
+705,King,5.6,2002,0
+706,Sur: The Melody of Life,6.5,2002,11
+708,Shakthi: The Power,6,2002,24
+709,Road,5.7,2002,12
+710,Darwaza,4.5,2002,2
+711,Dhumm,7.4,2002,0
+712,Zindagi Khoobsoorat Hai,5.7,2002,1
+713,Pyaasa,3.4,2002,1
+714,Yeh Kya Ho Raha Hai?,4.7,2002,1
+715,Gunaah,3.4,2002,6
+716,Dil Vil Pyar Vyar,5.4,2002,5
+717,Hathyar: Face to Face with Reality,5.7,2002,7
+718,The Truth... Yathharth,6.7,2002,0
+719,Deewangee,6.5,2002,17
+720,Makdee,7.5,2002,7
+721,Annarth,3,2002,5
+722,Waah! Tera Kya Kehna,3.8,2002,3
+723,Hum Pyar Tumhi Se Kar Baithe,5.5,2002,0
+724,Kehtaa Hai Dil Baar Baar,4.7,2002,3
+725,Reshma Aur Sultaan,6.8,2002,0
+726,Jeena Sirf Merre Liye,3.9,2002,3
+727,Desh Devi,9.8,2002,0
+728,Maseeha,4.1,2002,2
+729,Rishtey,4.8,2002,8
+730,Karz: The Burden of Truth,4,2002,3
+731,Hum Hain Pyaar Mein,3.6,2002,0
+732,Guru Mahaaguru,4.2,2002,1
+733,Kaante,6.6,2002,10
+734,Saathiya,6.8,2002,4
+735,Chalo Ishq Ladaaye,4.4,2002,5
+736,Pyar Ki Dhun,2.5,2002,0
+737,Durga,5.1,2002,0
+738,Angaar: The Fire,4.5,2002,1
+739,Bharat Bhagya Vidhata,6.3,2002,0
+740,Nishad,5.7,2002,0
+741,Junoon,4.3,2002,0
+745,Amma,7.6,2002,0
+746,Desh,5.1,2002,0
+747,Haathi Ka Anda,6.8,2002,0
+748,Duplicate Sholay,6.8,2002,0
+749,Ghaav: The Wound,6.1,2002,0
+750,Pratha,6.5,2002,2
+752,Aakhri Inteqam,2.8,2002,1
+753,Mulaqaat,3.2,2002,0
+755,Tum Jiyo Hazaron Saal,6.2,2002,0
+756,Ek Aur Visphot,4,2002,0
+757,Marshal,5.9,2002,1
+758,Kaaboo,6.9,2002,1
+759,Be-Lagaam,3.4,2002,0
+762,Sainika,7.5,2002,0
+763,Marma,7,2002,1
+764,Dharini,7.9,2002,0
+769,Ottran,5.7,2003,0
+771,Sabse Badi Ganga Ki Saugandh,3.2,2003,0
+774,Bad Boys,3.8,2003,0
+776,Bhoot Ke Peeche Bhoot,4,2003,0
+778,Maut Ke Peeche Maut,6.4,2003,0
+814,Pyaasi,6.7,2003,0
+815,Pyaasa Haiwan,6.5,2003,0
+816,Pyaasi Bhootni,6.5,2003,0
+831,Mahima Kashi Vishwanath Ki,8,2003,0
+835,Main Hoon Chalbaaz,6.5,2003,0
+836,Neelambari,7.8,2003,0
+849,Swarg Aashram,3.7,2003,0
+852,Diwan,3.2,2003,0
+855,Talaash: The Hunt Begins...,4.3,2003,5
+856,Tujhe Meri Kasam,6.3,2003,5
+857,Ek Alag Mausam,7,2003,1
+858,Hollywood,7.4,2003,3
+859,Aapko Pehle Bhi Kahin Dekha Hai,4.7,2003,5
+860,Swaraaj,7.6,2003,0
+861,Anbe Sivam,8.7,2003,13
+862,Dil Ka Rishta,4.8,2003,18
+863,Jism,5.3,2003,15
+865,Dum,5.7,2003,4
+866,Kucch To Hai,4.3,2003,9
+868,Satta,6.8,2003,10
+869,Khushi,4.2,2003,5
+870,Baaz: A Bird in Danger,3.4,2003,5
+871,Escape from Taliban,4.5,2003,10
+872,Love at Times Square,2.2,2003,5
+873,Kash... Aap Hamare Hote,5.1,2003,2
+874,Bas Yun Hi,5.6,2003,4
+875,Dhund: The Fog,2.9,2003,9
+876,Valentine Days,1.8,2003,0
+878,Indian Babu,4.8,2003,2
+879,Meri Ganga Ki Saugandh,7,2003,0
+880,Chura Liyaa Hai Tumne,3.8,2003,10
+881,Om,4.3,2003,0
+883,Yeh Dil,4,2003,7
+884,The Hero: Love Story of a Spy,5.4,2003,14
+885,Ishq Vishk,6.1,2003,7
+886,Chota Jadugar,4.9,2003,0
+887,Pran Jaaye Par Shaan Na Jaaye,6.3,2003,4
+888,Pudhiya Geethai,4.7,2003,1
+889,Kaise Kahoon Ke... Pyaar Hai,3.9,2003,2
+890,Armaan,5.3,2003,14
+891,Stumped,2.6,2003,3
+892,Haasil,7.6,2003,13
+893,Andaaz,5.2,2003,14
+894,Bhoot,6.4,2003,4
+895,Parasuram,4.7,2003,0
+896,Jajantaram Mamantaram,5.9,2003,10
+897,Khwahish,4.1,2003,9
+898,Nayee Padosan,5.5,2003,4
+899,3 Deewarein,7.8,2003,10
+900,Aaj Ka Andha Kanoon,3.6,2003,0
+901,Chalte Chalte,6.5,2003,9
+902,Jhankaar Beats,7.2,2003,17
+903,Supari,4.3,2003,1
+904,Border Hindustan Ka,5.2,2003,0
+905,Main Prem Ki Diwani Hoon,3.8,2003,15
+906,88 Antop Hill,4.6,2003,2
+907,Khanjar,3.3,2003,4
+908,Calcutta Mail,5.7,2003,6
+909,Hawa,3.2,2003,9
+910,Saaya,5.7,2003,10
+911,Kahan Ho Tum,4.2,2003,2
+912,Qayamat: City Under Threat,4.7,2003,12
+913,Jaal: The Trap,4.3,2003,5
+914,Maa Santoshi Maa,8.8,2003,0
+915,Darna Mana Hai,6.3,2003,8
+916,Kabirdas,6.6,2003,2
+917,Chori Chori,4.9,2003,7
+918,Hungama,7.6,2003,1
+919,Sambaram,6.1,2003,0
+920,Chaalbaaz,5.7,2003,0
+921,Koi... Mil Gaya,7.1,2003,6
+922,Basti,7.6,2003,0
+923,Tere Naam,7.2,2003,21
+924,Footpath,5.4,2003,7
+925,Raghu Romeo,6.9,2003,7
+926,Hawayein,7.2,2003,3
+927,Bhayaanak Panjaa,5.3,2003,0
+928,Mumbai Se Aaya Mera Dost,3.3,2003,4
+929,Seetayya,6.4,2003,0
+930,Kuch Naa Kaho,5.4,2003,21
+931,Gangaajal,7.8,2003,23
+932,Tada,5.3,2003,2
+933,Miss India: The Mystery,3.7,2003,0
+934,Rules: Pyaar Ka Superhit Formula,6.4,2003,2
+936,Boom,2.3,2003,23
+937,Maqbool,8,2003,17
+938,Matrubhoomi: A Nation Without Women,7.7,2003,25
+939,Joggers' Park,6.2,2003,5
+940,Parwana,2.5,2003,1
+941,Chupke Se,5.6,2003,3
+942,Market,4.1,2003,4
+943,Paanch,7.6,2003,1
+944,Hum Panchi Ek Daal Ke,5.6,2003,0
+945,Mumbai Matinee,5.1,2003,6
+946,Zameen,5.4,2003,9
+947,Xcuse Me,5.7,2003,5
+948,Aanch,5.6,2003,2
+951,Three Roses,4.4,2003,0
+952,Baghban,7.4,2003,22
+953,Guru,5.4,2003,0
+954,Main Madhuri Dixit Banna Chahti Hoon!,6.3,2003,12
+955,Kagaar: Life on the Edge,5.9,2003,2
+956,Samay: When Time Strikes,7,2003,25
+957,Pinjar: Beyond Boundaries...,7.9,2003,13
+958,Sssshhh...,4.4,2003,8
+959,Inteha,5.3,2003,4
+960,Raja Bhaiya,3.8,2003,2
+961,Anjaneya,3.4,2003,2
+962,Jung Ke Sholay,6.6,2003,0
+963,Road to Ladakh,5.9,2003,4
+964,Ek Din 24 Ghante,4,2003,5
+965,Dhoop,7.5,2003,7
+966,Patth,5.5,2003,0
+967,Khel,4.1,2003,6
+968,Jodi Kya Banayi Wah Wah Ramji,4.1,2003,2
+969,Waisa Bhi Hota Hai Part II,7.4,2003,10
+971,Yeh Hai Chakkad Bakkad Bumbe Bo,6.3,2003,0
+972,Tehzeeb,5.7,2003,11
+973,Out of Control,3.3,2003,4
+974,Taj Mahal: A Monument of Love,6.9,2003,6
+975,Janasheen,3.1,2003,8
+976,Kal Ho Naa Ho,7.9,2003,15
+977,Sandhya,7.1,2003,0
+978,LOC: Kargil,5.3,2003,13
+979,Dil Pardesi Ho Gayaa,5,2003,4
+980,Wrong Number,4.3,2003,2
+981,Mudda: The Issue,4.2,2003,1
+982,Munna Bhai M.B.B.S.,8.1,2003,22
+983,Fun2shh... Dudes in the 10th Century,4.6,2003,5
+986,Paap,5.2,2003,7
+987,"Knock Knock, I'm Looking to Marry",5.6,2003,5
+990,Ek Hindustani,6.2,2003,0
+991,Sanatta: The Silence,4.4,2003,0
+992,Oops!,3.7,2003,2
+993,Danav,5,2003,1
+994,Chameli,6.8,2003,22
+995,Hazaaron Khwaishein Aisi,7.9,2003,18
+996,02-Oct,5.4,2003,2
+997,Naag Lok,3.9,2003,0
+998,Tu Bal Bramhachari Main Hoon Kanya Kunwari,4.4,2003,0
+999,Kyon?,3.5,2003,1
+"1,000",Raghu More: Bachelor of Hearts,4.8,2003,1
+"1,001",Baap Ka Baap,5.6,2003,0
+"1,002",Aisaa Kyon,4.2,2003,0
+"1,004",Humein Tumse Pyar Ho Gaya Chupke Chupke,2.2,2003,0
+"1,005",Kaash... Hamara Dil Pagal Na Hota,4,2003,0
+"1,006",Anubhav: An Experience,3.6,2003,1
+"1,008",Pyaar Kiya Nahin Jaata..,6.5,2003,0
+"1,010",Winner,6.3,2003,1
+"1,012",Koi Hai,2.6,2003,0
+"1,015",Smile Please,No ratings,2004,1
+"1,020",Mysteries Shaque,5.3,2004,0
+"1,021",Giri,5.8,2004,0
+"1,035",Ek Raat Shaitan Ke Saath,2.9,2004,0
+"1,042",Hottest Mail.Com,No ratings,2004,1
+"1,048",Jungle Ka Sher,4.8,2004,0
+"1,051",Kaam Jwala: The Fire,4.7,2004,0
+"1,054",Kundan,7,2004,0
+"1,057",Khooni,4,2004,0
+"1,060",Kachhi Kali,4.3,2004,0
+"1,075",Zakhmi Naagin,6.6,2004,0
+"1,082",School,7.6,2004,0
+"1,089",Aankhein: The Third Eye,7.1,2004,0
+"1,111",Varnajalam,5.1,2004,0
+"1,116",Man on Mission Fauladi,5.9,2004,0
+"1,118",Qatilon Ka Qatil,4.8,2004,0
+"1,120",Thokar,8.6,2004,0
+"1,122",Kalasi Palya Junction,5.4,2004,0
+"1,129",Aar Paar: The Judgement,6.4,2004,0
+"1,136",Ishq Hai Tumse,3.4,2004,3
+"1,137",Plan,4.4,2004,9
+"1,138",Paisa Vasool,4.3,2004,5
+"1,139",Ek Hasina Thi,7.5,2004,21
+"1,140",Khakee,7.4,2004,23
+"1,141",Aetbaar,4.7,2004,14
+"1,142",God Only Knows!,5.8,2007,4
+"1,143",Kaun Hai Jo Sapno Mein Aaya,5.8,2004,3
+"1,144",Jaago,6.6,2004,3
+"1,146",Hava Aney Dey,6.5,2004,1
+"1,147",Rudraksh,2.7,2004,16
+"1,148",I - Proud to be an Indian,6.1,2004,9
+"1,149",Kismat,4,2004,5
+"1,150",Mr Lonely Miss Lovely,6.2,2004,0
+"1,151",Agni Pankh,4.7,2004,2
+"1,152",Ab Tak Chhappan,7.8,2004,1
+"1,153",Suno Sasurjee,3,2004,3
+"1,154",Tum: A Dangerous Obsession,3,2004,1
+"1,155",Mission Mumbai,4,2004,2
+"1,156",Insaaf: The Justice,4,2004,1
+"1,157",Love in Nepal,3.7,2004,5
+"1,160",Surya,5.6,2004,0
+"1,161",Raton Ki Rani (The Night Queen),6.2,2004,0
+"1,162",Hawas,2.9,2004,2
+"1,163",Muskaan,4.5,2004,2
+"1,164",WOH,4.5,2004,1
+"1,165",Ho Sakta Hai!,6.4,2004,5
+"1,166",Meenaxi: Tale of 3 Cities,6.3,2004,6
+"1,167",Murder,5.5,2004,15
+"1,168",Krishna Cottage,5.1,2004,8
+"1,169",Nenunnanu,5.2,2004,1
+"1,170",Yeh Lamhe Judaai Ke,3.1,2004,18
+"1,171",Masti,6.2,2004,23
+"1,173","Bazaar: Market of Love, Lust and Desire",6,2004,0
+"1,174",Bardaasht,5.9,2004,6
+"1,175",Dhandha,No ratings,2004,1
+"1,176",Shaadi Ka Laddoo,5.1,2004,1
+"1,177",Main Hoon Na,7,2004,13
+"1,178",Charas: A Joint Effort,5.3,2004,6
+"1,179",Sheen,6.7,2004,3
+"1,180",Run,5,2004,9
+"1,182",Yuva,7.3,2004,23
+"1,183",Dukaan: Pila House,5,2004,0
+"1,184",Uuf Kya Jaadoo Mohabbat Hai...,5.2,2004,1
+"1,185",Hum Tum,7,2004,1
+"1,186",Police Force: An Inside Story,4.2,2004,3
+"1,187",Garam Dukaan,8.3,2004,0
+"1,189",Aan: Men at Work,5.7,2004,11
+"1,190",Poochho Mere Dil Se,4.8,2004,0
+"1,191",Dev,6.7,2004,24
+"1,192",Girlfriend,3.2,2004,8
+"1,193",Lakshya,7.9,2004,17
+"1,194","Chot [Aaj Isko, Kal Tereko]",5.3,2004,0
+"1,195",Deewaar: Let's Bring Our Heroes Home,6,2004,12
+"1,196",Meri Biwi Ka Jawab Nahin,3.5,2004,4
+"1,197",Hyderabad Blues 2,6.2,2004,6
+"1,198",Shikaar,5.1,2004,1
+"1,199",Thoda Tum Badlo Thoda Hum,5.4,2004,1
+"1,200",Raincoat,7.7,2004,13
+"1,201",Garv: Pride and Honour,5.6,2004,22
+"1,202",Gayab,4.3,2004,4
+"1,203",Asambhav,3.8,2004,9
+"1,204",Julie,4.1,2004,5
+"1,206",Mujhse Shaadi Karogi,6.7,2004,25
+"1,208",Sullan,3.1,2004,0
+"1,209",Taarzan: The Wonder Car,4.6,2004,8
+"1,210",Inspector Kiran,5.4,2004,0
+"1,211",Kyun! Ho Gaya Na...,4.3,2004,18
+"1,212",Black Friday,8.4,2004,5
+"1,213",Shart: The Challenge,3.5,2004,3
+"1,214",Phir Milenge,6.2,2004,14
+"1,215",Prarambh,7.5,2004,1
+"1,216",Fida,5.4,2004,18
+"1,217",Ishq Qayamat,5.8,2004,2
+"1,218",Dhoom,6.6,2004,4
+"1,219",Madurey,5,2004,4
+"1,220",Hum Kaun Hai?,3.6,2004,7
+"1,221",Rakht,3.8,2004,8
+"1,222",Dil Ne Jise Apna Kaha,4.4,2004,8
+"1,223",Hari Om,8.3,2004,16
+"1,224",Ek Se Badhkar Ek,4.6,2004,2
+"1,225",Lou (Ek Ehsaas),No ratings,2004,1
+"1,226",Gajendra,3.6,2004,2
+"1,227",Arasatchi,6.1,2004,2
+"1,228",Dobara,4.3,2004,9
+"1,229",Madhoshi,4.6,2004,10
+"1,230",Tumsa Nahin Dekha,4.6,2004,3
+"1,232",Tauba Tauba,2.6,2004,3
+"1,233",Popcorn Khao! Mast Ho Jao,4,2004,1
+"1,234",AK 47,5.3,2004,0
+"1,235",One Dollar Curry,5.9,2004,0
+"1,236",Bride & Prejudice,6.2,2004,20
+"1,237",White Rainbow,7.5,2004,13
+"1,238",Shukriya: Till Death Do Us Apart,5.1,2004,2
+"1,239",Wajahh: A Reason to Kill,4.5,2004,1
+"1,241",Hatya: The Murder,2.8,2004,6
+"1,242",Bhola in Bollywood,6.7,2004,1
+"1,243",Vaastu Shastra,5,2004,19
+"1,244",The Legend of Buddha,7,2004,1
+"1,245",Kis Kis Ki Kismat,2.7,2004,1
+"1,246",Inteqam: The Perfect Game,5.1,2004,2
+"1,247",Morning Raga,6.8,2004,11
+"1,248",Kiss Kis Ko,4.7,2004,1
+"1,249",Manasarovar,7.4,2004,6
+"1,250",Let's Enjoy,6.5,2004,1
+"1,251",Hanan,6.2,2004,4
+"1,252",Sau Jhooth Ek Sach,7.5,2004,1
+"1,253",Stop!,4.5,2004,1
+"1,254",19 Revolutions,4.7,2004,0
+"1,255",Aitraaz,6.6,2004,24
+"1,256",Veer-Zaara,7.8,2004,22
+"1,257",Naach,4.4,2004,15
+"1,258",Nalla,7.7,2004,0
+"1,260",Hulchul,7,2004,22
+"1,261",Ab... Bas!,3.2,2004,1
+"1,262",Navra Mazha Navsacha,7.3,2004,3
+"1,263",Kaya Taran,9.2,2004,0
+"1,264",Musafir,5.6,2004,11
+"1,265",Rok Sako To Rok Lo,4.6,2004,18
+"1,267",Alibaba Aur 40 Chor,4.7,2004,0
+"1,268","Swades: We, the People",8.2,2004,14
+"1,269",Ab Tumhare Hawale Watan Saathiyo,4.4,2004,12
+"1,270",Dil Maange More!!!,5.2,2004,8
+"1,271",Woh Tera Naam Tha,6.8,2004,1
+"1,272",Ghar Grihasti,2.9,2004,0
+"1,273",Lakeer: Forbidden Lines,4.7,2004,5
+"1,274",Dil Bechara Pyaar Ka Maara,5.3,2004,2
+"1,276",Shobhayatra,4.7,2004,1
+"1,277",Chai Pani Etc.,5,2004,2
+"1,278",Silence Please... The Dressing Room,3.8,2004,0
+"1,279",Nisheedhini,6.2,2004,0
+"1,280",Patli Kamar Lambe Baal,4.8,2004,0
+"1,282",Chota Sipahi,6.9,2004,1
+"1,283",Kuch To Gadbad Hai,7.7,2004,0
+"1,284",30 Days,5.7,2004,0
+"1,285",Aabra Ka Daabra,2.5,2004,8
+"1,289",Gambeeram,4.5,2004,0
+"1,290",Shola: Fire of Love,4.3,2004,0
+"1,291",Jai Surya,4.3,2004,0
+"1,292",1:1.6 An Ode to Lost Love,6.5,2004,1
+"1,294",Khalnayak,7.4,2004,0
+"1,297",Vikram Betal,7.4,2004,0
+"1,298",Iniyum Oru Janmam,7.3,2005,0
+"1,299",Priyasakhi,4.6,2005,0
+"1,300",Daas,2.9,2005,1
+"1,301",Allari Bullodu,3.2,2005,0
+"1,302",Time Pass,4.1,2005,0
+"1,303",Bhageeratha,5.6,2005,1
+"1,304",Laila,3.5,2005,1
+"1,306",London,4,2005,0
+"1,307",Dil Ke Pechey Pechey',6,2005,1
+"1,311",Zinda Dil,6.8,2005,0
+"1,312",Laakhan,7.3,2005,0
+"1,315",Mera Faisla,3.8,2005,0
+"1,316",A Film by Aravind,6.7,2005,2
+"1,317",Chalta Hai Yaar,7.1,2005,0
+"1,318",Darinda,6.1,2005,0
+"1,320",Tujhko Pukare,No ratings,2005,1
+"1,325",Sitam,2.5,2005,0
+"1,327",Yaad Rakhenge Aap,7.4,2005,0
+"1,345",Chudail Ka Badla,8.1,2005,0
+"1,431",Meri Adalat,7.4,2005,0
+"1,432",Veer Baahubali,4,2005,0
+"1,437",Mission Vande Mataram,5.6,2005,0
+"1,438",Chanakya the Warrior,4.9,2005,0
+"1,440",Man on Mission Taqatwar,6,2005,0
+"1,442",Man On Mission Jaanbaaz,6.6,2005,0
+"1,446",Danger,5.7,2005,0
+"1,451",Amu,7.3,2005,22
+"1,452",Vaada,6,2005,14
+"1,453",Yehi Hai Zindagi,5.4,2005,0
+"1,454",Elaan,4.6,2005,17
+"1,455",Insan,4.6,2005,4
+"1,456",Kisna: The Warrior Poet,4.6,2005,7
+"1,457",Page 3,7.3,2005,5
+"1,458",Chakachak,4.1,2005,0
+"1,459",Padmashree Laloo Prasad Yadav,2.5,2005,3
+"1,460",Blackmail,4.7,2005,9
+"1,461",Black,8.1,2005,10
+"1,462",Shabd,5.1,2005,6
+"1,463",Bullet: Ek Dhamaka,3.7,2005,1
+"1,464",Jurm,5.4,2005,8
+"1,465",Sheesha,3.5,2005,5
+"1,466",Chaahat Ek Nasha...,3.9,2005,3
+"1,467",Hum Dum,6.9,2005,2
+"1,468",Garam,4.8,2005,0
+"1,470",Chehraa,4.2,2005,2
+"1,471",Qatal E Aam,4.1,2005,0
+"1,472",Bewafaa,4.1,2005,15
+"1,473",Sins,4.2,2005,7
+"1,474",Fun: Can Be Dangerous Sometimes,3.4,2005,2
+"1,475",Nigehbaan: The Third Eye,2.6,2005,0
+"1,476",Relax,5.1,2005,0
+"1,478",Zameer,3.6,2005,5
+"1,479",Socha Na Tha,7.4,2005,14
+"1,480",Chand Sa Roshan Chehra,4.8,2005,0
+"1,481",Karam,5.8,2005,15
+"1,482",Chand Bujh Gaya,6.8,2005,3
+"1,483",Tango Charlie,6.1,2005,14
+"1,484",My Brother... Nikhil,7.3,2005,23
+"1,485",Zeher,5.6,2005,13
+"1,486",Yehi Hai High Society,5.2,2005,1
+"1,487",Athbhutha Dweepu,5.5,2005,4
+"1,488",Lucky: No Time for Love,4.7,2005,3
+"1,490",Naam Gum Jaayega,6.1,2005,1
+"1,491",Mumbai Express,5.9,2005,10
+"1,492",Khamoshh... Khauff Ki Raat,3.4,2005,10
+"1,493",Kuchh Meetha Ho Jaye,3.4,2005,2
+"1,494",Sab Kuch Hai Kuch Bhi Nahin,5.7,2005,0
+"1,495",Waqt: The Race Against Time,6.7,2005,2
+"1,496",Subhash Chandra Bose,3,2005,1
+"1,497",Chicken Tikka Masala,5.7,2005,14
+"1,498",Khullam Khulla Pyaar Karen,4.2,2005,4
+"1,499",Kaal,4.7,2005,2
+"1,500",Main Aisa Hi Hoon,4.9,2005,15
+"1,501",Kyaa Kool Hai Hum,6.1,2005,20
+"1,502",Revati,5.4,2005,1
+"1,503",Netaji Subhas Chandra Bose: The Forgotten Hero,7.6,2005,17
+"1,504",Jo Bole So Nihaal,3.7,2005,16
+"1,506",Naina,4.2,2005,25
+"1,507",Nazar,4,2005,6
+"1,508",Shabnam Mausi,6.4,2005,0
+"1,509",Chocolate: Deep Dark Secrets,4.9,2005,7
+"1,510",Bunty Aur Babli,6.2,2005,24
+"1,511",'D',6.8,2005,17
+"1,512",Bachke Rehna Re Baba,2.9,2005,3
+"1,513",Mastaani,4.6,2005,0
+"1,514",Koi Mere Dil Mein Hai,4.9,2005,4
+"1,515",Parineeta,7.2,2005,5
+"1,516",Silsiilay,4.2,2005,5
+"1,517",Ssukh,5,2005,1
+"1,518",Paheli,6.3,2005,4
+"1,519",Pehchaan: The Face of Truth,5.8,2005,2
+"1,520",Chetna: The Excitement,3.1,2005,0
+"1,522",C U at 9,4.2,2005,0
+"1,523",Bhagmati,6.3,2005,2
+"1,524",Sarkar,7.6,2005,17
+"1,525",Yakeen,5.7,2005,9
+"1,527",Dus,5.5,2005,12
+"1,528",Fareb,4.3,2005,7
+"1,529",Double Cross: Ek Dhoka,4.2,2005,1
+"1,531",Maine Pyaar Kyun Kiya,5.6,2005,3
+"1,532",Mashooka,5.4,2005,0
+"1,533",Hum Tum Aur Mom: Mother Never Misguides,4.7,2005,0
+"1,534",Super,5,2005,2
+"1,535",Viruddh... Family Comes First,7.1,2005,21
+"1,536",Kasak,4.7,2005,0
+"1,537",Kantatar,6,2005,0
+"1,538",7 1/2 Phere: More Than a Wedding,5.3,2005,5
+"1,539",...Yahaan,7.5,2005,17
+"1,540",Sehar,7.7,2005,13
+"1,541",Mangal Pandey: The Rising,6.6,2005,6
+"1,542",Film Star,5.3,2005,0
+"1,543",Athadu,8.2,2005,8
+"1,544",Antarmahal: Views of the Inner Chamber,7.2,2005,8
+"1,545",Amar Joshi Shahid Ho Gaya,5.6,2005,0
+"1,547",A Sublime Love Story: Barsaat,4.3,2005,11
+"1,548",My Wife's Murder,6.2,2005,22
+"1,550",Jogi the King,7.9,2005,0
+"1,551",No Entry,6.6,2005,4
+"1,552",Iqbal,8.1,2005,4
+"1,553",Bye Bye Miss Goodnight,6.7,2005,0
+"1,554",Pyaar Mein Twist,5.6,2005,2
+"1,555",Ramji Londonwaley,6.6,2005,13
+"1,556",Aashiq Banaya Aapne: Love Takes Over,4.3,2005,8
+"1,557",Dansh,7.3,2005,2
+"1,558",Water,7.7,2005,6
+"1,559",Salaam Namaste,6.1,2005,7
+"1,561",Topless,3.4,2005,0
+"1,562",James,3.8,2005,5
+"1,563",Jalwa: Fun in Love,5.1,2005,0
+"1,564",Mumbai Godfather,3.7,2005,1
+"1,565",Dil Jo Bhi Kahey...,4.7,2005,5
+"1,566",Devaki,4.4,2005,0
+"1,569",Maine Gandhi Ko Nahin Mara,7.3,2005,16
+"1,570",Siskiyaan,5.3,2005,2
+"1,571",Rain: The Terror Within...,3.4,2005,7
+"1,572",The Angrez,7.5,2005,4
+"1,574",Parzania,7.6,2005,5
+"1,575","Main, Meri Patni... Aur Woh!",7.2,2005,2
+"1,576",Darpan Ke Peechhe,6.3,2005,0
+"1,577",The Blue Umbrella,7.3,2005,21
+"1,578",Koi Aap Sa: But Lovers Have to Be Friends,5.6,2005,8
+"1,579",Sarivar Sari,7.5,2005,0
+"1,580",Hanuman,7.8,2005,9
+"1,581",Navarasa,7.5,2005,1
+"1,582","U, Bomsi N Me",7.9,2005,0
+"1,583",15 Park Avenue,7.2,2005,9
+"1,584",Garam Masala,6.7,2005,21
+"1,585",Shaadi No. 1,3.5,2005,13
+"1,586",Kyon Ki...,5.5,2005,12
+"1,587",Angoor,6.2,2005,0
+"1,589",Taj Mahal: An Eternal Love Story,5.3,2005,8
+"1,590",Ek Khiladi Ek Haseena,5.8,2005,15
+"1,591",Deewane Huye Paagal,5.4,2005,17
+"1,592",The Film,6.4,2005,5
+"1,593",Bobby: Love and Lust,5.3,2005,0
+"1,594",Apaharan,7.4,2005,5
+"1,595",Mr Ya Miss,3.8,2005,10
+"1,596",Home Delivery: Aapko... Ghar Tak,3.4,2005,3
+"1,597",Dubai Return,7.4,2005,2
+"1,598",Ek Ajnabee,5.3,2005,25
+"1,599",Kal: Yesterday and Tomorrow,7.4,2005,3
+"1,600",Neal 'N' Nikki,3.2,2005,2
+"1,601",Kalyug,6.5,2005,16
+"1,602",Bluffmaster!,6.6,2005,13
+"1,603",Sandai Kozhi,6.9,2005,5
+"1,604",Sudesi,4,2005,0
+"1,605",Jai Chiranjeeva,5.8,2005,4
+"1,606",Dosti: Friends Forever,5.3,2005,21
+"1,607",Vaah! Life Ho Toh Aisi!,4.6,2005,16
+"1,608",Shikhar,5.1,2005,14
+"1,609",Anjaane: The Unknown,3.9,2005,2
+"1,610",Opium Royale,7.4,2005,0
+"1,611",Divorce: Not Between Husband and Wife,6.1,2005,0
+"1,612",Anjaan,2.6,2005,0
+"1,613",Classic Dance of Love,4.9,2005,0
+"1,614",Dhamkee,3.8,2005,0
+"1,615",The White Land,6,2005,1
+"1,616",Twinkle Twinkle Little Star,6.7,2005,0
+"1,618",Mazaa Mazaa,3,2005,1
+"1,619",Meri Aashiqui,5.5,2005,2
+"1,620",Suddha,8.3,2005,1
+"1,621",Ho Jaata Hai Pyaar,3.1,2005,0
+"1,622",Tum... Ho Na!,5.1,2005,2
+"1,623",Mr Prime Minister,5.3,2005,1
+"1,624",99.9 FM,5,2005,0
+"1,628",Encounter Dayanayak,6.1,2005,1
+"1,631",Missed Call,8.3,2005,0
+"1,632",Main Cabrewali,9.8,2005,0
+"1,634",Ek Din Anjaane Mein,7,2005,0
+"1,635",Meri Majboorii...,3.9,2006,0
+"1,636",Adharm,6.8,2006,0
+"1,637",Hyderabad Nawabs,6.7,2006,0
+"1,641","Haseena: Smart, Sexy, Dangerous",3.4,2006,0
+"1,642",Husn: Love and Betrayal,7.2,2006,0
+"1,643",Madhubaala,5.1,2006,0
+"1,647",Aaj Ka Gunda Raaj,6.7,2006,0
+"1,649",Insaaf Ki Jung,5,2006,0
+"1,652",Virana,4.6,2006,0
+"1,653",No Parking,5.8,2006,0
+"1,654",Shaitani Dracula,5.9,2006,1
+"1,658",Jawani Diwani: A Youthful Joyride,2.9,2006,7
+"1,659",Family: Ties of Blood,5.7,2006,20
+"1,660",Zinda,4.8,2006,6
+"1,661",My Bollywood Bride,4.7,2006,14
+"1,662",Aathi,4.3,2006,7
+"1,663",Rang De Basanti,8.1,2006,1
+"1,664",Mixed Doubles,6.5,2006,9
+"1,665",Mere Jeevan Saathi,3.4,2006,16
+"1,666",Aksar,4.9,2006,13
+"1,667",Holiday,4.5,2006,4
+"1,668",Love in Japan,3.7,2006,0
+"1,669",Doodh Aur Apheem,7.6,2006,0
+"1,670",Chingaari,4.7,2006,10
+"1,671",Fight Club: Members Only,3.5,2006,14
+"1,672",Aisa Kyon Hota Hai?,3.9,2006,0
+"1,673",Rafta Rafta: The Speed,5.8,2006,0
+"1,674",Humko Tumse Pyaar Hai,5.3,2006,7
+"1,675",Taxi No. 9 2 11: Nau Do Gyarah,7.2,2006,13
+"1,676",Sun Zarra,5.8,2006,0
+"1,677",Teesri Aankh: The Hidden Camera,2.7,2006,8
+"1,678",Malamaal Weekly,7,2006,23
+"1,679",Jigyaasa,3.8,2006,21
+"1,680",Umar,5.5,2006,1
+"1,681",Souten: The Other Woman,5,2006,1
+"1,682",Naughty Boy,3.9,2006,2
+"1,683",Chand Ke Paar Chalo,7.5,2006,0
+"1,684",Banaras,6.2,2006,15
+"1,685",Saawan... The Love Season,2.9,2006,17
+"1,686",Shaadi Se Pehle,4.2,2006,7
+"1,687",Humko Deewana Kar Gaye,5.2,2006,1
+"1,688",Ei8ht Shani,4.8,2006,3
+"1,689",Pyare Mohan,3.4,2006,8
+"1,690",36 China Town,5.7,2006,24
+"1,691",Free Entry,5.3,2006,0
+"1,692",Return to Rajapur,6.1,2006,9
+"1,693",Darna Zaroori Hai,5.4,2006,25
+"1,694",Gangster,7.2,2006,25
+"1,696",Dhadkanein,4.8,2006,0
+"1,698",Strings,9.4,2006,0
+"1,699","Tom, Dick, and Harry",3.3,2006,4
+"1,700",Tathastu,4.5,2006,10
+"1,701",Khan kluay,5.6,2006,10
+"1,702",Ankahee,4.7,2006,14
+"1,703",Aatma,4.2,2006,2
+"1,704",Fanaa,7.1,2006,6
+"1,705",Sacred Evil,6.1,2006,1
+"1,706",Love Ke Chakkar Mein,4.2,2006,2
+"1,707",Men Not Allowed,4.1,2006,0
+"1,708",Phir Hera Pheri,7.1,2006,15
+"1,709",Chup Chup Ke,6.9,2006,14
+"1,710",Alag: He Is Different.... He Is Alone...,3.7,2006,14
+"1,712",Vidhyaarthi: The Power of Students,5.4,2006,0
+"1,713",Krrish,6.4,2006,21
+"1,714",Asthram,4.7,2006,0
+"1,715",Corporate,6.6,2006,5
+"1,716",Ladies Tailor,3.7,2006,3
+"1,718",Golmaal: Fun Unlimited,7.4,2006,4
+"1,719",Valley of Flowers,6.9,2006,15
+"1,720",Yun Hota Toh Kya Hota,6.5,2006,11
+"1,721",The Killer,4.7,2006,9
+"1,722",Bas Ek Pal,5.8,2006,13
+"1,723",Omkara,8.1,2006,18
+"1,724",We R Friends,4.9,2006,0
+"1,725",Anokhe Amar Shaheed Baba Deep Singh Ji,8.5,2006,0
+"1,726",Darwaza Bandh Rakho,5.4,2006,7
+"1,727",Anthony Kaun Hai?,5.2,2006,7
+"1,728",Kabhi Alvida Naa Kehna,6,2006,22
+"1,729",Ahista Ahista,7,2006,17
+"1,730",Katputtli,5.8,2006,0
+"1,731",Sandwich,5.5,2006,9
+"1,732",Aap Ki Khatir,3.9,2006,9
+"1,733",Shaadi Karke Phas Gaya Yaar,4,2006,16
+"1,734",Lage Raho Munna Bhai,8,2006,20
+"1,735",Jaane Hoga Kya,3.1,2006,2
+"1,736",Yatra,6.2,2006,6
+"1,737",Naksha,3.5,2006,17
+"1,738",Dil Diya Hai,3.8,2006,7
+"1,739",Kachchi Sadak,6.3,2006,0
+"1,740",Pyaar Ke Side Effects,6.8,2006,19
+"1,741",Kabul Express,6.8,2006,11
+"1,742",Shiva,4,2006,5
+"1,743",Little Box of Sweets,6.7,2006,0
+"1,744",Khosla Ka Ghosla!,8.3,2006,4
+"1,745",Rocky,4,2006,2
+"1,746",Dor,8,2006,1
+"1,748",Woh Lamhe ...,6.5,2006,23
+"1,749",Jai Santoshi Maa,7.4,2006,0
+"1,751",Hota Hai Dil Pyaar Mein Paagal,5.1,2006,0
+"1,752",Mera Dil Leke Dekho,6.6,2006,0
+"1,753",Zindaggi Rocks,4.8,2006,6
+"1,754",Iqraar: By Chance,5,2006,1
+"1,755",Gafla,7.4,2006,5
+"1,756",Bhoot Unkle,4.2,2006,1
+"1,757",Jaana... Let's Fall in Love,5.9,2006,1
+"1,758",Utthaan,4.6,2006,0
+"1,759",Jaan-E-Mann: Let's Fall in Love... Again,6.1,2006,7
+"1,760",Don,7.1,2006,13
+"1,761",Ganga,4.6,2006,0
+"1,762",Offshore,6.6,2006,0
+"1,763",Chinnodu,4.5,2006,0
+"1,764",Umrao Jaan,5.3,2006,18
+"1,766",Apna Sapna Money Money,5.4,2006,9
+"1,767",Vivah,6.6,2006,14
+"1,768",Deadline: Sirf 24 Ghante,6.3,2006,8
+"1,769",Kizhakku Kadarkarai Salai,3,2006,1
+"1,770",Come December,5.7,2006,1
+"1,771",Unns: Love... Forever,3.4,2006,2
+"1,772",Janani,4.4,2006,0
+"1,773",Shoonya,7,2006,1
+"1,774",Dhoom:2,6.5,2006,8
+"1,775",Sarhad Paar,3.8,2006,2
+"1,776",Sivappathikaaram,5.6,2006,0
+"1,777",Faryad moorcheha,6.1,2006,6
+"1,778",Anuranan,6.8,2006,7
+"1,779",Sainikudu,5,2006,4
+"1,780",With Luv... Tumhaara,6.4,2006,1
+"1,781",Baabul,5.4,2006,2
+"1,783",Aryan: Unbreakable,4.4,2006,5
+"1,784",Dil Se Pooch... Kidhar Jaana Hai,7.6,2006,0
+"1,785",Bhagam Bhag,6.5,2006,10
+"1,786",I See You,4.3,2006,11
+"1,788",Struggler,6.6,2006,0
+"1,789",Mr. 100%,4.7,2006,0
+"1,790",Palak,7,2006,0
+"1,791",Rehguzar,6.1,2006,1
+"1,792",Kudiyon Ka Hai Zamaana,3.7,2006,5
+"1,793",Prateeksha,5.5,2006,0
+"1,794",Bold,4.8,2006,0
+"1,795",Sauda the deal,5.2,2006,0
+"1,802",Devi Maa,7.6,2006,1
+"1,806",Yeh Raat,No ratings,2006,1
+"1,809",Ek Se Mera Kya Hoga,5.4,2006,0
+"1,810",Shahji Ki Advice,8,2006,0
+"1,815",Lilkee,9.3,2006,0
+"1,820",Aarya,4.4,2007,1
+"1,822",Thulasi,5.4,2007,0
+"1,823",Bed Room,9.4,2007,0
+"1,832",Gabbar Singh,5.2,2007,0
+"1,836",Game,5.7,2007,0
+"1,837",Guru,7.7,2007,10
+"1,838",Anwar,6.5,2007,3
+"1,839",Aalwar,2.8,2007,6
+"1,840",Risk,6.6,2007,3
+"1,841",Mr. Hot Mr. Kool,4.3,2007,0
+"1,842",Salaam-E-Ishq,5.2,2007,2
+"1,843",Foto,6.9,2007,0
+"1,844",Traffic Signal,6.6,2007,13
+"1,845",Undertrial,6.8,2007,5
+"1,846",Evadithe Nakenti,6.4,2007,1
+"1,847",Marigold,4.8,2007,2
+"1,849",Eklavya,6.1,2007,25
+"1,850",Honeymoon Travels Pvt. Ltd.,6.1,2007,15
+"1,851",Adhura Sapna,4.8,2007,0
+"1,852",Nehlle Pe Dehlla,3.7,2007,3
+"1,853",Nishabd,5.4,2007,17
+"1,854",Wounded,6.5,2007,1
+"1,855",Red: The Dark Side,3.6,2007,4
+"1,856",1971,8.2,2007,19
+"1,857",Lezioni di volo,6.2,2007,2
+"1,858",Just Married: Marriage Was Only the Beginning!,5.3,2007,8
+"1,859",Hattrick,4.3,2007,2
+"1,860",Eik Dasttak,5.6,2007,0
+"1,861",Namastey London,7.1,2007,9
+"1,862",I'm in Love,9,2007,0
+"1,863",Khanna & Iyer,5.3,2007,1
+"1,864",Delhii Heights,4.3,2007,8
+"1,865",Say Salaam India: 'Let's Bring the Cup Home',6.3,2007,1
+"1,866",Khallas: The Beginning of End,4.5,2007,0
+"1,867",Shakalaka Boom Boom,2.5,2007,9
+"1,868",The Other End of the Line,6.1,2007,8
+"1,869",Big Brother,4.1,2007,5
+"1,871",Life Mein Kabhie Kabhiee,5.9,2007,7
+"1,872",Loins of Punjab Presents,7.1,2007,10
+"1,873",Bheja Fry,7.6,2007,5
+"1,874",Athisayan,3.1,2007,3
+"1,875",Kya Love Story Hai,3.4,2007,4
+"1,876",Aur Pappu Pass Ho Gaya,4.1,2007,0
+"1,877",Panga Naa Lo,6,2007,0
+"1,878",Ta Ra Rum Pum,5.6,2007,20
+"1,879",Sirf Romance: Love by Chance,3.4,2007,0
+"1,880","Good Boy, Bad Boy",3.9,2007,11
+"1,881",Life in a Metro,7.4,2007,21
+"1,882",Raqeeb,4.4,2007,11
+"1,883",Ek Chalis Ki Last Local,7.3,2007,2
+"1,884",Dharm,8,2007,23
+"1,885",Shootout at Lokhandwala,7.1,2007,20
+"1,886",Cheeni Kum,6.8,2007,17
+"1,888",Fool N Final,3.5,2007,20
+"1,889",The Train: Some Lines Should Never Be Crossed...,4.4,2007,4
+"1,890",MP3: Mera Pehla Pehla Pyaar,7,2007,13
+"1,891",Swami,6.9,2007,4
+"1,892",Red Swastik,3,2007,2
+"1,893",Ghutan,5.2,2007,2
+"1,895",Jhoom Barabar Jhoom,3.7,2007,10
+"1,897",Chain Kulii Ki Main Kulii,5.8,2007,5
+"1,898",Chandrahas,4.4,2007,0
+"1,899",Old Iss Gold,5.5,2007,0
+"1,900",Cape Karma,4.2,2007,0
+"1,901",Apne,6.1,2007,3
+"1,902",Aap Kaa Surroor: The Moviee - The Real Luv Story,2.3,2007,20
+"1,903",Awarapan,7.4,2007,5
+"1,904",Manikanda,3.8,2007,0
+"1,905",My Friend Ganesha,4.7,2007,1
+"1,906",Journey Bombay to Goa: Laughter Unlimited,4.7,2007,4
+"1,907",Jahan Jaaeyega Hamen Paaeyega,3.9,2007,0
+"1,908",Satyabhama,3.8,2007,0
+"1,909",Jai Jagannath,8.7,2007,1
+"1,910",Naqaab,5.4,2007,16
+"1,911",Partner,5.8,2007,18
+"1,912",Frozen,7,2007,8
+"1,913","Gandhi, My Father",7.3,2007,2
+"1,915",Cash,3.4,2007,20
+"1,916",Chak De! India,8.1,2007,19
+"1,917",Kaafila,3.3,2007,3
+"1,919",Buddha Mar Gaya,2.9,2007,4
+"1,920",Heyy Babyy,6,2007,10
+"1,921",Kaisay Kahein...,6.2,2007,2
+"1,923",Ram Gopal Varma Ki Aag,1.4,2007,21
+"1,924",The Darjeeling Limited,7.2,2007,23
+"1,925",Fear,3.8,2007,1
+"1,926",Dhokha,6.3,2007,8
+"1,927",Victoria No. 203: Diamonds Are Forever,3.7,2007,2
+"1,928",Dhamaal,7.4,2007,10
+"1,929",Apna Asmaan,6.3,2007,4
+"1,930",Darling,4,2007,11
+"1,931",Hungama in Dubai,6.8,2007,0
+"1,933",Inimey Nangathan,7.2,2007,2
+"1,934",Nanhe Jaisalmer: A Dream Come True,6.3,2007,5
+"1,935",Aggar: Passion Betrayal Terror,4.3,2007,4
+"1,936",Dhol,6.4,2007,22
+"1,938",Kuch Khatta Kuch Meetha,4.3,2007,0
+"1,939",Manorama: Six Feet Under,7.6,2007,11
+"1,940",Johnny Gaddaar,7.9,2007,22
+"1,941",Dil Dosti Etc,6.9,2007,22
+"1,942",Go,2.8,2007,2
+"1,943",It's Breaking News,5.6,2007,1
+"1,944",Chhodon Naa Yaar,4,2007,1
+"1,945",50 Lakh,6.7,2007,1
+"1,946",Laaga Chunari Mein Daag: Journey of a Woman,5.4,2007,2
+"1,947",Bhool Bhulaiyaa,7.4,2007,4
+"1,948",Speed,3.1,2007,8
+"1,949",No Smoking,7.3,2007,8
+"1,950",Jab We Met,7.9,2007,12
+"1,951",Humne Jeena Seekh Liya,7.4,2007,0
+"1,952",Mumbai Salsa,5.1,2007,4
+"1,953",Mahek,8.6,2007,0
+"1,954",Saawariya,5.2,2007,1
+"1,955",Om Shanti Om,6.7,2007,1
+"1,956",Dumkata,5.8,2007,0
+"1,957",The Great Indian Butterfly,6.1,2007,4
+"1,958",Tsunami 81,8.6,2007,0
+"1,959",Gangotri,5.9,2007,0
+"1,960",F. M. (Fun Aur Masti),8.6,2007,2
+"1,961",Dhan Dhana Dhan Goal,5.1,2007,12
+"1,962",Gauri: The Unborn,3.8,2007,5
+"1,963",Aaja Nachle,6.2,2007,20
+"1,964",Dus Kahaniyaan,5.7,2007,22
+"1,965",Khoya Khoya Chand,6.3,2007,14
+"1,966",68 Pages,6.4,2007,1
+"1,967",Strangers,5.2,2007,3
+"1,968",Welcome,7,2007,24
+"1,969",Taare Zameen Par,8.4,2007,18
+"1,970",Showbiz,3.8,2007,3
+"1,971",Return of Hanuman,7.3,2007,13
+"1,972",Ek Krantiveer: Vasudev Balwant Phadke,6.8,2007,0
+"1,973",Highway 203,6.4,2007,0
+"1,974",Deha,6.6,2007,3
+"1,975",Raakh: A Poem Masked in Blood,3.6,2007,0
+"1,976",Main Rony Aur Jony,6.5,2007,0
+"1,979",Jaane Bhi Do Yaaro,7.8,2007,0
+"1,983",Dhakad Chhora 2,8.7,2007,0
+"1,986",Naya Jigar,6.5,2007,0
+"1,987",Shri Siddhivinayak Mahima,5.3,2007,0
+"1,988",Staying Alive,7.1,2007,1
+"1,989",Dosh,6.8,2007,0
+"1,990",Salaam Bacche,5.5,2007,0
+"1,994",Kunwara Paying Guest,7.4,2007,0
+"1,995",Nirakar Chhaya,8.4,2007,1
+"2,000",Ram Raaj,8.3,2008,0
+"2,001",Mission: The Last War,6.8,2008,0
+"2,002",8 PM: A Murder Mystery,4.6,2008,0
+"2,008",Phir Tauba Tauba,3.4,2008,0
+"2,009",My Name Is Anthony Gonsalves,3.9,2008,5
+"2,010",Halla Bol,6.1,2008,11
+"2,011",Pazhani,2.8,2008,1
+"2,012",Bombay to Bangkok,4.7,2008,10
+"2,013",Tulsi: Mathrudevobhava,6.2,2008,3
+"2,014",Sunday,5.5,2008,18
+"2,015",Mr. Medhavi,6,2008,1
+"2,016",Rama Rama Kya Hai Dramaaa,4,2008,5
+"2,018",Superstar,6.1,2008,5
+"2,019",Mithya,7.1,2008,4
+"2,020",Visakha Express,5,2008,1
+"2,021",Jodhaa Akbar,7.5,2008,4
+"2,022",Dhara,4.8,2008,0
+"2,023",Tathagatha Buddha The Life & Times of Gautama Buddha,8,2008,0
+"2,024",Black & White,6.2,2008,9
+"2,026",Kabhi Socha Bhi Na Tha,6.2,2008,0
+"2,027",26th July at Barista,3.2,2008,1
+"2,028",Race,6.6,2008,19
+"2,029",One Two Three,5.4,2008,16
+"2,030","Lovesongs: Yesterday, Today & Tomorrow",5.1,2008,0
+"2,031",Antardwand,7.3,2008,13
+"2,032",Shaurya: It Takes Courage to Make Right... Right,7.3,2008,6
+"2,033",Bhram: An Illusion,4.1,2008,4
+"2,034",U Me Aur Hum,5.9,2008,11
+"2,035",Kahaani Gudiya Ki...: True Story of a Woman,6.3,2008,0
+"2,036",Krazzy 4,4.2,2008,12
+"2,037",Pehli Nazar Ka Pyaar,5,2008,0
+"2,039",Yaar Meri Zindagi,4.8,2008,3
+"2,040",Tashan,3.8,2008,3
+"2,041",Sirf....: Life Looks Greener on the Other Side,5.9,2008,3
+"2,042",Mumbai Cutting,6.1,2008,0
+"2,043",Anamika: The Untold Story,3.7,2008,5
+"2,044",Mr. White Mr. Black,3.4,2008,2
+"2,045",Pranali: The Tradition,5.8,2008,1
+"2,046",Bhootnath,6.3,2008,24
+"2,047",Jimmy,1.7,2008,8
+"2,048",Karma: Crime. Passion. Reincarnation,5.1,2008,1
+"2,049",Jannat: In Search of Heaven...,6.9,2008,7
+"2,050",Dhoom Dadakka,3.5,2008,1
+"2,051",Don Muthu Swami,5,2008,1
+"2,052",Ghatothkach,7.2,2008,0
+"2,053",Woodstock Villa,3.5,2008,11
+"2,055",Sarkar Raj,6.7,2008,2
+"2,056",Aamir,7.6,2008,6
+"2,057",Hum Sey Hai Jahaan,3.9,2008,0
+"2,058",Mere Baap Pehle Aap,5.4,2008,14
+"2,059",Summer 2007,6.4,2008,5
+"2,060",Dashavatar,6.4,2008,7
+"2,061",Memsahab,7,2008,0
+"2,062",De Taali,4.2,2008,6
+"2,063",Haal-e-Dil,3.5,2008,0
+"2,064",Khushboo: The Fragraance of Love,4,2008,1
+"2,065",Thodi Life Thoda Magic,4.1,2008,0
+"2,067",Thoda Pyaar Thoda Magic,4.9,2008,19
+"2,068",Via Darjeeling,5.4,2008,5
+"2,069",Jaane Tu... Ya Jaane Na,7.4,2008,1
+"2,070",Love Story 2050,2.6,2008,19
+"2,071",Mehbooba,3.8,2008,6
+"2,072",Khela,7.3,2008,3
+"2,073",When Kiran Met Karen,5.2,2008,0
+"2,074",Kismat Konnection,5.3,2008,23
+"2,075",Contract,4.1,2008,8
+"2,076",Money Hai Toh Honey Hai,2.9,2008,11
+"2,077",Mission Istaanbul: Darr Ke Aagey Jeet Hai!,3.5,2008,22
+"2,079",Kuselan,4.8,2008,8
+"2,080",Ugly Aur Pagli,3.8,2008,18
+"2,081",Singh Is Kinng,5.7,2008,14
+"2,082",Good Luck!,3.1,2008,0
+"2,083",Y.M.I. Yeh Mera India,7.7,2008,15
+"2,084",Bachna Ae Haseeno,6.2,2008,13
+"2,085",God Tussi Great Ho,3.6,2008,16
+"2,086",Sathyam,5,2008,0
+"2,087",Maan Gaye Mughall-E-Azam,3.2,2008,12
+"2,088",Mumbai Meri Jaan,7.7,2008,17
+"2,089",Phoonk,3.9,2008,15
+"2,090",My Friend Ganesha 2,5.2,2008,1
+"2,091",Mukhbiir,6.9,2008,5
+"2,092",C Kkompany,5.5,2008,9
+"2,093",Rock On!!,7.7,2008,12
+"2,094",Chamku,4.5,2008,14
+"2,095",Hijack,3.8,2008,10
+"2,096",Firaaq,7.3,2008,6
+"2,097",A Wednesday,8.1,2008,14
+"2,100",1920,6.4,2008,23
+"2,101",Ru-Ba-Ru,6,2008,13
+"2,102",Welcome to Sajjanpur,6.9,2008,10
+"2,103",Saas Bahu Aur Sensex,5.1,2008,4
+"2,104",Hulla,6.4,2008,6
+"2,105",Hari Puttar: A Comedy of Terrors,1.9,2008,3
+"2,106",The Firm Land,5.8,2008,0
+"2,107",Souryam,5.7,2008,0
+"2,108",Rafoo Chakkar: Fun on the Run,3.4,2008,2
+"2,109",Kidnap,4.6,2008,24
+"2,110",Drona,2,2008,10
+"2,112",Ocean of an Old Man,7,2008,0
+"2,113",Hello,3.3,2008,24
+"2,114",Karzzzz,2.3,2008,2
+"2,115",Roadside Romeo,4.9,2008,2
+"2,116",Heroes,5.7,2008,21
+"2,117",Fashion,6.9,2008,22
+"2,118",Golmaal Returns,5.1,2008,19
+"2,119",Cheenti Cheenti Bang Bang,5.4,2008,0
+"2,120",Ek Vivaah... Aisa Bhi,5.3,2008,13
+"2,121",Rang Rasiya,7,2008,19
+"2,122",EMI: Liya Hai To Chukana Padega,4.4,2008,8
+"2,123",Dasvidaniya,7.8,2008,9
+"2,124",Love Has No Language,6.5,2008,0
+"2,125",Dostana,6.5,2008,17
+"2,126",Desh Drohi,1.2,2008,22
+"2,127",Yuvvraaj,4.1,2008,4
+"2,128",Oye Lucky! Lucky Oye!,7.7,2008,5
+"2,129",Sorry Bhai!,6.2,2008,21
+"2,131",Meerabai Not Out,4,2008,4
+"2,132",Dil Kabaddi,5.8,2008,11
+"2,133","Oh, My God!!",5.4,2008,6
+"2,134",Khallballi: Fun Unlimited,6.3,2008,0
+"2,135",Maharathi,7.1,2008,19
+"2,136",Gumnaam: The Mystery,3.1,2008,6
+"2,137",Rab Ne Bana Di Jodi,7.2,2008,14
+"2,138",Wafaa,3.9,2008,3
+"2,139",Ghajini,7.3,2008,7
+"2,140",Panchamirtham,6.8,2008,0
+"2,141",Zabardast,6,2008,0
+"2,142",Secrets of the Seven Sounds,5.9,2008,0
+"2,144",Chanchal,4.4,2008,0
+"2,148",Pirate's Blood,4.7,2008,2
+"2,149",Saanncha,6.6,2008,0
+"2,150",Phir Kabhi,7.3,2008,3
+"2,154",Veer Yodha Prithviraj Chauhan,7.9,2008,0
+"2,155",Bach ke Zara,3,2008,1
+"2,158",Ishaara,5.7,2008,0
+"2,164",Pal Pal Dil Ke Ssaat,5.3,2009,0
+"2,168",Mudrank: The Stamp,7.6,2009,1
+"2,173",Bad Luck Govind,4,2009,1
+"2,174",The President Is Coming,6.8,2009,11
+"2,175",Maska,5.3,2009,1
+"2,176",Chandni Chowk to China,4.2,2009,9
+"2,178",Aasma: The Sky Is the Limit,3.9,2009,2
+"2,179",Raaz: The Mystery Continues,5.7,2009,11
+"2,180",42 Kms.,4.6,2009,1
+"2,181",Luck by Chance,7.1,2009,1
+"2,182",Victory,3.8,2009,11
+"2,183",Mere Khwabon Mein Jo Aaye,5.6,2009,4
+"2,184",Dev.D,7.9,2009,14
+"2,185",Chal Chala Chal,4.6,2009,2
+"2,186",Street Fighter: The Legend of Chun-Li,3.7,2009,6
+"2,187",Billu,6.3,2009,10
+"2,188",The Stoneman Murders,7.3,2009,5
+"2,189",Jugaad,5.4,2009,1
+"2,190",Delhi-6,6.1,2009,19
+"2,191",Kisse Pyaar Karoon?,3.4,2009,3
+"2,192",Siddharth: The Prisoner,6.7,2009,1
+"2,193","Karma, Confessions and Holi",2.9,2009,1
+"2,194",The Forest,4.9,2009,1
+"2,195",13B: Fear Has a New Address,7.3,2009,14
+"2,196",Dhoondte Reh Jaoge,5.6,2009,12
+"2,197",Jai Veeru: Friends Forever,3.7,2009,5
+"2,198",Barah Aana,6.7,2009,17
+"2,199",Gulaal,8,2009,22
+"2,200",Aloo Chaat,5.9,2009,7
+"2,201",Kisaan,5.5,2009,8
+"2,202",Straight,5.8,2009,5
+"2,203",Lottery,3.3,2009,0
+"2,204",Veera Madakari,6.8,2009,0
+"2,205",Aa Dekhen Zara,5.2,2009,17
+"2,206",Ek: The Power of One,4.8,2009,3
+"2,207",8 x 10 Tasveer,5.4,2009,15
+"2,208",Ek Se Bure Do,4.2,2009,1
+"2,209",Coffee House,7.6,2009,0
+"2,210",Punnami Nagu,4.4,2009,0
+"2,212",Meri Padosan,4,2009,0
+"2,213",The Fakir of Venice,5.1,2009,6
+"2,214",Kal Kissne Dekha,3.5,2009,6
+"2,215","Gallit Gondhal, Dillit Mujra",7.5,2009,1
+"2,216",99,7.3,2009,1
+"2,217",Suno Na.. Ek Nanhi Aawaz,5.3,2009,1
+"2,218",Ghar Pardes,5.6,2009,0
+"2,219",Namah Shivaya Shantaya,6.5,2009,0
+"2,221",Sanam Teri Kasam,4.1,2009,2
+"2,222",Detective Naani,6.4,2009,1
+"2,225",Madly Bangali,7.1,2009,4
+"2,226",Mohandas,7.2,2009,4
+"2,227",Care of Footpath,7.7,2009,0
+"2,228",Team: The Force,4.2,2009,1
+"2,229",Anubhav: An Actor's Tale,6.2,2009,0
+"2,230",Maruti Mera Dosst,8.5,2009,2
+"2,231",Zor Lagaa Ke... Haiya!,6.2,2009,1
+"2,232",Kirkit,5.4,2009,0
+"2,234",Paying Guests,4.3,2009,10
+"2,235",Let's Dance,6.2,2009,0
+"2,236",Hum Phirr Milein Na Milein,4.7,2009,0
+"2,237",Raftaar - An Obsession,7.4,2009,0
+"2,238",Thanks Maa,8.1,2009,8
+"2,239",Quick Gun Murugun: Misadventures of an Indian Cowboy,5.8,2009,10
+"2,241",New York,6.8,2009,11
+"2,242",Runway: Love Among Gun Shots...,4.5,2009,0
+"2,243",Khargosh,8.4,2009,1
+"2,244",Kambakkht Ishq,3.8,2009,13
+"2,246",Shortkut - The Con Is On,3.4,2009,9
+"2,247",Sankat City,6.3,2009,7
+"2,248",Morning Walk,4.9,2009,2
+"2,249",Samrajyam,4.4,2009,0
+"2,251",Jashnn: The Music Within,4.5,2009,4
+"2,252",Dekh Bhai Dekh: Laughter Behind Darkness,5,2009,0
+"2,253",Red Alert: The War Within,6.5,2009,11
+"2,254",Luck,4.8,2009,18
+"2,255",Love Aaj Kal,6.8,2009,20
+"2,256",Agyaat,3,2009,20
+"2,257",Teree Sang: A Kidult Love Story,6.4,2009,7
+"2,258",Chal Chalein,6.8,2009,0
+"2,259",Anjaneyulu,4.9,2009,2
+"2,260",Kaminey,7.4,2009,4
+"2,261",Sikandar,6.4,2009,6
+"2,262",Shadow,5.1,2009,1
+"2,263",Daddy Cool: Join the Fun,3.9,2009,5
+"2,264",Love Khichdi,5.7,2009,5
+"2,265",Toss: A Flip of Destiny,7.9,2009,0
+"2,266",Love Game,7,2009,0
+"2,267",Well Done Abba!,7.3,2009,16
+"2,268",Chintu Ji,5.6,2009,10
+"2,269",Fox,5.3,2009,8
+"2,270","Three: Love, Lies, Betrayal",6,2009,2
+"2,271",Aagey Se Right,5.2,2009,5
+"2,272",Bachelor Party,4.8,2009,0
+"2,273",Baabarr,5.6,2009,8
+"2,274",Vaada Raha... I Promise,5.7,2009,8
+"2,275",Aamras: The Sweet Taste of Friendship,5.8,2009,0
+"2,276",Aadmi Ki Aurat Aur Anya Kahaniya,7.7,2009,0
+"2,277",Dil Bole Hadippa!,4.7,2009,9
+"2,278",Tales of Siva 1,7.2,2009,0
+"2,279",Cooking with Stella,5.4,2009,3
+"2,280",Wanted,6.6,2009,12
+"2,281","Road, Movie",6.8,2009,25
+"2,282",Blue Oranges,6.4,2009,6
+"2,283",What's Your Raashee?,4.8,2009,8
+"2,284",Fast Forward,5.5,2009,1
+"2,286",Wake Up Sid,7.6,2009,10
+"2,287",Do Knot Disturb,3.7,2009,13
+"2,288",Mahathma,5.8,2009,0
+"2,289",Acid Factory,5.1,2009,5
+"2,290",Vihir,7.6,2009,2
+"2,291",3 Nights 4 Days,5.4,2009,0
+"2,292",Main Aurr Mrs Khanna,3.4,2009,18
+"2,293",Blue,3.7,2009,15
+"2,294",All the Best: Fun Begins,6.1,2009,11
+"2,295",Meri Life Mein Uski Wife,5,2009,0
+"2,296",Fruit & Nut,3,2009,3
+"2,297",Love Kaa Taddka,4.9,2009,1
+"2,298",Ek Niranjan,5.3,2009,2
+"2,299",London Dreams,5.4,2009,11
+"2,300",Aladin,4.7,2009,25
+"2,301",Tera Kya Hoga Johnny,6,2009,4
+"2,302",340,5.6,2009,0
+"2,303",Road to Sangam,7.4,2009,22
+"2,304",Fatso!,5.7,2009,5
+"2,305","Raat Gayi, Baat Gayi?",6.3,2009,10
+"2,306",The White Elephant,5.8,2009,1
+"2,307",Jail,6.2,2009,21
+"2,308",Ajab Prem Ki Ghazab Kahani,6.3,2009,4
+"2,309",3 Idiots,8.4,2009,25
+"2,311",Saluun,No ratings,2009,2
+"2,312",Aisi Deewangi,4.7,2009,0
+"2,313",Tum Mile,5,2009,13
+"2,314",Aao Wish Karein,5.1,2009,5
+"2,315",Kurbaan,5.7,2009,1
+"2,316",Marega Salaa,4.8,2009,1
+"2,317",De Dana Dan,5.7,2009,23
+"2,318",Yeh Hai Malegaon Ka Superman,7.8,2009,1
+"2,319",Radio: Love on Air,3.6,2009,3
+"2,320",Paa,7.1,2009,2
+"2,321",Rocket Singh: Salesman of the Year,7.5,2009,25
+"2,322",Tales of Siva 2,8.2,2009,0
+"2,323",Aseema: Beyond Boundaries,5.7,2009,0
+"2,324",World Cupp 2011,3,2009,1
+"2,327",S.R.K.,7.7,2009,0
+"2,328",Ek Tho Chance,4.6,2009,1
+"2,330",Horn 'OK' Pleassss,4.2,2009,0
+"2,331",Madholal Keep Walking,6.3,2009,1
+"2,334",Aapa Akka,6.6,2009,0
+"2,338",Dreams... Do Come True,7.7,2009,0
+"2,340",Accident on Hill Road,4.1,2010,6
+"2,341",Bolo Raam,5.2,2009,0
+"2,342",Sanam Hum Aapke Hain...,5.9,2009,0
+"2,343",Dvandva,6.9,2009,1
+"2,344",Banaras,3.7,2009,0
+"2,345",Kaash Mere Hote,5.9,2009,0
+"2,346",London Calling,4.1,2009,0
+"2,347","Do Paise Ki Dhoop, Chaar Aane Ki Baarish",6.6,2009,7
+"2,348",Garjjanam,4.9,2009,0
+"2,354",Son of Dracula,6.6,2009,0
+"2,355",Houseful,6.7,2009,0
+"2,356",Bal Ganesh 2,7.3,2009,0
+"2,364",Dulha Mil Gaya,4.2,2010,10
+"2,365",Pyaar Impossible!,4.9,2010,23
+"2,366",Namo Venkatesa,5.4,2010,0
+"2,367",Chance Pe Dance,4.8,2010,15
+"2,368",Bhavnao Ko Samjho,4.5,2010,1
+"2,369",Hello Hum Lallann Bol Rahe Hain,6.4,2010,3
+"2,370",The Waiting Room,5.7,2010,0
+"2,371",Veer,4.6,2010,17
+"2,372",Seetharamula Kalyanam Lankalo,4.3,2010,0
+"2,373",Peepli [Live],7.4,2010,23
+"2,374",Rann,6.9,2010,11
+"2,375",Fired,4.5,2010,9
+"2,376",Striker,6.9,2010,6
+"2,378",My Name Is Khan,7.9,2010,6
+"2,380",Click,3.5,2010,3
+"2,381",Toh Baat Pakki!,5.3,2010,3
+"2,382",Teen Patti,4.2,2010,20
+"2,383",Karthik Calling Karthik,7.1,2010,7
+"2,384",Prem Kaa Game,3.5,2010,1
+"2,385",The Impossible Murder,6.6,2010,1
+"2,386",Atithi Tum Kab Jaoge?,6.4,2010,12
+"2,387",Rokkk,4.2,2010,3
+"2,388",Hello Zindagi,6.4,2010,0
+"2,389",Right Yaaa Wrong,6.6,2010,14
+"2,390",Hide & Seek,4.2,2010,10
+"2,391",Do Dilon Ke Khel Mein,5.5,2010,1
+"2,392",Na Ghar Ke Na Ghaat Ke,6.2,2010,9
+"2,393",Trump Card,3.2,2010,0
+"2,394",Swaha: Life Beyond Superstition,3.4,2010,1
+"2,395",Lahore,6.3,2010,14
+"2,396",Shaapit: The Cursed,5.4,2010,13
+"2,397",Mittal V/S Mittal,4.1,2010,1
+"2,398","LSD: Love, Sex Aur Dhokha",7.2,2010,14
+"2,399",Idiot Box,4.4,2010,1
+"2,401",Bohlol Dana - A Sage of Baghdad,8.2,2010,0
+"2,402",Hum Tum Aur Ghost,4.9,2010,8
+"2,403",Muskurake Dekh Zara,4.8,2010,0
+"2,404",My Friend Ganesha 3,5,2010,1
+"2,405",Ashok Chakra: Tribute to Real Heroes,5.2,2010,0
+"2,406",Pankh,3.8,2010,6
+"2,407",Sadiyaan: Boundaries Divide... Love Unites,4.4,2010,4
+"2,408",Tum Milo Toh Sahi,5.6,2010,9
+"2,409",Saat Saheliyan,4.2,2010,0
+"2,410",Jaane Kahan Se Aayi Hai,4.4,2010,3
+"2,411",Prince,4.4,2010,2
+"2,412",Get Educated: Paathshaala,5,2010,12
+"2,413",Phoonk 2,3.1,2010,7
+"2,414",Apartment: Rent at Your Own Risk,3.4,2010,7
+"2,415",City of Gold - Mumbai 1982: Ek Ankahee Kahani,6.7,2010,12
+"2,416",Bird Idol,5.6,2010,0
+"2,417",Musaa: The Most Wanted,3.7,2010,1
+"2,418",Kuchh Kariye,4.2,2010,0
+"2,420",Housefull,5.4,2010,22
+"2,421",Chase,5,2010,2
+"2,422",Soch Lo,6.5,2010,1
+"2,423",Badmaa$h Company,6.1,2010,1
+"2,425",I Am Kalam,7.9,2010,20
+"2,426",Bumm Bumm Bole,6.1,2010,8
+"2,427",Admissions Open,3.3,2010,4
+"2,428",Kushti,4.4,2010,2
+"2,429",Vroom,5.7,2010,0
+"2,430",Udaan,8.1,2010,16
+"2,431",Kites,6,2010,19
+"2,432",Golimar,6,2010,2
+"2,433",Pratisaad: The Response,8.2,2010,0
+"2,435",Raajneeti,7.1,2010,21
+"2,436",Panchakshari,3.7,2010,2
+"2,437",The Camp,6.5,2010,0
+"2,438",Raavan,5.4,2010,4
+"2,439",Krantiveer: The Revolution,4.5,2010,1
+"2,440",Mr. Singh/Mrs. Mehta,4.2,2010,5
+"2,441",The Film Love.Com... The Ultimate Killing Site,3.7,2010,0
+"2,442",I Hate Luv Storys,5.6,2010,6
+"2,443",Bengaloored,8.2,2010,3
+"2,444",Milenge Milenge,4,2010,10
+"2,446",Lamhaa: The Untold Story of Kashmir,5,2010,12
+"2,447",Tere Bin Laden,7.2,2010,8
+"2,448",Khatta Meetha,5.8,2010,13
+"2,449",Once Upon a Time in Mumbaai,7.4,2010,20
+"2,450",Aisha,5.1,2010,9
+"2,451",Help,4.2,2010,6
+"2,453",Lafangey Parindey,5.2,2010,15
+"2,455",Hello Darling,2.8,2010,1
+"2,456",Aashayein,7.1,2010,14
+"2,457",We Are Family,5.6,2010,22
+"2,458",The Film Emotional Atyachar,6.2,2010,6
+"2,459",Mallika,4.7,2010,0
+"2,460",Dabangg,6.2,2010,7
+"2,461",Memories in March,7.3,2010,10
+"2,462",Harud,6.5,2010,5
+"2,463",Life Express,4.5,2010,1
+"2,464",I Am,6.8,2010,12
+"2,465",Dunno Y Na Jaane Kyun...,3.7,2010,1
+"2,466",Anjaana Anjaani,5.7,2010,11
+"2,467",Dhobi Ghat,7,2010,2
+"2,468",That Girl in Yellow Boots,6.6,2010,9
+"2,469",Pairon Talle,5.8,2010,2
+"2,470",Khichdi: The Movie,7.3,2010,20
+"2,471",Benny and Babloo,6.2,2010,6
+"2,472",Pump Up the Mandali,7.4,2010,0
+"2,473",Do Dooni Chaar,7.5,2010,13
+"2,474",Crook: It's Good to Be Bad,5.1,2010,6
+"2,475",Bachao - Inside Bhoot Hai...,5.6,2010,0
+"2,476",Knock Out,6.1,2010,14
+"2,477",Kajraare,3,2010,4
+"2,478",Aakrosh,7,2010,12
+"2,479",Ramayana: The Epic,5.8,2010,13
+"2,480",Hisss,2.9,2010,24
+"2,481",Jhootha Hi Sahi,6.2,2010,21
+"2,482",Mirch,6.5,2010,10
+"2,483",Rakhta Charitra,7.6,2010,17
+"2,484",Dus Tola,7,2010,5
+"2,485",Malik Ek,7.5,2010,0
+"2,486",Daayen Ya Baayen,7.1,2010,11
+"2,487",Pappu Can't Dance Saala,6.5,2010,4
+"2,488",Nakshatra,5.1,2010,2
+"2,489",I Am 24,6,2010,9
+"2,490",Mee Sindhutai Sapkal,7.8,2010,2
+"2,491",The Untitled Kartik Krishnan Project,5.6,2010,2
+"2,492",Phas Gaye Re Obama,7.5,2010,23
+"2,493",Action Replayy,4.2,2010,12
+"2,494",Golmaal 3,5.5,2010,21
+"2,495",A Flat,4.4,2010,6
+"2,496",Ramaa: The Saviour,3.5,2010,4
+"2,497",Guzaarish,7.4,2010,1
+"2,499",Shahrukh Bola 'Khoobsurat Hai Tu'... And She Believed in It,4.5,2010,2
+"2,502",Break Ke Baad,5.1,2010,23
+"2,504",Allah Ke Banday,5.9,2010,7
+"2,505",Payback,5.6,2010,0
+"2,506",Khuda Kasam,3.1,2010,3
+"2,507",Tere Ishq Nachaya,2.6,2010,0
+"2,508",Khelein Hum Jee Jaan Sey,5.8,2010,20
+"2,509",Rakhta Charitra 2,6.5,2010,16
+"2,510",No Problem,4.4,2010,18
+"2,511",Band Baaja Baaraat,7.2,2010,10
+"2,512",Iti Mrinalini: An Unfinished Letter...,6.8,2010,3
+"2,513",Kaalo,3.5,2010,6
+"2,514",Toonpur Ka Superrhero,4.3,2010,4
+"2,515",Tees Maar Khan,2.6,2010,25
+"2,516",Isi Life Mein...!,5.5,2010,5
+"2,517",Fauj Mein Mauj,4.9,2010,0
+"2,518",He - The Only One,6,2010,0
+"2,521",Lava Kusa: The Warrior Twins,7.1,2010,0
+"2,522",Ada... A Way of Life,3.7,2010,1
+"2,525",10ml LOVE,6.4,2010,2
+"2,526",Phillum City,5.5,2010,0
+"2,528",Arohan,7,2010,0
+"2,530",Bhoot and Friends,5.3,2010,0
+"2,532",Guru Sishyan,2.8,2010,0
+"2,534",Shor in the City,7.2,2010,4
+"2,535",Ek Aadat,3.9,2010,0
+"2,537",My Husband's Wife,3.9,2010,0
+"2,538",Xang Xang Klang,No ratings,2010,1
+"2,539",Pataliputhra,7.7,2010,0
+"2,551",No One Killed Jessica,7.2,2011,17
+"2,552",Ashoka the Hero,8.3,2011,0
+"2,553",Vikalp,7.1,2011,1
+"2,554",Impatient Vivek,2.2,2011,0
+"2,555",Turning 30!!!,5.3,2011,6
+"2,556",Yamla Pagla Deewana,5.7,2011,25
+"2,557",Mumbai Mast Kallander,6.8,2011,0
+"2,558",Double Boss,6.1,2011,0
+"2,559",Aashiqui.In,3.8,2011,1
+"2,560",Hostel,5.2,2011,6
+"2,561",Dil Toh Baccha Hai Ji,5.9,2011,7
+"2,562",Shuttlecock Boys,6.7,2011,13
+"2,563",Laadli Laila,5.9,2011,2
+"2,565",Yeh Saali Zindagi,7.4,2011,1
+"2,566",United Six,7.7,2011,0
+"2,567",Angel,6.5,2011,1
+"2,568",Tum Hi To Ho...,4.2,2011,0
+"2,569",Patiala House,5.6,2011,11
+"2,570",7 Khoon Maaf,6.3,2011,19
+"2,571",Kaccha Limboo,6.5,2011,2
+"2,572",Masti Express,4.1,2011,0
+"2,573",Tanu Weds Manu,6.8,2011,23
+"2,574",Satrangee Parachute,5.4,2011,1
+"2,575",Utt Pataang,6,2011,6
+"2,576",Yeh Faasley,5.9,2011,2
+"2,577",Happy Husbands,3.3,2011,0
+"2,578",Monica,5.4,2011,2
+"2,579",Game,5.2,2011,23
+"2,580",F.A.L.T.U,4.7,2011,13
+"2,581",Thank You,4.7,2011,7
+"2,582",Teen Thay Bhai,4.2,2011,5
+"2,583",Zokkomon,4.1,2011,3
+"2,584",Dharti,7.2,2011,5
+"2,585",Dum Maaro Dum,6.2,2011,8
+"2,586",Naughty @ 40,2.7,2011,4
+"2,587",Chalo Dilli,6.8,2011,19
+"2,588",Men Will Be Men,6.2,2011,0
+"2,589",Abhishapt,8.2,2011,0
+"2,590",Haunted - 3D,6.3,2011,13
+"2,591",Luv Ka the End,4.9,2011,11
+"2,592",Love U... Mr. Kalakaar!,5.4,2011,5
+"2,593",Shagird,7,2011,17
+"2,594",Ragini MMS,5.1,2011,25
+"2,595",Stanley Ka Dabba,7.8,2011,18
+"2,596",404: Error Not Found,7.3,2011,24
+"2,598",A Strange Love Story,3.6,2011,0
+"2,599",Pyaar Ka Punchnama,7.6,2011,6
+"2,600",Noukadubi,7.7,2011,8
+"2,602",The Train,4.7,2011,0
+"2,603",Kucch Luv Jaisaa,4.4,2011,2
+"2,604",Sheetalbhabi.com,4,2011,0
+"2,605",Ready,4.8,2011,6
+"2,606",Shaitan,7.2,2011,5
+"2,607",Love Express,5.1,2011,3
+"2,608",Bhindi Baazaar,6.1,2011,8
+"2,609",Always Kabhi Kabhi,4.2,2011,4
+"2,610",Bheja Fry 2,4.7,2011,13
+"2,611",Bin Bulaye Baraati,3.7,2011,1
+"2,612",Cycle Kick,6.8,2011,2
+"2,614",Double Dhamaal,3.9,2011,20
+"2,616",Bhuddah Hoga Tera Baap,5.6,2011,3
+"2,617",Delhi Belly,7.5,2011,24
+"2,619",Patang,6.2,2011,4
+"2,620",Chillar Party,7.5,2011,3
+"2,621",Murder 2,6.3,2011,19
+"2,622",Zindagi Na Milegi Dobara,8.2,2011,24
+"2,623",5ters: Castle of Dark Master,5.2,2011,0
+"2,624",Singham,6.8,2011,10
+"2,626",Khap,4.9,2011,3
+"2,627",Gandhi to Hitler,2.4,2011,7
+"2,628",Bubble Gum,7.4,2011,9
+"2,630",Chala Mussaddi - Office Office,6.1,2011,3
+"2,631",Aagaah: The Warning,3.8,2011,1
+"2,632",Hair is Falling: A Serious Comedy Film,5.4,2011,0
+"2,633",Milta Hai Chance by Chance,7.7,2011,0
+"2,635",Aarakshan,6.2,2011,23
+"2,636",Phhir,5.2,2011,3
+"2,637",The Idiotmaker's Gravity Tour,7,2011,0
+"2,638",Chatur Singh Two Star,1.8,2011,7
+"2,639",Sahi Dhandhe Galat Bande,5.3,2011,6
+"2,640",Veettilekkulla Vazhi,6.8,2011,1
+"2,641",Not a Love Story,5.2,2011,20
+"2,642",Chitkabrey,4,2011,3
+"2,643",Yeh Dooriyan,4.7,2011,2
+"2,644",Stand By,6.5,2011,0
+"2,645",Shabri,5.8,2011,3
+"2,646",Bodyguard,4.7,2011,25
+"2,647",The Murderer: Hamilton Palace,4.3,2011,2
+"2,648",Mummy Punjabi: Superman Ki Bhi Maa!!,4.9,2011,1
+"2,649",U R My Jaan,5.9,2011,3
+"2,650",Mere Brother Ki Dulhan,5.9,2011,23
+"2,651",Trishna,6,2011,2
+"2,652",Breakaway,5.6,2011,4
+"2,653",Michael,5.2,2011,2
+"2,655",Trapped in Tradition: Rivaaz,5.3,2011,5
+"2,656",Jaana Pehchana,5.1,2011,1
+"2,658",Mausam,4.8,2011,13
+"2,659",Saheb Biwi Aur Gangster,7.1,2011,14
+"2,660",Mumbhai Connection,5.3,2011,0
+"2,662",Vedi,3.8,2011,5
+"2,663",Chargesheet,6.5,2011,4
+"2,664",Tere Mere Phere,5.4,2011,7
+"2,665",Force,6.5,2011,4
+"2,666",Hum Tum Shabana,3.5,2011,1
+"2,667",Sonchidi,6.6,2011,0
+"2,668",Vellore Maavattam,5.9,2011,1
+"2,669",Rascals,3,2011,14
+"2,670",Love Breakups Zindagi,5.8,2011,8
+"2,671",Soundtrack,7.1,2011,7
+"2,672",Kshay,6.6,2011,3
+"2,673",My Friend Pinto,5.3,2011,3
+"2,674",Aazaan,4.4,2011,8
+"2,675",Mod,6.5,2011,5
+"2,676",Mujhse Fraaandship Karoge,6.9,2011,9
+"2,677",Jo Dooba So Paar: It's Love in Bihar!,5.8,2011,2
+"2,678",Be-Careful,3.1,2011,0
+"2,679",Nirvana13,9.2,2011,23
+"2,680",Ra.One,4.7,2011,21
+"2,682",Damadamm!,4.5,2011,5
+"2,683",Tell Me O Kkhuda,2.4,2011,3
+"2,684",Delhi in a Day,6.2,2011,7
+"2,685",Loot,3.5,2011,3
+"2,686",Miley - Naa Miley - Hum,3.3,2011,1
+"2,687",Rockstar,7.7,2011,3
+"2,689",Gattu,7.4,2011,10
+"2,690",Na Jaane Kabse,6,2011,1
+"2,691",Shakal Pe Mat Ja,5,2011,2
+"2,692",Who's There,4.2,2011,0
+"2,694",Desi Boyz,5.7,2011,16
+"2,695",Dam999,3.3,2011,21
+"2,696",The Dirty Picture,6.6,2011,8
+"2,697",Ladies vs. Ricky Bahl,6,2011,4
+"2,698",Ye Stupid Pyar,5.4,2011,0
+"2,699",Lanka,5.7,2011,2
+"2,700",Jo Hum Chahein,5.3,2011,0
+"2,702",Don 2,7,2011,9
+"2,703",Chaloo Movie,4.4,2011,0
+"2,704",Kya Yahi Sach Hai,6.6,2011,1
+"2,707",Chhota Bheem aur Krishna: Mayanagari,8.2,2011,2
+"2,708",Society Kaam Se Gayi,5.2,2011,0
+"2,709",The Artist,8.2,2011,0
+"2,711",Prince Vaali,7.6,2011,0
+"2,713",SHUDRA: The Untouchables,9,2011,1
+"2,715",Ek Din... Achanak,5.2,2011,0
+"2,716",Haat - The Weekly Bazaar,6,2011,0
+"2,717",Queens! Destiny of Dance,5.9,2011,1
+"2,719",Hum Do Anjaane,3.8,2011,0
+"2,720",Tum Ho Yaara,4.2,2011,0
+"2,724",I Was Born in Delhi,4.2,2011,0
+"2,730",Baarood (The Fire) - A Love Story,3.3,2012,2
+"2,731",Jhansi Ki Rani Laxmibai,8.1,2012,1
+"2,737",Players,4.2,2012,12
+"2,738",This Weekend,3.3,2012,1
+"2,739",Sadda Adda,7.1,2012,12
+"2,740",Ghost,2.4,2012,5
+"2,741",Chaalis Chauraasi,6.1,2012,4
+"2,742",Tutiya Dil,5.1,2012,1
+"2,743",Khokababu,5.1,2012,0
+"2,744",100% Love,5.9,2012,0
+"2,745",Agneepath,6.9,2012,3
+"2,746",Love You to Death,6,2012,0
+"2,747",Married 2 America,4.8,2012,0
+"2,748",Gali Gali Chor Hai,5.2,2012,8
+"2,749",Staying Alive,5.8,2012,0
+"2,750",Ek Main Aur Ekk Tu,5.8,2012,8
+"2,751",Valentine's Night,2.7,2012,0
+"2,752",Ekk Deewana Tha,6.1,2012,25
+"2,753",Bhobhar - The Live Ash,5.4,2012,0
+"2,754",?: A Question Mark,5.8,2012,8
+"2,755",The Life Kung-Fu,No ratings,2012,1
+"2,756",Tere Naal Love Ho Gaya,5.8,2012,18
+"2,757",Jodi Breakers,3.7,2012,4
+"2,759",Life's Good,6.7,2012,0
+"2,760",London Paris New York,5.6,2012,13
+"2,761",Paan Singh Tomar,8.2,2012,2
+"2,762",Diary of a Butterfly,3.8,2012,3
+"2,763",Will You Marry Me,4.6,2012,0
+"2,764",Kahaani,8.1,2012,6
+"2,765",7 Welcome to London,4.4,2012,15
+"2,766",Chaar Din Ki Chandni,4.1,2012,5
+"2,767",Bijuka,6.9,2012,0
+"2,769",Zindagi Tere Naam,5,2012,1
+"2,770",Akkad Bakkad Bam Be Bo,8.4,2012,0
+"2,771",Say Yes to Love,6.5,2012,0
+"2,772",Agent Vinod,5.2,2012,11
+"2,774",Blood Money,5,2012,10
+"2,775",Bumboo,6.2,2012,5
+"2,776",Stalker,3.9,2012,0
+"2,777",Housefull 2,5.3,2012,5
+"2,779",Chhodo Kal Ki Baatein,7.4,2012,2
+"2,780",Bittoo Boss,4.1,2012,5
+"2,781",Ab Hoga Dharna Unlimited,3.6,2012,0
+"2,782",Le Halua Le,5.4,2012,0
+"2,783",Vicky Donor,7.8,2012,4
+"2,784",Hate Story,5.3,2012,5
+"2,785",Life Ki Toh Lag Gayi,5.1,2012,4
+"2,786",Tezz,4.1,2012,23
+"2,787",The Wish Fish,3.4,2012,4
+"2,788",Jannat 2,6.2,2012,2
+"2,789",Kaksparsh,8,2012,13
+"2,790",Love Recipe,4.8,2012,0
+"2,791",Dangerous Ishhq,4.1,2012,18
+"2,792",Ishaqzaade,6.5,2012,17
+"2,793",Department,3.2,2012,21
+"2,794",Chhota Bheem and the Curse of Damyaan,6.1,2012,5
+"2,795",Peddlers,6.9,2012,1
+"2,796",Gangs of Wasseypur,8.2,2012,16
+"2,797",Miss Lovely,7.8,2012,24
+"2,798",Yeh Khula Aasmaan,7.2,2012,1
+"2,799",Arjun: The Warrior Prince,6.8,2012,22
+"2,800",Rakhtbeej,3.1,2012,0
+"2,802",Rowdy Rathore,5.8,2012,8
+"2,803",Thadaiyara Thaakka,7.3,2012,6
+"2,804",Bekhabar,6.5,2012,0
+"2,805",Shanghai,7.3,2012,22
+"2,806",Ferrari Ki Sawaari,6.4,2012,6
+"2,807",Qasam Se Qasam Se,4.2,2012,0
+"2,808",Chakradhaar,4.4,2012,2
+"2,809",Kevi Rite Jaish,8,2012,8
+"2,810",Teri Meri Kahaani,4.8,2012,19
+"2,812",Daal Mein Kuch Kaala Hai,3.9,2012,1
+"2,813",3 Bachelors,3.3,2012,0
+"2,814",Maximum,4.7,2012,5
+"2,815",Overtime,5,2012,0
+"2,816",Delhi Safari,5.4,2012,23
+"2,818",Bol Bachchan,5.6,2012,14
+"2,820",Siyaah..,5.4,2012,1
+"2,821",Cocktail,6.3,2012,18
+"2,822",Mere Dost Picture Abhi Baaki Hai,3.7,2012,3
+"2,823",Challo Driver,5.9,2012,3
+"2,824",Shudra the Rising,8.2,2012,14
+"2,825",Kyaa Super Kool Hain Hum,5,2012,17
+"2,826",Aalaap,6.2,2012,0
+"2,828",Yeh Jo Mohabbat Hai,5.4,2012,0
+"2,829",Jism 2,3,2012,25
+"2,830",Krishna Aur Kans,6.5,2012,9
+"2,831",5 Ghantey Mien 5 Crore,5.8,2012,0
+"2,832",Lala Hardaul,8.1,2012,0
+"2,834",Ek Tha Tiger,5.5,2012,20
+"2,835",Second Marriage Dot Com,7.9,2012,2
+"2,836",Shirin Farhad Ki Toh Nikal Padi,4.6,2012,14
+"2,838",Joker,2.4,2012,18
+"2,839",B.A. Pass,6.4,2012,9
+"2,840",Midnight's Children,6.2,2012,6
+"2,841",From Sydney with Love,6.3,2012,1
+"2,843",Ship of Theseus,8,2012,5
+"2,844",Shahid,8.2,2012,18
+"2,845",Riwayat,4.6,2012,0
+"2,846",Raaz 3: The Third Dimension,4.1,2012,25
+"2,847",Chal Pichchur Banate Hain,6.4,2012,0
+"2,848",Barfi!,8.1,2012,17
+"2,849",English Vinglish,7.8,2012,4
+"2,850",Jeena Hai Toh Thok Daal,5.5,2012,0
+"2,851",The Lost Tape,5.2,2012,1
+"2,852",Ganga Devi,5.5,2012,0
+"2,854",Heroine,5,2012,17
+"2,855",Kamaal Dhamaal Malamaal,4.2,2012,3
+"2,856",Life of Pi,7.9,2012,3
+"2,857",OMG: Oh My God!,8.1,2012,24
+"2,858",Jalpari: The Desert Mermaid,7.2,2012,6
+"2,859",Kismet Love Paisa Dilli,4.4,2012,18
+"2,860",Manthrikan,3.5,2012,0
+"2,861",Filmistaan,7.3,2012,14
+"2,862",Aiyyaa,4.3,2012,12
+"2,863",Chakravyuh,6.8,2012,9
+"2,864",Chittagong,7.3,2012,25
+"2,866",Login,5.7,2012,2
+"2,867",Maharana Pratap: The First Freedom Fighter,5.4,2012,2
+"2,868",Mumbai Cha Raja,6.3,2012,2
+"2,869",Bhoot Returns,2.6,2012,11
+"2,871",Oass,6.9,2012,2
+"2,872",Student of the Year,5.2,2012,13
+"2,873",Janleva 555,4.2,2012,0
+"2,874",Ajab Gazabb Love,4.4,2012,4
+"2,875",Rush,3.8,2012,5
+"2,877",Swami Ayyappan,8.1,2012,1
+"2,878",Ata Pata Lapatta,5.4,2012,1
+"2,879",Luv Shuv Tey Chicken Khurana,6.6,2012,1
+"2,880",1920: Evil Returns,4.8,2012,20
+"2,881",Future to Bright Hai Ji,6.2,2012,1
+"2,882",Sons of Ram,7.1,2012,1
+"2,884",Le Gaya Saddam,6.7,2012,0
+"2,885",Ballad of Rustom,8.4,2012,0
+"2,886",It's Rocking: Dard-E-Disco,4.3,2012,0
+"2,887",Jab Tak Hai Jaan,6.7,2012,14
+"2,888",Son of Sardaar,4.1,2012,5
+"2,889",Yakshi Faithfully Yours,3.9,2012,3
+"2,890",Edegarike,8.1,2012,3
+"2,891",Gangoobai,7.7,2012,8
+"2,892",Talaash,7.2,2012,5
+"2,893",Aayna Ka Bayna,6.1,2012,2
+"2,894",I.D.,7,2012,7
+"2,896",Khiladi 786,4.3,2012,7
+"2,897",Four Two Ka One,4.5,2012,0
+"2,898",The Last Act,6.6,2012,0
+"2,899",Myoho,7.5,2012,2
+"2,901",Dabangg 2,4.8,2012,13
+"2,902",Aug-02,4.5,2012,0
+"2,903",2 Nights in Soul Valley,7.7,2012,0
+"2,906",Mr Fraud,4,2012,0
+"2,908",Pehla Sitara,7.6,2012,0
+"2,909",The Bhai,8.1,2012,0
+"2,911",Hansa,7.9,2012,1
+"2,912",Luv U Soniyo,5.6,2012,1
+"2,913",Rangdari,8.1,2012,0
+"2,914",Shobhna's Seven Nights,7,2012,0
+"2,915",One More...,7.8,2012,0
+"2,916",In the Name of Tai,7.8,2012,0
+"2,917",Jaanleva Black Blood,6.8,2012,0
+"2,920",Greater Elephant,5.8,2012,0
+"2,928",Ko: Yad,7.9,2012,1
+"2,940",An Unfold Fact Lateef,3.3,2015,2
+"2,945",Table No.21,7.2,2013,2
+"2,946",Rajdhani Express,2.7,2013,5
+"2,947",Dehraadun Diary,5.8,2013,0
+"2,949",Matru Ki Bijlee Ka Mandola,5.6,2013,19
+"2,951",The Nincompoops,7.5,2013,0
+"2,952",Inkaar,6.1,2013,7
+"2,953",Bandook,7,2013,17
+"2,954",Mumbai Mirror,5,2013,5
+"2,955",Race 2,5.3,2013,7
+"2,956",Main Krishna Hoon,5.1,2013,2
+"2,957",Vishwaroopam,7.9,2013,16
+"2,958",Akaash Vani,6.3,2013,20
+"2,959",David,6.2,2013,10
+"2,960",The Light: Swami Vivekananda,8.5,2013,1
+"2,961",Mahabharat Aur Barbareek,6.9,2013,2
+"2,962",Listen... Amaya,6.5,2013,16
+"2,963",Deewana Main Deewana,2.5,2013,3
+"2,964",Mai,6.7,2013,3
+"2,966",ABCD (Any Body Can Dance),6.3,2013,17
+"2,967",Special Chabbis,8,2013,21
+"2,968",Dracula 2012,2,2013,4
+"2,969",The Unsound,4.7,2013,3
+"2,970",Kai po che!,7.8,2013,19
+"2,971",Murder 3,4.9,2013,20
+"2,972",Attahaasa,6.9,2013,1
+"2,973",Jayantabhai Ki Luv Story,5.3,2013,13
+"2,974",Aadhi Bhagavan,5.4,2013,12
+"2,975",Zila Ghaziabad,3.6,2013,15
+"2,977","I, Me aur Main",4.7,2013,10
+"2,978",The Attacks of 26/11,6.9,2013,6
+"2,979",Bloody Isshq,7.8,2013,0
+"2,981",Saheb Biwi Aur Gangster Returns,6.7,2013,18
+"2,982",Saare Jahaan Se Mehnga...,7.1,2013,9
+"2,983",Mere Dad Ki Maruti,6.4,2013,23
+"2,984",3G: A Killer Connection,3.6,2013,13
+"2,985",Jolly LLB,7.5,2013,19
+"2,987",Kajri,6.4,2013,0
+"2,988",Aatma,3.9,2013,9
+"2,989",Rangrezz,5.2,2013,6
+"2,990",Sona Spa,3.4,2013,1
+"2,991",The Adventures of Sinbad,7.1,2013,0
+"2,993",Himmatwala,1.7,2013,20
+"2,994",Mere Haule Dost,7.2,2013,0
+"2,995",Chashme Baddoor,5.4,2013,4
+"2,996",Rise of the Zombie,3.3,2013,22
+"2,997",Nautanki Saala!,5.8,2013,1
+"2,998",Commando,6.2,2013,19
+"2,999",Ek Thi Daayan,5.7,2013,21
+"3,000",2 Little Indians,8,2013,11
+"3,001",The World of Fashion,7.2,2013,0
+"3,002",Aashiqui 2,7,2013,3
+"3,003",Shree,6.3,2013,8
+"3,004",Shootout at Wadala,6,2013,11
+"3,005",Fireflies,5.8,2013,2
+"3,006",Bombay Talkies,6.6,2013,22
+"3,007",Oonga,7.3,2013,0
+"3,008",Bin Phere Free Me Tere,4.6,2013,1
+"3,009",Chhota Bheem and the Throne of Bali,5.8,2013,3
+"3,011",Go Goa Gone,6.6,2013,17
+"3,012",Gippi,5.6,2013,9
+"3,013",Aurangzeb,6.5,2013,17
+"3,014",Rangeelay,4.9,2013,3
+"3,016",Ugly,7.9,2013,4
+"3,017",I Don't Luv U,6.5,2013,0
+"3,018",Monsoon Shootout,6.6,2013,14
+"3,019",The Lunchbox,7.8,2013,25
+"3,020",Ishkq in Paris,3.8,2013,7
+"3,022",Hum Hai Raahi CAR Ke,2.7,2013,1
+"3,023",Zindagi 50 50,2.8,2013,1
+"3,025",Yeh Jawaani Hai Deewani,7.2,2013,17
+"3,026",Meridian Lines,6.6,2013,0
+"3,027",Dreamz: The Movie,6.2,2013,0
+"3,028",Yamla Pagla Deewana 2,3.4,2013,12
+"3,029",Kyun Hua Achanak,5.6,2013,0
+"3,030",Chhota Bheem in Junglee Kabila,7.7,2013,0
+"3,032",My Cornerstone,8.3,2013,0
+"3,033",Fukrey,6.9,2013,16
+"3,035",Shivalika,No ratings,2013,1
+"3,036",Ankur Arora Murder Case,6.5,2013,20
+"3,037",Lakeer Ka Fakeer,5.3,2013,1
+"3,038",The Dirty Relation,3.6,2013,0
+"3,040",Raanjhanaa,7.6,2013,14
+"3,041",Shortcut Romeo,2.8,2013,3
+"3,042",Enemmy,5,2013,2
+"3,043",The Bright Day,5.8,2013,2
+"3,044",Ghanchakkar,5.9,2013,17
+"3,045",Lootera,7.4,2013,7
+"3,046",Policegiri,4.1,2013,7
+"3,049",Chhota Bheem in the Incan Adventure,7.7,2013,0
+"3,050",Bhaag Milkha Bhaag,8.2,2013,11
+"3,051",Sahasam,6.7,2013,8
+"3,052",Sixteen,6.3,2013,13
+"3,053",Tara: The Journey of Love and Passion,5.6,2013,2
+"3,054",Shorts,6.4,2013,4
+"3,055",Boyss Toh Boyss Hain,5.3,2013,0
+"3,056",Zara sambhal ke,6.7,2013,0
+"3,057",Ramaiya Vastavaiya,5.7,2013,25
+"3,058",D-Day,7.2,2013,4
+"3,059",The Good Road,6,2013,12
+"3,060",Issaq,4.4,2013,6
+"3,061",Ek Bura Aadmi,6.2,2013,0
+"3,062",Bajatey Raho,5.3,2013,7
+"3,063",Nasha,3.2,2013,13
+"3,064",A Journey of Samyak Buddha,8,2013,0
+"3,065",Pattathu Yaanai,4,2013,1
+"3,066",Vakratunda Mahakaaya,7,2013,1
+"3,067",Chor Chor Super Chor,6.5,2013,2
+"3,069",Rabba Main Kya Karoon,4.4,2013,4
+"3,070",Rajula,7.8,2013,0
+"3,071",Calapor,5.2,2013,0
+"3,073",Chennai Express,6,2013,17
+"3,074",Neelakasham Pachakadal Chuvanna Bhoomi,7.6,2013,22
+"3,075",Once Upon a Time in Mumbai Dobaara!,4.4,2013,20
+"3,076",Kamasutra 3D,5.8,2013,2
+"3,077",Madras Cafe,7.6,2013,24
+"3,078",Ooops a Desi,7,2013,8
+"3,079",Satyagraha,5.9,2013,6
+"3,081",Zanjeer,3.3,2013,22
+"3,082",Shuddh Desi Romance,5.8,2013,6
+"3,083",Prague,5.6,2013,6
+"3,084",Siddharth,7.4,2013,11
+"3,085",Zindagi Jalebi,4.2,2013,0
+"3,086",Goopi Gawaiya Bagha Bajaiya,7.4,2013,4
+"3,087",John Day,5.6,2013,9
+"3,088",Grand Masti,4.4,2013,7
+"3,089",Horror Story,4.2,2013,9
+"3,090",Phata Poster Nikhla Hero,4.9,2013,2
+"3,092",Super Model,1.9,2013,1
+"3,093",Maazii,5.9,2013,3
+"3,094",Phoring,7.6,2013,5
+"3,095",Warning,4.7,2013,3
+"3,096",Raqt,5.8,2013,0
+"3,098",A New Love Ishtory,6.2,2013,0
+"3,099",Queen,8.1,2013,14
+"3,100",Besharam,3.5,2013,25
+"3,101",Lagna Pahave Karun,6.6,2013,3
+"3,102",Liar's Dice,6.7,2013,11
+"3,103",Jal,6.6,2013,7
+"3,104",Baat Bann Gayi,5.1,2013,0
+"3,105",Paapi - Ek Satya Katha,4,2013,0
+"3,106",War Chhod Na Yaar,5.4,2013,11
+"3,107",Boss,5.1,2013,19
+"3,108",Anwar Ka Ajab Kissa,5.6,2013,1
+"3,110",Kaphal: Wild Berries,8.6,2013,0
+"3,111",Wake Up India,7.1,2013,0
+"3,112",Mickey Virus,6.1,2013,18
+"3,113",Satya 2,5.8,2013,10
+"3,114",Ishk Actually,2.7,2013,2
+"3,115",Sooper Se Ooper,4.3,2013,3
+"3,116",Bull BulBul Bandook,4.7,2013,0
+"3,117",Amdavad Junction,4.3,2013,1
+"3,119",Krrish 3,5.3,2013,17
+"3,120",Mastram,4.8,2013,7
+"3,121",Sunglass,6,2013,0
+"3,122",Goliyon Ki Rasleela Ram-Leela,6.4,2013,12
+"3,123",Rajjo,2.8,2013,6
+"3,125",Gori Tere Pyaar Mein!,4.9,2013,7
+"3,126",Singh Saab the Great,5.7,2013,7
+"3,127",Kaafiron Ki Namaaz,7,2013,11
+"3,128",Mangalashtak Once More,6.2,2013,0
+"3,129",Bullett Raja,4.9,2013,6
+"3,130",Chakra the Invincible,7.7,2013,0
+"3,131",Baga Beach,6.5,2013,1
+"3,132",R... Rajkumar,5.2,2013,7
+"3,133",Ankhon Dekhi,7.9,2013,19
+"3,134",Club 60,7.5,2013,14
+"3,135",Kajarya,6.5,2013,2
+"3,138",Jackpot,2,2013,3
+"3,140",What the Fish,5.2,2013,3
+"3,141",Shringaar,5.7,2013,0
+"3,142",Dhoom:3,5.3,2013,11
+"3,144",Naari Chakra,7.4,2013,1
+"3,145",Mahabharat,5.3,2013,9
+"3,146",Mokssh,6.1,2013,0
+"3,147",Bhadaas,2.5,2013,0
+"3,150",Run Bhola Run,6,2013,0
+"3,151",Woman from the East,8.7,2013,0
+"3,156",Chemistry,5.3,2013,0
+"3,159",Beehad - The Ravine,6.8,2013,1
+"3,160",Pied Piper,6.9,2013,0
+"3,163",Mutthi Bhar Sapne,7.8,2013,0
+"3,166",SOS: Secrets of Sex,6.1,2013,0
+"3,168",Mighty Raju vs Mighty Clone,8.2,2013,0
+"3,172",Kid Krrish,8.2,2013,0
+"3,173",Pandavas 5,7.8,2013,0
+"3,174",Ek Rani Aisi Bhi Thi,6.9,2013,0
+"3,179",Dil Bhi Khaali Jeb Bhi Khaali,6,2014,0
+"3,180",Mr Joe B. Carvalho,3.5,2014,8
+"3,181",Lakshmi,7.9,2014,23
+"3,182",Dedh Ishqiya,7,2014,10
+"3,183",Yaariyan,2.7,2014,22
+"3,184",Patiala Dreamz,4.4,2014,0
+"3,185",Supari - The Quest Begins Now,6.4,2014,0
+"3,187",Strings of Passion,6.9,2014,0
+"3,188",Paranthe Wali Gali,5,2014,2
+"3,189",Karle Pyaar Karle,2.5,2014,2
+"3,190",Rising of Sarpanch,No ratings,2014,1
+"3,191",Jai Ho,5,2014,8
+"3,192",Dil Ka Sauda,5.3,2014,0
+"3,193",Yeh Hai Bakrapur,3.9,2014,3
+"3,194",Identity Card,6,2014,1
+"3,195",One by Two,3.9,2014,11
+"3,196",The Royal Bengal Tiger,6.8,2014,8
+"3,197",Kartooz,3.3,2014,0
+"3,198",Hasee Toh Phasee,6.8,2014,10
+"3,199",Ya Rab,5.9,2014,5
+"3,200",Heartless,5.1,2014,11
+"3,201",Babloo Happy Hai,6.8,2014,1
+"3,202",Lajwanti,7.6,2014,1
+"3,203",Gunday,2.6,2014,20
+"3,204",Highway,7.6,2014,14
+"3,205",@Andheri,4.3,2014,0
+"3,207",Darr @ the Mall,4.9,2014,13
+"3,208",Karar: The Deal,4.3,2014,0
+"3,211",Shaadi Ke Side Effects,5.6,2014,7
+"3,213",Yamdas,7.5,2014,1
+"3,214",Akela the Alone,6.6,2014,1
+"3,215",Gulaab Gang,6,2014,3
+"3,216",Total Siyapaa,5,2014,23
+"3,217",Sold,6.8,2014,20
+"3,218",Ritu,7.3,2014,0
+"3,219",Bhopal: A Prayer for Rain,7.1,2014,4
+"3,220",Bewakoofiyaan,5.5,2014,18
+"3,221",W,7.1,2014,1
+"3,222",Neighbours,3.3,2014,1
+"3,223",Yeh Dil Ramta Jogi,7.8,2014,1
+"3,225",Gang of Ghosts,3.6,2014,8
+"3,226",Ragini MMS 2,3.9,2014,24
+"3,228",Kolkata Junction,7.3,2014,0
+"3,229",Youngistaan,5.2,2014,16
+"3,230",Dishkiyaoon,5.2,2014,10
+"3,231",Station,7.5,2014,5
+"3,232",O Teri,3.3,2014,7
+"3,233",Nandita Das and Divya Jagdale's Between the Lines,7.4,2014,0
+"3,235",Main Tera Hero,5.1,2014,16
+"3,236",After the Third Bell,6.5,2014,1
+"3,237",Mohan Rakesh's Adhe Adhure,7.2,2014,0
+"3,238",Bhoothnath Returns,6.6,2014,10
+"3,239",Angry Young Man,5.8,2014,0
+"3,240",Ebn-e-Batuta,4.4,2014,0
+"3,241",2 States,6.9,2014,23
+"3,242",Lucky Kabootar,5,2014,3
+"3,243",The Lastbenchers,7.8,2014,1
+"3,244",Dekh Tamasha Dekh,6.1,2014,5
+"3,246",Kaanchi,4.2,2014,14
+"3,247",Revolver Rani,4.7,2014,1
+"3,248",Masala Republic,5.1,2014,3
+"3,249",Samrat & Co.,6.2,2014,23
+"3,250",Kahin Hai Mera Pyar,6.8,2014,1
+"3,251",Purani Jeans,6.2,2014,10
+"3,252",Kya Dilli Kya Lahore,7.3,2014,19
+"3,253",The Dirty MMS,2.5,2014,0
+"3,254",Khwaabb,5.6,2014,4
+"3,255",Manjunath,7.2,2014,9
+"3,256",Hawaa Hawaai,7.3,2014,18
+"3,257",Koyelaanchal,5.4,2014,4
+"3,258",Love U Crazy Girl,4.7,2014,1
+"3,260",Children of War,6.6,2014,17
+"3,261",The Xpose,3.3,2014,22
+"3,262",Mighty Raju Rio Calling,5.2,2014,0
+"3,263",Titli,7.5,2014,12
+"3,264",Kochadaiiyaan,6.2,2014,18
+"3,265",Heropanti,5.2,2014,13
+"3,266",Bulbule,8.3,2014,1
+"3,267",Surkhaab,6.5,2014,3
+"3,268",Kuku Mathur Ki Jhand Ho Gayi,5.4,2014,2
+"3,269",City Lights,7.3,2014,2
+"3,270",Holiday,7.2,2014,1
+"3,271",Fugly,4.7,2014,7
+"3,272",Machhli Jal Ki Rani Hai,2.3,2014,9
+"3,273",Chal Bhaag,3.7,2014,0
+"3,275",18.11,3.8,2014,0
+"3,276",Humshakals,1.7,2014,19
+"3,278",Ek Villain,6.5,2014,23
+"3,279",Raghav,7.6,2014,1
+"3,280",Bobby Jasoos,5.5,2014,13
+"3,281",Lekar Hum Deewana Dil,4.7,2014,6
+"3,282",Humpty Sharma Ki Dulhania,6,2014,21
+"3,283",Bollywood Villa,5.1,2014,0
+"3,284",Munna Mange Memsaab,3.1,2014,1
+"3,286",Long Dark Road,8.2,2014,0
+"3,287",Riyasat,6.5,2014,0
+"3,288",Hate Story 2,4.4,2014,16
+"3,289",Pizza,6.2,2014,15
+"3,290",Amit Sahni Ki List,5.4,2014,5
+"3,291",Bazaar E Husn,5.2,2014,1
+"3,292",Kick,5.8,2014,10
+"3,293",Entertainment,4.5,2014,16
+"3,294",The Hundred-Foot Journey,7.3,2014,9
+"3,295",M Cream,5.5,2014,12
+"3,296",Singham Returns,5.7,2014,9
+"3,297",Aashmani Jawaharat,7.4,2014,0
+"3,298",Shuruaat Ka Interval,7.5,2014,2
+"3,299",DOA: Death of Amar,7.9,2014,0
+"3,300",Mardaani,7.3,2014,25
+"3,301",M.A.D: Mad About Dance,5.2,2014,3
+"3,302",Life Is Beautiful,5.6,2014,1
+"3,303",Akeli,6.4,2014,1
+"3,304",Raja Natwarlal,6.2,2014,4
+"3,305",Trip to Bhangarh: Asia's Most Haunted Place,2.5,2014,19
+"3,307",Mary Kom,6.8,2014,4
+"3,308",Court,7.6,2014,13
+"3,309",Daawat-e-Ishq,6.1,2014,11
+"3,310",Bhaangarh,7.2,2014,0
+"3,311",Dirty Marriage,4.4,2014,0
+"3,312",Margarita with a Straw,7.2,2014,14
+"3,313",Tigers,7.2,2014,24
+"3,314",Finding Fanny,5.7,2014,3
+"3,315",Creature,3.1,2014,24
+"3,316",Little Terrors,6.1,2014,2
+"3,318",Unfreedom,5,2014,14
+"3,319",Desi Kattey,4.2,2014,4
+"3,320",Dr. Cabbie,6,2014,22
+"3,321",Khoobsurat,6.4,2014,10
+"3,322",M.... Matric Pass,4.3,2014,0
+"3,323",Dear Vs Bear,7.8,2014,0
+"3,324",Bang Bang,5.6,2014,11
+"3,325",Chaarfutiya Chhokare,5.8,2014,1
+"3,326",Meinu Ek Ladki Chaahiye,3.4,2014,0
+"3,327",3 AM: A Paranormal Experience,5,2014,2
+"3,329",Balwinder Singh Famous Ho Gaya,3.4,2014,0
+"3,331",Peter Gaya Kaam Se,7.4,2014,0
+"3,332",Sulemani Keeda,7,2014,18
+"3,334",Umformung: The Transformation,6.6,2014,0
+"3,335",Haider,8,2014,5
+"3,336",Ladies First,3.9,2014,0
+"3,337",The Hero of Color City,4,2014,14
+"3,339",Tamanchey: Pyar Mein Dil Pe Maar De Goli,4.5,2014,5
+"3,340",Ekkees Toppon Ki Salaami,6,2014,10
+"3,341",Spark,6,2014,0
+"3,342",Jigariyaa,4.9,2014,4
+"3,343",Mumbai 125 KM 3D,2.5,2014,4
+"3,344",Sonali Cable,5.3,2014,17
+"3,347",Happy New Year,4.9,2014,18
+"3,349",Pyaar Vali Love Story,6.6,2014,0
+"3,350",Super Nani,4.6,2014,7
+"3,351",Roar,5.5,2014,24
+"3,353",The Shaukeens,4.9,2014,20
+"3,355",Kill Dil,4.5,2014,8
+"3,356",6-5=2,4.4,2014,4
+"3,357",Happy Ending,5.3,2014,8
+"3,358",Titoo MBA,4.4,2014,2
+"3,359",Gollu Aur Pappu,3.8,2014,1
+"3,363",Ungli,5.8,2014,19
+"3,364",Zed Plus,6.3,2014,11
+"3,365",Zid,4.5,2014,11
+"3,366",Hum Hai Teen Khurafaati,7.5,2014,0
+"3,367",The Last Don,5.3,2014,0
+"3,368",Action Jackson,3.4,2014,9
+"3,370",Mumbai Delhi Mumbai,5.7,2014,4
+"3,371",Naqab,4.6,2014,0
+"3,372",Lingaa,5.6,2014,18
+"3,373",Life Mein Twist Hai,9.6,2014,0
+"3,374",MMS Kand,7.5,2014,0
+"3,376",Main Aur Mr. Riight,4.7,2014,5
+"3,377",Badlapur Boys,4.9,2014,2
+"3,378",Kaash Tum Hote,1.8,2014,1
+"3,380",Oraalppokkam,6.9,2014,3
+"3,381",Chauranga,6.4,2014,5
+"3,382",PK,8.1,2014,6
+"3,383",Haggada Kone: End of the Rope,8.8,2014,1
+"3,384",Flame: An Untold Love Story,6.7,2014,0
+"3,389",19th January,8.5,2014,0
+"3,391",Teri Dilli Meri Dili,8.5,2014,0
+"3,392",Kala Sach: The Black Truth,6.7,2014,0
+"3,397",Pagdi: The Honour,6.1,2014,0
+"3,400",The Lost Salesman of Delhi,8.3,2014,6
+"3,404",SOS: Secrets of Sex Chapter 3,3.9,2014,0
+"3,406",Gauraiya,7.2,2014,0
+"3,410",Kid Krrish 2 - Mission Bhutan,7.9,2014,0
+"3,414",Kid Krrish 3 - Mystery in Mongolia,7.9,2014,0
+"3,415",Freedom,3.1,2014,0
+"3,417",Kuch Alag Sa,8.5,2014,0
+"3,422",Mumbai Can Dance Saalaa,1.8,2015,0
+"3,423",Take It Easy,8.2,2015,1
+"3,424",Pocket Gangsters,6.8,2015,0
+"3,425",Tevar,4.2,2015,1
+"3,429",Crazy Cukkad Family,5.2,2015,2
+"3,430",Alone,3.7,2015,24
+"3,431",Sharafat Gayi Tel Lene,5,2015,2
+"3,433",Dolly Ki Doli,4.5,2015,18
+"3,434",Baby,7.9,2015,19
+"3,435",Umrika,6.6,2015,8
+"3,436",Hawaizaada,5.5,2015,16
+"3,437",Rahasya,7.6,2015,17
+"3,438",Khamoshiyan,4,2015,19
+"3,439",Chal Guru Ho Jaa Shuru,4.8,2015,1
+"3,441",Chooda Ek Pratha,8.4,2015,0
+"3,442",Shamitabh,6.7,2015,2
+"3,443",Jai Jawaan Jai Kisaan,5.3,2015,0
+"3,444",Hum Tum Dushman Dushman,6.4,2015,0
+"3,446",Dhanak,7.8,2015,12
+"3,447",Mighty Raju,4.9,2015,0
+"3,449",Roy,3.2,2015,20
+"3,451",The Lovers,4.5,2015,3
+"3,452",MSG: The Messenger of God,6,2015,3
+"3,454",Tujhse He Raabta,6.7,2015,0
+"3,455",Badlapur,7.4,2015,23
+"3,457",3.0 Megapixel,5,2015,0
+"3,458",Monsoon,3.4,2015,0
+"3,459",Ab Tak Chhappan 2,5.8,2015,12
+"3,460",The Second Best Exotic Marigold Hotel,6.5,2015,9
+"3,461",Dum Laga Ke Haisha,7.5,2015,24
+"3,462",Mahesh Dattani's Hasmukh Saab ki Wasihat,6.5,2015,0
+"3,463",Dirty Politics,2.6,2015,5
+"3,464",Gour Hari Dastaan: The Freedom File,7.3,2015,13
+"3,465",Coffee Bloom,5.9,2015,3
+"3,466",Badmashiyaan,4.5,2015,1
+"3,467",Hey Bro,2.8,2015,1
+"3,469",NH10,7.2,2015,5
+"3,472",Room: The Mystery,3.9,2015,0
+"3,474",Dilliwaali Zaalim Girlfriend,3.7,2015,4
+"3,477",Black Home,7.2,2015,0
+"3,478",Dozakh in Search of Heaven,7.2,2015,2
+"3,479",Hunterrr,7,2015,25
+"3,480",Barkhaa,5.1,2015,5
+"3,481",Detective Byomkesh Bakshy!,7.6,2015,4
+"3,484",Luckhnowi Ishq,7.4,2015,0
+"3,485",Pappu Ki Pugdandi,6.7,2015,0
+"3,486",Haraamkhor,6.3,2015,2
+"3,487",Barefoot to Goa,5.7,2015,5
+"3,488",Dharam Sankat Mein,6.3,2015,21
+"3,489",Ek Paheli Leela,3.8,2015,25
+"3,490",Mr. X,3.7,2015,20
+"3,491",Nanak Shah Fakir,8.2,2015,8
+"3,493",NH-8: Road to Nidhivan,2.9,2015,1
+"3,494",Kaagaz Ke Fools,3.8,2015,3
+"3,496",Jai Ho! Democracy,5.2,2015,2
+"3,497",Ishq Ke Parindey,7.1,2015,0
+"3,500",Gabbar Is Back,7.1,2015,21
+"3,501",Sabki Bajegi Band,3.2,2015,1
+"3,503",Piku,7.6,2015,10
+"3,504",Kuch Kuch Locha Hai,2.5,2015,13
+"3,505",Three Atrangi Jai-Veeru-Gabbar,6.7,2015,0
+"3,506",Hopscotch,No ratings,2015,1
+"3,507",Bombay Velvet,5.5,2015,23
+"3,508",Ishqedarriyaan,4.8,2015,2
+"3,509",The Angrez 2,7.4,2015,0
+"3,512",Saavi: A Bonded Bride,8.1,2015,0
+"3,513",Masaan,8.1,2015,14
+"3,515",Tanu Weds Manu Returns,7.6,2015,7
+"3,516",Main Hoon Rajinikanth,7.2,2015,0
+"3,517",Welcome to Karachi,4.2,2015,25
+"3,518",P Se PM Tak,3.7,2015,2
+"3,519",The Spectacular Jihad of Taz Rahim,6,2015,1
+"3,521",Chor Bazaari,5.2,2015,0
+"3,523",Chaar Cutting,8,2015,0
+"3,525",Ranna,6.2,2015,3
+"3,526",Dil Dhadakne Do,7,2015,20
+"3,527",Hamari Adhuri Kahani,6.7,2015,6
+"3,528",Ek tha Bhujang,7.5,2015,0
+"3,529",Any Body Can Dance 2,5.4,2015,12
+"3,532",Yagavarayinum Naa Kakka,6.5,2015,4
+"3,533",Uvaa,4.8,2015,1
+"3,534",Miss Tanakpur Haazir Ho,5.4,2015,6
+"3,537",Testing Movie1,7.5,2015,7
+"3,538",All Is Well,3.6,2015,12
+"3,539",Second Hand Husband,3.7,2015,3
+"3,540",Guddu Rangeela,5.3,2015,9
+"3,541",Bezubaan Ishq,4.5,2015,0
+"3,542",Madmast Barkhaa,4.1,2015,1
+"3,543",Do Chehre,4.7,2015,0
+"3,544",I Love NY,3.4,2015,8
+"3,545",Thoda Lutf Thoda Ishq,4.2,2015,0
+"3,546",Bajrangi Bhaijaan,8.1,2015,7
+"3,547",Saari Raat,5.7,2015,2
+"3,548",The Silence,7.3,2015,6
+"3,549",Aisa Yeh Jahaan,6.9,2015,2
+"3,550",Drishyam,8.2,2015,15
+"3,552",Bangistan,4.5,2015,24
+"3,553",Jaanisaar,5.2,2015,1
+"3,554",Brothers,6.4,2015,13
+"3,555",Nath Ek Pratha,7.1,2015,0
+"3,556",I Am Mr Mother,5.8,2015,0
+"3,557",Ramta Jogi,7.3,2015,0
+"3,560",Manjhi: The Mountain Man,8,2015,12
+"3,562",Phantom,5.9,2015,2
+"3,563",Kaun Kitney Paani Mein,6,2015,4
+"3,564",Baankey Ki Crazy Baraat,6,2015,6
+"3,565",Chehere: A Modern Day Classic,6.6,2015,0
+"3,566",Moods of Crime,6.2,2015,2
+"3,567",Shackle,7.8,2015,1
+"3,569",Welcome Back,4.2,2015,14
+"3,570",Laakhon Hain Yahan Dilwaley,5.6,2015,0
+"3,572",Island City,6.7,2015,7
+"3,573",Jazbaa,5.7,2015,10
+"3,574",Hero,3.5,2015,6
+"3,575",Mere Genie Uncle,4.5,2015,0
+"3,576",Tera Mera Tedha Medha,5.8,2015,0
+"3,577",The Perfect Girl,5.8,2015,2
+"3,578",Sorry Daddy,5.4,2015,0
+"3,580",Parched,7.5,2015,20
+"3,581",Hai Golmaal in White House,2.9,2015,1
+"3,582",Talvar,8.1,2015,9
+"3,583",The Man Who Knew Infinity,7.2,2015,5
+"3,584",Katti Batti,4.7,2015,12
+"3,585",Luv U Alia,5.4,2015,5
+"3,586",Dulaara,5.5,2015,0
+"3,587",Angry Indian Goddesses,6.9,2015,22
+"3,588",Dunno Y 2... Life Is a Moment,7.1,2015,0
+"3,589",Meeruthiya Gangsters,7,2015,6
+"3,590",MSG 2 the Messenger,7.2,2015,13
+"3,591",Kis Kisko Pyaar Karoon,5.6,2015,5
+"3,593",Bhaag Johnny,5.1,2015,11
+"3,594",Time Out,6.1,2015,9
+"3,595",Calendar Girls,4.2,2015,9
+"3,596",31st October,5.8,2015,7
+"3,597",Singh Is Bliing,5,2015,12
+"3,598",Zubaan,6.1,2015,7
+"3,600",Dagadi Chaawl,6.2,2015,0
+"3,601",Under the Same Sun,8.9,2015,2
+"3,602",Nil Battey Sannata,8.2,2015,1
+"3,603",Wedding Pullav,3.7,2015,1
+"3,604",Pyaar Ka Punchnama 2,7.3,2015,17
+"3,605",Bumper Draw,5,2015,0
+"3,606",Chinar Daastaan-E-Ishq,7.2,2015,1
+"3,607",Hogaya Dimaagh Ka Dahi,3.7,2015,0
+"3,609",Shaandaar,3.6,2015,14
+"3,611",Ranviir the Marshal,7.9,2015,0
+"3,612",Kaash,5.3,2015,0
+"3,613",The Threshold,7.4,2015,1
+"3,614",Prithipal Singh,6.3,2015,0
+"3,615",Once Upon a Time in Bihar,6.7,2015,4
+"3,616",Main Aur Charles,6.2,2015,20
+"3,617",Guddu Ki Gun,4.7,2015,6
+"3,619",Tere Jism Se Jaan Tak,8.3,2015,0
+"3,620",Aligarh,7.8,2015,7
+"3,621",Love Exchange,5.4,2015,1
+"3,622",Khoya,7.5,2015,2
+"3,625",Blood Relation,6.2,2015,2
+"3,627",Charlie Kay Chakkar Mein,4.6,2015,1
+"3,628",Train Station,5.9,2015,12
+"3,629",Four Pillars of Basement,4.8,2015,0
+"3,630",Yaara Silly Silly,5.5,2015,3
+"3,631",Ranbanka,3.6,2015,3
+"3,632",Run Bhuumi - Champs Don't Cry,7.6,2015,0
+"3,633",Prem Ratan Dhan Payo,4.4,2015,8
+"3,634",Loev,5.9,2015,11
+"3,636",X: Past Is Present,5.2,2015,15
+"3,637",Tamasha,7.3,2015,7
+"3,638",Yeh Ishq Sarfira,5.8,2015,1
+"3,639",Kota Junction,7.9,2015,0
+"3,641",Hate Story 3,4.5,2015,3
+"3,643",Cinderella,8.6,2015,1
+"3,645",The Silent Heroes,6.5,2015,1
+"3,646",Waiting,7.1,2015,15
+"3,647",Yash Raaj aur Film!,5.8,2015,0
+"3,648",Dilwale,5,2015,13
+"3,649",Bajirao Mastani,7.2,2015,14
+"3,658",Mrs. Scooter,6.5,2015,5
+"3,660",The Violin Player,6.8,2015,9
+"3,662",India's Daughter,7.4,2015,0
+"3,664",The Writer,5.9,2015,0
+"3,666",Extraordinaari,2.9,2015,0
+"3,667",Mohalla Assi,6.6,2015,17
+"3,668",Extra Or Extraordinary,7.3,2015,0
+"3,669",Ishq Ne Krazy Kiya Re,8.6,2015,0
+"3,672",Guy in the blue,8.8,2015,0
+"3,674",Silence the Court Is in Session,7.1,2015,0
+"3,678",Kid Krrish 4 - Shakalaka Africa,7.8,2015,0
+"3,684",Chhota Bheem Mission Mangalyaan,6.9,2015,1
+"3,685",Itanagar 0KM,8.7,2015,1
+"3,687",Hinsa Par Vijay,8.7,2015,0
+"3,688",Bal Ganesh 3,5.5,2015,0
+"3,693",Wazir,7.1,2016,24
+"3,697",Chhota Bheem Himalayan Adventure,5.6,2016,4
+"3,698",Chalk N Duster,6.6,2016,15
+"3,699",Rebellious Flower,6.7,2016,6
+"3,700",Jugni,6.1,2016,5
+"3,701",Airlift,7.9,2016,15
+"3,702",Kyaa Kool Hain Hum 3,1.9,2016,25
+"3,704",Irudhi Suttru,7.6,2016,1
+"3,705",Mastizaade,2.4,2016,20
+"3,708",Ghayal Once Again,6.2,2016,5
+"3,709",Sanam Teri Kasam,7.5,2016,4
+"3,710",BHK Bhalla@Halla.Kom,5.9,2016,5
+"3,712",Fitoor,5.4,2016,2
+"3,713",Sanam Re,3.2,2016,17
+"3,714",Ishq Forever,4.2,2016,1
+"3,715",Neerja,7.6,2016,23
+"3,716",Direct Ishq,4.4,2016,1
+"3,717",Dhara 302,4.6,2016,0
+"3,718",LoveShhuda,4.7,2016,6
+"3,719",Rhythm,4.9,2016,0
+"3,720",The Other Side of the Door,5.3,2016,1
+"3,721",Love Shagun,4.6,2016,2
+"3,722",Bollywood Diaries,6,2016,10
+"3,723",Love Alive,9.1,2016,0
+"3,724",Tere Bin Laden: Dead or Alive,4.3,2016,7
+"3,726",Jai Gangaajal,5.8,2016,1
+"3,730",Feast of Varanasi,5.8,2016,2
+"3,731",Global Baba,5.5,2016,6
+"3,732",Teraa Surroor,2.7,2016,9
+"3,733",Kapoor & Sons,7.7,2016,23
+"3,734",Gandhiji My Mentor,8,2016,0
+"3,738",Miss Teacher,3.1,2016,0
+"3,739",Awesome Mausam,3.6,2016,0
+"3,740",Mumbai Central,4.9,2016,2
+"3,742",Rocky Handsome,6.8,2016,24
+"3,744",Autohead,6,2016,11
+"3,746",Ki & Ka,5.7,2016,19
+"3,749",Sardaar Gabbar Singh,4.6,2016,7
+"3,750",The Blueberry Hunt,5.4,2016,8
+"3,751",Club Dancer,7.1,2016,0
+"3,752",Love Games,4.2,2016,10
+"3,753",Murari the Mad Gentleman,8,2016,0
+"3,754",Fan,6.9,2016,23
+"3,755",Madly,5.4,2016,0
+"3,757",Santa Banta Pvt Ltd,2.7,2016,6
+"3,758",Laal Rang,7.8,2016,15
+"3,759",Baaghi,5.3,2016,10
+"3,760",Shortcut Safari,6.5,2016,1
+"3,761",Flying Colors,6.9,2016,0
+"3,762",Traffic,6.7,2016,2
+"3,763",Dead Morning,8.7,2016,0
+"3,764",One Night Stand,3.1,2016,14
+"3,765",Dear Dad,6.2,2016,7
+"3,766",1920 London,4.1,2016,18
+"3,768",Buddha in a Traffic Jam,7.1,2016,8
+"3,769",Azhar,5.8,2016,12
+"3,771",Chudail Story,2.5,2016,6
+"3,772",Khel Toh Ab Shuru Hoga,4.9,2016,2
+"3,773",The BFG,6.3,2016,1
+"3,774",Sarbjit,7.3,2016,22
+"3,776",Tu Hai Mera Sunday,7.7,2016,1
+"3,777",Raman Raghav 2.0,7.3,2016,6
+"3,778",Satyavati,7.1,2016,1
+"3,779",Badman,4.7,2016,2
+"3,780",Aman Ke Farishtey,7.3,2016,0
+"3,781",Aadupuliyattam,4.3,2016,0
+"3,782",Veerappan,5.3,2016,13
+"3,783",Phobia,6.8,2016,12
+"3,784",Fredrick,4.9,2016,0
+"3,785",Housefull 3,4.9,2016,21
+"3,786",A Aa,6.8,2016,9
+"3,787",Shaukeen Kaminay,6.7,2016,0
+"3,788",Youth,7.9,2016,0
+"3,789",Project Marathwada,6.6,2016,4
+"3,790",Te3n,7.2,2016,18
+"3,792",Do Lafzon Ki Kahani,6.4,2016,17
+"3,793",Udta Punjab,7.7,2016,15
+"3,794",Teen Taal,8,2016,0
+"3,795",Lens,6.6,2016,14
+"3,796",Aa Jao Please,7.6,2016,0
+"3,797",Rifle Ganj,6.2,2016,0
+"3,798",Junooniyat,4.1,2016,7
+"3,799",Rough Book,6.8,2016,6
+"3,800",7 Hours to Go,5.6,2016,4
+"3,801",A Scandall,3.1,2016,2
+"3,802",Dil Toh Deewana Hai,7,2016,0
+"3,806",Kerry on Kutton,5.7,2016,1
+"3,807",Shorgul,5.7,2016,3
+"3,808",Money Back Guarantee,4.7,2016,0
+"3,810",Sultan,7,2016,23
+"3,812",Chhupam Chhaai,8.5,2016,6
+"3,813",Great Grand Masti,3.7,2016,15
+"3,814",Kabali,6.1,2016,8
+"3,815",Madaari,7.6,2016,6
+"3,816",Love Ke Funday,7.2,2016,0
+"3,817",Cryptic Road,8.6,2016,0
+"3,818",Dishoom,5.1,2016,7
+"3,819",Mission Tiger,6,2016,0
+"3,821",The Legend of Michael Mishra,4.4,2016,10
+"3,822",Fever,4.7,2016,10
+"3,823",Hai Apna Dil Toh Awara,6.8,2016,1
+"3,824",Dulhan Chahi Pakistan Se,5.6,2016,1
+"3,825",Budhia Singh: Born to Run,7.6,2016,20
+"3,827",Mohenjo Daro,5.6,2016,14
+"3,828",Rustom,7,2016,1
+"3,832",Happy Bhag Jayegi,6.4,2016,2
+"3,833",Meeradha,7.2,2016,1
+"3,834",Warrior Savitri,4,2016,5
+"3,835",A Flying Jatt,3.1,2016,7
+"3,836",Missing on A Weekend,5,2016,3
+"3,837",Red Bluff,9,2016,0
+"3,840",To B or Not to B,9.2,2016,0
+"3,841",Akira,5.9,2016,25
+"3,842",Yea Toh Two Much Ho Gayaa,3.6,2016,1
+"3,843",Sunshine Music Tours & Travels,6.8,2016,0
+"3,844",Mukti Bhawan,7,2016,16
+"3,846",Tiger,6.5,2016,1
+"3,847",Baar Baar Dekho,5.4,2016,17
+"3,848",A Death in the Gunj,7.4,2016,20
+"3,849",Freaky Ali,5,2016,22
+"3,850",Dil Sala Sanki,5.3,2016,0
+"3,853",Ek Kahani Julie Ki,5.2,2016,0
+"3,854",Lion,8,2016,20
+"3,855",Dev Bhoomi,7.2,2016,15
+"3,856",Anatomy of Violence,5.2,2016,1
+"3,857",Pink,8.1,2016,10
+"3,858",Raaz Reboot,4.4,2016,4
+"3,859",Chapekar Brothers,8,2016,0
+"3,860",Banjo,5,2016,8
+"3,861",Days of Tafree,6.9,2016,10
+"3,862",Wah Taj,5.4,2016,3
+"3,864",Ye Kaisa Pal Do Pal Ka Pyar,8.9,2016,0
+"3,865",M.S. Dhoni: The Untold Story,7.9,2016,4
+"3,866",Pihu,6.7,2016,4
+"3,867",Tope,5.9,2016,2
+"3,868",Two Desires and a Dream,No ratings,2016,1
+"3,869",Brina,6.7,2016,0
+"3,870",Mirzya,4.6,2016,6
+"3,871",MSG the Warrior: Lion Heart,7.2,2016,23
+"3,872",Tutak Tutak Tutiya,5.5,2016,6
+"3,873",Bole India Jai Bhim,6.3,2016,0
+"3,874",A Billion Colour Story,8.1,2016,20
+"3,878",1:13:7 Ek Tera Saath,6.1,2016,1
+"3,879",Fuddu,4.8,2016,1
+"3,880",Gandhigiri,4.6,2016,2
+"3,881",Beiimaan Love,2.9,2016,3
+"3,882",Saat Uchakkey,5.6,2016,9
+"3,883",Anna,5.5,2016,1
+"3,884","Anna, Kisan Baburao Hazare",6,2016,1
+"3,885",Motu Patlu: King of Kings,6.7,2016,5
+"3,887",Love Day,4.5,2016,0
+"3,888",My Father Iqbal,8,2016,0
+"3,889",Mmirsa,8.6,2016,3
+"3,890",Railway Children,7.7,2016,19
+"3,894",Lipstick Under My Burkha,6.8,2016,8
+"3,895",Trapped,7.5,2016,24
+"3,896",Shivaay,6.1,2016,25
+"3,897",Ae Dil Hai Mushkil,5.8,2016,9
+"3,898",Bhaiyyajaan,4.8,2016,0
+"3,902",Moh Maya Money,5.7,2016,8
+"3,904",Mahayoddha Rama,7.8,2016,0
+"3,905",Crd,6.1,2016,4
+"3,906",Rock On 2,4.9,2016,20
+"3,908",Dongri Ka Raja,4.2,2016,2
+"3,909",Amir Salman Shahrukh,5.8,2016,0
+"3,910",Yeh Hai Lollipop,6.4,2016,3
+"3,911",Chaar Sahibzaade 2: Rise of Banda Singh Bahadur,8.5,2016,6
+"3,912",Hello Mumbai: Salaam Mumbai,3.7,2016,6
+"3,913",Force 2,6.2,2016,16
+"3,914",Tum Bin 2,4.8,2016,15
+"3,915",Dear Zindagi,7.4,2016,7
+"3,916",Six X,6.2,2016,0
+"3,917",Saansein: The Last Breath,3,2016,3
+"3,918",The Last Tale of Kayenaat,6.8,2016,0
+"3,919",Kahaani 2,6.6,2016,11
+"3,920",Harikatha Prasanga,6.7,2016,0
+"3,922",Befikre,4.1,2016,16
+"3,924",30 Minutes,5.2,2016,0
+"3,926",Wajah Tum Ho,4.4,2016,4
+"3,927",Veergatha,5.1,2016,0
+"3,928",Gang of Littles,6,2016,0
+"3,929",Shor Se Shuruaat,6.6,2016,2
+"3,930",Dangal,8.3,2016,16
+"3,932",Motu Patlu - The Invisible Plane,5,2016,0
+"3,940",Uhi Milte Rahenge,7.8,2016,0
+"3,941",Jango,3.1,2016,0
+"3,942",In Search of Life,No ratings,2016,1
+"3,944",417 Miles,6.4,2016,0
+"3,945",Jab Tum Kaho,5.6,2016,1
+"3,948",Pinky Beauty Parlour,8.7,2016,0
+"3,951",Satra Ko Shaadi Hai,2.5,2016,0
+"3,961",Bhouri,6.6,2016,16
+"3,974",Super Bheem Hawa Mein Halla,8.4,2016,0
+"3,984",Bal Ganesh and the PomZom Planet,4.3,2017,0
+"3,985",Poorna,7.7,2017,22
+"3,986",Prakash Electronic,4.8,2017,0
+"3,987",OK Jaanu,5.2,2017,15
+"3,988",Shatamanam Bhavati,7,2017,3
+"3,990",Weather Report,9.4,2017,0
+"3,991",Ashley,3.9,2017,0
+"3,992",Majaz: Ae Gham-e-Dil Kya Karun,6.2,2017,0
+"3,993",Raees,6.6,2017,22
+"3,994",Kaabil,7.1,2017,4
+"3,995",Pinti Ka Sabun,8.8,2017,1
+"3,996",Turup (Checkmate),8.4,2017,1
+"3,997",Maroon,5.1,2017,9
+"3,998",Alif,6.5,2017,1
+"4,000",Jolly LLB 2,7.2,2017,9
+"4,001",The Great Leader Kanshiram,8.4,2017,0
+"4,002",Hind Ka Napak Ko Jawab,7,2017,11
+"4,003",Newton,7.6,2017,10
+"4,004","U, Me Aur Ghar",6.5,2017,1
+"4,006",Viceroy's House,6.7,2017,2
+"4,007",Typecaste,7.2,2017,2
+"4,008",Running Shaadi,6.5,2017,14
+"4,009",Irada,6.3,2017,18
+"4,010",The Ghazi Attack,7.5,2017,7
+"4,011",Q,6.3,2017,3
+"4,012",Rangoon,5.6,2017,4
+"4,014",Veeram,6.3,2017,8
+"4,015",9 O' Clock,7,2017,1
+"4,016",Wedding Anniversary,4.9,2017,2
+"4,017",Chauhar,7.6,2017,0
+"4,018",Sunday Night,8,2017,0
+"4,019",Commando 2,5.4,2017,1
+"4,020",Jeena Isi Ka Naam Hai,5.3,2017,2
+"4,022",Horror Night,3.8,2017,0
+"4,023",Luv Shuv Pyar Vyar,4.7,2017,2
+"4,024",Baba Sathya Sai,6.1,2017,0
+"4,026",Badrinath Ki Dulhania,6.1,2017,19
+"4,028",Bitch,6.4,2017,0
+"4,029",Khamosh Adalat Jaari Hai,7.9,2017,0
+"4,030",Avsar,6.4,2017,9
+"4,031",Machine,2.7,2017,20
+"4,032",Aa Gaya Hero,2.4,2017,10
+"4,034",Pichiga Nachav,No ratings,2017,1
+"4,035",Shuddhi,7.9,2017,7
+"4,041",Phillauri,6,2017,17
+"4,042",Mukkadarpur Ka Majnu,8,2017,0
+"4,043",Le Lotta,7.3,2017,2
+"4,044",Anaarkali of Aarah,6,2017,4
+"4,045",Life Ki Aisi Ki Taisi,6.5,2017,0
+"4,046",Bhanwarey,7.1,2017,2
+"4,047",Baaki Itihaas,8.3,2017,0
+"4,049",Naam Shabana,6.2,2017,4
+"4,050",Bhangarh: The Last Episode,6,2017,5
+"4,055",Blue Mountains,5.9,2017,2
+"4,056",Jagga Jasoos,6.3,2017,13
+"4,057",Laali Ki Shaadi Mein Laaddoo Deewana,3.3,2017,2
+"4,058",Mirza Juuliet,4.4,2017,3
+"4,059",Let's Talk About 'It',7,2017,1
+"4,060",Kadamban,5.4,2017,4
+"4,061",Saanjh,8.6,2017,15
+"4,062",Begum Jaan,5.6,2017,10
+"4,063",Romeo N Bullet,4.2,2017,0
+"4,064",Noor,4,2017,1
+"4,065",Maatr,4.6,2017,13
+"4,066",Ajab Singh Ki Gajab Kahani,4.7,2017,0
+"4,067",Bheja Fry 3,6.8,2017,0
+"4,068",Rahenge Sadaa Gardish Mein Taare,6,2017,1
+"4,069",Baahubali 2: The Conclusion,8.2,2017,21
+"4,070",Masti Nahi Sasti,3.7,2017,0
+"4,071",Junko,3,2017,1
+"4,072",Zakir Khan Live,8.2,2017,0
+"4,073",Shab,4.3,2017,4
+"4,074",Ballavpur Ki Roopkatha,7.5,2017,0
+"4,075",Mantostaan,6.3,2017,2
+"4,076",Kis Kiss Ka Kissa,6.3,2017,1
+"4,077",Meri Pyaari Bindu,6,2017,25
+"4,078",Sarkar 3,4.9,2017,22
+"4,079",Thodi Thodi Si Manmaaniyan,6.2,2017,2
+"4,080",Boichek,6.6,2017,0
+"4,081",Half Girlfriend,4.5,2017,7
+"4,082",Hindi Medium,7.8,2017,10
+"4,083",Viraam,5.8,2017,2
+"4,085",Jattu Engineer,6.3,2017,7
+"4,087",Bhamashah,7.6,2017,0
+"4,088",Muzaffarnagar 2013,5.3,2017,0
+"4,090",Sargoshiyan,6.5,2017,4
+"4,092",Side A Side B,8.5,2017,0
+"4,093",The Witch hour: Curse of the ring,8,2017,0
+"4,094",Mirror Game,6.1,2017,5
+"4,095",Flat 211,5.1,2017,5
+"4,096",Dobaara: See Your Evil,3.7,2017,9
+"4,097",Sweetiee Weds NRI,3.4,2017,4
+"4,098",Dear Maya,6.1,2017,19
+"4,099",Khoj,6.7,2017,13
+"4,100",Hanuman Da' Damdaar,5.1,2017,7
+"4,103",The Wishing Tree,5.7,2017,1
+"4,104",Raabta,4.7,2017,11
+"4,106",Behen Hogi Teri,5.6,2017,13
+"4,107",Love You Family,4.7,2017,0
+"4,108",Pirates 1.0,6.3,2017,0
+"4,109",Bank Chor,6,2017,7
+"4,110",G Kutta Se,8.5,2017,1
+"4,111",Ramad,7.8,2017,1
+"4,112",Phullu,6,2017,4
+"4,113",Tubelight,3.9,2017,5
+"4,114",ISIS,7.1,2017,0
+"4,115",Where Has the Time Gone?,5.6,2017,0
+"4,116",Ek Haseena Thi Ek Deewana Tha,2.3,2017,3
+"4,118",Mom,7.2,2017,18
+"4,119",Guest iin London,5.4,2017,2
+"4,121",Jihad,8.8,2017,1
+"4,122",Ghanta Chori Ho Gaya,5,2017,1
+"4,123",III Smoking Barrels,6.6,2017,3
+"4,124",Munna Michael,3.4,2017,16
+"4,125",Vikram Vedha,8.3,2017,5
+"4,128",Mubarakan,5.6,2017,17
+"4,129",Raag Desh,8.2,2017,4
+"4,130",Baaraat Company,5.3,2017,1
+"4,131",Indu Sarkar,5.9,2017,5
+"4,132",Sasural,4.8,2017,0
+"4,135",Jab Harry Met Sejal,5,2017,5
+"4,137",Gurgaon,6.4,2017,3
+"4,138",Duniya Khatam Ho Rahi Hai,8,2017,0
+"4,139",Shreelancer,6.6,2017,8
+"4,140",Maiya,2.8,2017,0
+"4,141",The Song of Scorpions,5.9,2017,4
+"4,142",Toilet - Ek Prem Katha,7.2,2017,22
+"4,143",Yeh Hai India,3.8,2017,5
+"4,144",The Dream Job,7.2,2017,0
+"4,145",Bareilly Ki Barfi,7.5,2017,21
+"4,147",Hotel Beautifool,7.3,2017,0
+"4,148",Kuldip Patwal: I Didn't Do It!,6.4,2017,17
+"4,149",Phir Aaya Satte Pe Satta,8.6,2017,4
+"4,150",Gangs of North East,8.3,2017,0
+"4,152",Buchcha,8.4,2017,0
+"4,155",A Gentleman,6.3,2017,7
+"4,156",Babumoshai Bandookbaaz,6.9,2017,23
+"4,157",Muskurahatein,2.7,2017,2
+"4,158",The Rally,7.5,2017,24
+"4,159",Sniff,5.4,2017,4
+"4,160",Baadshaho,4.9,2017,21
+"4,161",Shubh Mangal Saavdhan,6.9,2017,19
+"4,163",Sunn Raha Hai Na,8.2,2017,0
+"4,164",The Hungry,7.1,2017,4
+"4,165",Daddy,6.4,2017,24
+"4,166",Poster Boys,5.4,2017,13
+"4,167",Omerta,7.1,2017,11
+"4,168",Sameer,5.3,2017,6
+"4,169",Mr. Kabaadi,4.7,2017,3
+"4,170",Mukkabaaz,8,2017,3
+"4,171",Tikli and Laxmi Bomb,7.7,2017,23
+"4,172",Mi'raj,No ratings,2017,1
+"4,173",GRADE,6.7,2017,0
+"4,174",Patel Ki Punjabi Shaadi,4,2017,5
+"4,175",Lucknow Central,6.2,2017,1
+"4,176",Simran,5.2,2017,13
+"4,177",B.A. Pass 2,2.2,2017,11
+"4,178",Rabbi,No ratings,2017,1
+"4,181",Bhoomi,5.3,2017,1
+"4,183",JD,5.6,2017,0
+"4,184",The Final Exit,6.7,2017,0
+"4,185",Union Leader,7.2,2017,4
+"4,186",Main Tumhare Bachche ki Maa Banne Waali Hoon,7.5,2017,0
+"4,187",Judwaa 2,3.6,2017,12
+"4,190",Muavza,3.9,2017,0
+"4,191",Chef,5.6,2017,13
+"4,192",Call for Fun,6.2,2017,4
+"4,193",Raktdhar,7.6,2017,0
+"4,194",2016 the End,4.9,2017,0
+"4,196",Babuji Ek Ticket Bambai,8.8,2017,0
+"4,199",Adrishya,3.2,2017,13
+"4,200",Bhasmasur,6.7,2017,5
+"4,201",Walking with the Wind,7.2,2017,0
+"4,202",Beyond the Clouds,6.9,2017,9
+"4,203",Ishq Ka Manjan,6.8,2017,0
+"4,204",Sheitaan,4.3,2017,1
+"4,205",Ajji,7,2017,10
+"4,206",Ranchi Diaries,7.6,2017,3
+"4,208",Love and Shukla,7.3,2017,8
+"4,209",Gali Guleiyan,7,2017,17
+"4,210",Eli Eli Lama Sabachthani?,7.2,2017,0
+"4,211",Victor's History,5.4,2017,1
+"4,213",Secret Superstar,7.8,2017,17
+"4,214",Golmaal Again,4.9,2017,4
+"4,215",Chhatrapati Shivaji,8.9,2017,0
+"4,216",Jia Aur Jia,4.6,2017,3
+"4,217",Rukh,6.4,2017,11
+"4,218",Door Bell,4.8,2017,0
+"4,219",Honey Bunny in Bank Robbery,No ratings,2017,1
+"4,220",Bioscopewala,7.5,2017,4
+"4,222",Ittefaq,7.2,2017,8
+"4,223",ISIS: Enemies of Humanity,6.7,2017,0
+"4,224",Ribbon,6.9,2017,20
+"4,225",The House Next Door,6.7,2017,13
+"4,226",Narayan,7.6,2017,1
+"4,227",Ram Ratan,3.9,2017,0
+"4,230",Qarib Qarib Singlle,7.1,2017,22
+"4,231",Shaadi Mein Zaroor Aana,7.5,2017,7
+"4,233",Dhh,7.8,2017,15
+"4,235",Shaadi Abhi Baaki Hai,6.1,2017,0
+"4,236",Aksar 2,3.6,2017,5
+"4,237",Tumhari Sulu,7,2017,14
+"4,238",Panchlait,6.8,2017,7
+"4,239",Dil Jo Na Keh Saka,5.5,2017,1
+"4,240",A Daughter's Tale PANKH,8,2017,0
+"4,241",GST - Galti Sirf Tumhari,4,2017,0
+"4,242",Julie 2,2.2,2017,4
+"4,243",Kadvi Hawa,7.9,2017,18
+"4,244",Buddha.mov,6.4,2017,0
+"4,246",The Holy Fish,8.4,2017,1
+"4,247",Tera Intezaar,1.7,2017,5
+"4,248",Firangi,4.3,2017,20
+"4,251",Anokhi Raat,7.6,2017,3
+"4,252",Fukrey Returns,6.5,2017,2
+"4,253",The Great Leader,2.3,2017,0
+"4,254",127 B,7.1,2017,0
+"4,255",Game Over,7.4,2017,1
+"4,256",Sallu Ki Shaadi,3.8,2017,2
+"4,257",Lagori,8.3,2017,1
+"4,258",Brij Mohan Amar Rahe,6.7,2017,8
+"4,261",My Friend's Dulhania,7,2017,0
+"4,262",Bhangover,5.6,2017,2
+"4,263",Office #thebrightesthorrorfilm,5.3,2017,0
+"4,264",Mridang,6.9,2017,0
+"4,266",Tiger Zinda Hai,5.9,2017,9
+"4,268",Sabrang,9,2017,0
+"4,270",Back to Dad,9.4,2017,0
+"4,271",Dilliwaliyaan,No ratings,2017,1
+"4,272",Modi Kaka Ka Gaon,6.6,2017,0
+"4,279",Bewajah,7.2,2017,3
+"4,280",1982 - A Love Marriage,5.2,2017,5
+"4,283",The Tape,7.6,2017,0
+"4,285",Daak Ghar,6.8,2017,0
+"4,291",Daddy's Daughter,8.1,2017,0
+"4,293",The Jinx,6.9,2017,0
+"4,299",B for Bundelkhand,9.2,2017,0
+"4,301",Kanyadaan,7.2,2017,1
+"4,314",Days and Nights on Earth,8.5,2017,2
+"4,318",Salaam Zindagi,8.5,2017,0
+"4,320",The Racer,No ratings,2017,1
+"4,321",The Zero Line,9.9,2017,0
+"4,322",Krish Trish and Baltiboy: Face Your Fears,9,2017,1
+"4,326",Udanchhoo,3.6,2018,3
+"4,327",Dhaad,6.6,2018,4
+"4,328",Kashmir Daily,7.3,2018,1
+"4,330",Haseena,4.2,2018,0
+"4,332",Kaalakaandi,6.2,2018,3
+"4,333",1921,4.3,2018,19
+"4,334",Gauru: Journey of Courage,8.4,2018,3
+"4,335",Phir Se...,5.3,2018,3
+"4,337",Gaon,5.1,2018,5
+"4,338",Hamara Tiranga,6.9,2018,0
+"4,339",My Birthday Song,5.6,2018,12
+"4,340",Vodka Diaries,5.5,2018,3
+"4,341",Medal,9,2018,0
+"4,342",Nirdosh,4.2,2018,5
+"4,343",Terror Strike,6.6,2018,0
+"4,344",Shaheed- E- Aazam,8.2,2018,0
+"4,345",Hume Jeene Do,No ratings,2018,1
+"4,347",Padmaavat,7,2018,20
+"4,348",Mitti-back to roots,8.7,2018,0
+"4,353",Padman,7.9,2018,16
+"4,355",Love Per Square Foot,7.2,2018,15
+"4,356",Aiyaary,5.3,2018,3
+"4,359",Downup the Exit 796,9.6,2018,4
+"4,360",Kuchh Bheege Alfaaz,7.4,2018,9
+"4,361",Jaane Kyun De Yaaron,5.1,2018,0
+"4,362",Inspector Gullu,7.4,2018,1
+"4,363",Garbage,3.7,2018,9
+"4,364",Sonu Ke Titu Ki Sweety,7.1,2018,1
+"4,366",Welcome to New York,1.5,2018,8
+"4,369",Ok Mein Dhokhe,5.8,2018,0
+"4,371",Shohrat the Trap,9.3,2018,0
+"4,373",Evening Shadows,7.2,2018,1
+"4,374",Veerey Ki Wedding,2.8,2018,13
+"4,376",Billu Ustaad,7.4,2018,1
+"4,377",Pari,6.6,2018,3
+"4,378",Hey Ram Hamne Gandhi Ko maar Diya,6.2,2018,5
+"4,380",Hate Story IV,3.3,2018,19
+"4,381",3 Storeys,7,2018,11
+"4,382",Dil Juunglee,3.6,2018,12
+"4,386",Raid,7.4,2018,17
+"4,387",Raja Abroadiya,4.6,2018,1
+"4,389",Hichki,7.5,2018,21
+"4,390",Baa Baaa Black Sheep,6.8,2018,8
+"4,391",Jannat E Milan,4.8,2018,0
+"4,392",Baaghi 2,4.7,2018,20
+"4,395",Shaadi Teri Bajayenge Hum Band,5.3,2018,0
+"4,396",Pareshaan Parinda,5.9,2018,0
+"4,402",Yaksh,8,2018,0
+"4,405",Blackmail,7.1,2018,15
+"4,406",Missing,5.8,2018,14
+"4,407",Reva,8.3,2018,16
+"4,408",October,7.5,2018,17
+"4,410",Project Papa,6.4,2018,0
+"4,411",Nanu Ki Jaanu,5.8,2018,18
+"4,412",Atal Faisla,8.8,2018,1
+"4,413",Killer Highway 21,No ratings,2018,1
+"4,415",Daas Dev,5.1,2018,6
+"4,416",Kaala,6.6,2018,15
+"4,417",Meri Nimmo,7,2018,8
+"4,419",Ishq Tera,8,2018,3
+"4,422",Bhabhipedia,8.6,2018,0
+"4,423",Ilaaka Kishorganj,6.7,2018,0
+"4,424",102 Not Out,7.4,2018,20
+"4,425",Parmanu: The Story of Pokhran,7.6,2018,10
+"4,427",Indian Never Again Nirbhaya,6.4,2018,2
+"4,428",Tishnagi,5.2,2018,1
+"4,431",Mahanati,8.4,2018,17
+"4,432",Raazi,7.7,2018,6
+"4,435",The Past,3.3,2018,9
+"4,436",Hope Aur Hum,6.3,2018,7
+"4,438",Mehsampur,6.2,2018,1
+"4,439",Manto,7.3,2018,5
+"4,441",Sir,7.7,2018,24
+"4,442",Who,4.5,2018,21
+"4,443",Angrezi Mein Kehte Hain,6.7,2018,4
+"4,444",Khajoor Pe Atke,5.8,2018,7
+"4,445",High Jack,5.3,2018,6
+"4,447",Kuch Pal Pyar Ke,4.5,2018,2
+"4,448",Khejdi,8.5,2018,6
+"4,450",Aadamkhor,6.9,2018,3
+"4,452",One Night Out,9.1,2018,0
+"4,453",Vaibhav Sethia: Don't,6.9,2018,4
+"4,454",Racket,7.4,2018,0
+"4,455",Panchaali,5.8,2018,0
+"4,456",Bhavesh Joshi Superhero,7.6,2018,16
+"4,457",Veere Di Wedding,3.3,2018,10
+"4,458",Phamous,3.8,2018,6
+"4,461",AA BB KK,7.7,2018,1
+"4,463",Krina,7.3,2018,3
+"4,464",Race 3,1.9,2018,23
+"4,465",Lust Stories,6.4,2018,24
+"4,471",Love Sonia,7.4,2018,7
+"4,472",T for Taj Mahal,8.8,2018,2
+"4,473",Dansh,8.8,2018,0
+"4,474",Sanju,7.6,2018,15
+"4,476",Zoo,5.6,2018,2
+"4,477",Turtle,8.1,2018,1
+"4,478",Hanuman vs. Mahiravana,7.2,2018,10
+"4,479",Play This,5.6,2018,1
+"4,480",Soorma,7.3,2018,21
+"4,481",Yeh Kaisa Tigdam,6.1,2018,0
+"4,482",Teri Bhabhi Hai Pagle,3,2018,7
+"4,483",Teen Aur Aadha,6.5,2018,7
+"4,484",Dhadak,4.5,2018,23
+"4,485",Delhi 47 KM,6.5,2018,2
+"4,486",Megalopolis,7.1,2018,0
+"4,487",Saheb Biwi Aur Gangster 3,4.3,2018,13
+"4,488",When Obama Loved Osama,4.9,2018,0
+"4,489",Nawabzaade,4.2,2018,11
+"4,491",Mulk,7.2,2018,3
+"4,492",Karwaan,7.6,2018,8
+"4,495",Mere Paas Baap Hai,6.3,2018,4
+"4,496",Vishwaroopam 2,5.8,2018,19
+"4,497",Lashtam Pashtam,6.3,2018,6
+"4,498",Redrum,4.2,2018,2
+"4,501",Page 16,4,2018,2
+"4,502",Unmaad,7.9,2018,1
+"4,504",Gold,7.3,2018,1
+"4,505",Satyameva Jayate,5.7,2018,2
+"4,506",Battlefield Enforcement,2.4,2018,0
+"4,508",Toba Tek Singh,6.9,2018,6
+"4,509",Badla Hindustani Ka,No ratings,2018,1
+"4,511",Genius,4.9,2018,2
+"4,512",Happy Phirr Bhag Jayegi,4.5,2018,6
+"4,513",Karim Mohammed,5,2018,1
+"4,514",Mudda hai Bhookh: The War,8.5,2018,0
+"4,515",Baarish Aur Chowmein,6.1,2018,9
+"4,516",Chausar,6.5,2018,0
+"4,517",Yamla Pagla Deewana Phir Se...,4.4,2018,3
+"4,518",Stree,7.5,2018,16
+"4,521",Kathor,6.8,2018,0
+"4,522",Once Again,6.9,2018,1
+"4,523",Paak,8.7,2018,1
+"4,524",Soni,7.1,2018,7
+"4,525",Paltan,5.2,2018,21
+"4,526",Laila Majnu,7.7,2018,17
+"4,528",Silvat,7,2018,2
+"4,529",Halkaa,7.1,2018,7
+"4,530",Manmarziyaan,6.9,2018,1
+"4,531",Mard Ko Dard Nahin Hota,7.3,2018,16
+"4,532",Jhakaas!,7.2,2018,0
+"4,533",Turning Point,6.6,2018,0
+"4,534",22 Days,6.8,2018,0
+"4,536",Mitron,6.9,2018,13
+"4,537",Batti Gul Meter Chalu,6,2018,21
+"4,538",Ishqeria,4.1,2018,7
+"4,539",Pakhi,7.3,2018,1
+"4,540",Game Paisa Ladki,6.9,2018,0
+"4,541",Tumbbad,8.2,2018,3
+"4,542",Dobaara,6.8,2018,3
+"4,543",Sui Dhaaga: Made in India,6.8,2018,22
+"4,544",Pataakha,7.2,2018,9
+"4,546",Kalichaat,7.9,2018,0
+"4,547",Tony,7.5,2018,2
+"4,548",Kuch Der Aur,8.7,2018,6
+"4,550",Loveyatri,3.3,2018,8
+"4,551",Andhadhun,8.2,2018,11
+"4,552",Kaamyaab,7.8,2018,15
+"4,553",Bhonsle,6.8,2018,6
+"4,554",Namdev Bhau,7.2,2018,2
+"4,556",Yours Truly,5.8,2018,1
+"4,557",Jalebi,6,2018,21
+"4,558",Helicopter Eela,5.4,2018,14
+"4,560",FryDay,5.3,2018,24
+"4,561",Maal Road Dilli,6.9,2018,0
+"4,563",Rajma Chawal,5.7,2018,3
+"4,565",Friends In Law,7.4,2018,4
+"4,567",Namaste England,2,2018,15
+"4,568",Badhaai ho,7.9,2018,3
+"4,572",Maassab (The Teacher),7.5,2018,8
+"4,573",Dassehra,3.8,2018,15
+"4,574",Baazaar,6.5,2018,16
+"4,575",Kaashi in Search of Ganga,5.3,2018,18
+"4,577",Summer Camp,7.8,2018,0
+"4,579",The Journey of Karma,4,2018,9
+"4,580",Lateef to laden,7.6,2018,0
+"4,581",Painting Life,5.5,2018,0
+"4,582",Lovefucked,5.9,2018,12
+"4,585",Jack & Dil,7.3,2018,1
+"4,586",Leera the Soulmate,5.5,2018,18
+"4,587",Ekkees Tareekh Shubh Muhurat,5.7,2018,3
+"4,588",Kutte Ki Dum,8.2,2018,0
+"4,589",Lupt,5.6,2018,6
+"4,590",Rashtraputra,5.9,2018,2
+"4,591",Mausam Ikrar Ke Do Pal Pyar Ke,3.7,2018,0
+"4,592",Love Trainning,6.8,2018,1
+"4,594",Intercity,2.2,2018,0
+"4,596",Thugs of Hindostan,4,2018,2
+"4,598",Half Songs,8.2,2018,0
+"4,599",Hotel Milan,4.4,2018,6
+"4,600",Noblemen,5.6,2018,6
+"4,601",I Am Roshni,5.2,2018,0
+"4,603",Sarabha,6.9,2018,1
+"4,604",Bhor: Dawn,7.7,2018,8
+"4,605",Bhaiaji Superhit,4,2018,5
+"4,607",Black Bud,6,2018,8
+"4,608",Myrah,6.1,2018,0
+"4,609",The Dark Side of Life: Mumbai City,5.8,2018,10
+"4,610",Colour Photo,8.7,2018,0
+"4,612",2,6.1,2018,22
+"4,613",Welcome M1LL10NS,6.8,2018,1
+"4,614",Dabang Sarkar,5.8,2018,0
+"4,616",Kedarnath,6.7,2018,12
+"4,617",Aasma,7.3,2018,0
+"4,618",Win Marathon,9.1,2018,25
+"4,619",Hamid,7.7,2018,23
+"4,621",Bhaagte Raho,4.1,2018,0
+"4,622",PK Lele a Salesman,5.5,2018,0
+"4,623",Dhappa,No ratings,2018,1
+"4,629",Ascharyachakit!,5.1,2018,13
+"4,630",K.G.F: Chapter 1,8.2,2018,20
+"4,632",Zero,5.2,2018,1
+"4,634",Tukkaa Fitt,7.3,2018,0
+"4,637",Simmba,5.7,2018,9
+"4,638",Idam Jagath,5.5,2018,5
+"4,641",Chhappan Bhai,7.2,2018,2
+"4,643",Aamaar Bhuvan,7.9,2018,2
+"4,646",Chidi Balla,6.5,2018,0
+"4,653",Bhawani Mandi Tesan,7.4,2018,0
+"4,666",State vs. Malti Mhaske,7.1,2018,3
+"4,667",Hijrat,9,2018,0
+"4,670",The Window,7.4,2018,0
+"4,673",Ek Aasha,8,2018,0
+"4,676",Hamari paltan,No ratings,2018,1
+"4,677",Life of an Outcast,6.9,2018,2
+"4,679",The Indian Post Graduate,4.7,2018,0
+"4,680",Bhootwali Love Story,5.4,2018,0
+"4,684",Spring Thunder,9.3,2018,1
+"4,686",Ashok Vatika,9.4,2018,0
+"4,690",Number Game,7.5,2018,0
+"4,693",Pending love,No ratings,2018,1
+"4,697",Sanjeevani,3.7,2018,0
+"4,707",The Last Color,7.8,2019,7
+"4,708",NTR: Kathanayakudu,5.9,2019,23
+"4,709",Cabaret,3.3,2019,8
+"4,710",Uri: The Surgical Strike,8.2,2019,4
+"4,712",The Accidental Prime Minister,6,2019,21
+"4,713",Falsafa,8.7,2019,3
+"4,714",Khamiyaza,5.2,2019,0
+"4,715",A Thin Line,9,2019,13
+"4,716",706,5.2,2019,15
+"4,717",Pagal Kar Diya Toone,No ratings,2019,1
+"4,718",Battalion 609,2.9,2019,4
+"4,719",Bombairiya,4.5,2019,14
+"4,722",Fraud Saiyyan,4.2,2019,9
+"4,723",Praana,7.9,2019,0
+"4,724",Why Cheat India,6.1,2019,7
+"4,726",Rangeela Raja,2.1,2019,10
+"4,727",The Lift Boy,7.2,2019,15
+"4,728",72 Hours: Martyr Who Never Died,5.4,2019,12
+"4,729",Wo Jo Tha EK Messiah Maulana Azad,6,2019,0
+"4,730",Little Boy,8.4,2019,1
+"4,731",Kasaai,6.3,2019,2
+"4,732",Rakkhosh,4.8,2019,6
+"4,733",I Am Zero,8.3,2019,0
+"4,734",Jacqueline I Am Coming,8.5,2019,2
+"4,735",Sea of Lost Time,6.2,2019,0
+"4,736",Manikarnika: The Queen of Jhansi,6.4,2019,25
+"4,737",Thackeray,5.3,2019,17
+"4,739",Veergati,6.7,2019,1
+"4,740",Photograph,6.8,2019,4
+"4,741",Ghode Ko Jalebi Khilane Le Ja Riya Hoon,6.9,2019,4
+"4,746",Bahattar Hoorain,8.6,2019,0
+"4,747",Ek Ladki Ko Dekha Toh Aisa Laga,5.6,2019,15
+"4,748",Umakant Pandey Purush Ya,7.3,2019,16
+"4,749",Gho Gho Rani,8.9,2019,16
+"4,750",Amavas,2.8,2019,15
+"4,751",S.P. Chauhan,5.3,2019,18
+"4,753",Darkness Visible,5.6,2019,2
+"4,754",Dosti Ke Side Effects,3.4,2019,1
+"4,756",I Am Banni,8.8,2019,0
+"4,758",Jhol,8.4,2019,24
+"4,759",Endcounter,4.5,2019,0
+"4,760",Gully Boy,7.9,2019,16
+"4,761",Code Blue,9.3,2019,0
+"4,763",Facebook wala pyaar,5.7,2019,2
+"4,765",Hum Chaar,5.8,2019,10
+"4,767",Total Dhamaal,4.2,2019,5
+"4,768",Dombivli Return,4.9,2019,5
+"4,769",Unmatta,7.6,2019,3
+"4,771",Luka Chuppi,6.3,2019,8
+"4,773",Sonchiriya,7.9,2019,22
+"4,774",Eiga Doraemon: Nobita no getsumen tansaki,6.8,2019,6
+"4,775",Ye Saccha Swabhimaan Sahi Sangharsh,No ratings,2019,1
+"4,778",The Sholay Girl,7.6,2019,4
+"4,779",Badla,7.8,2019,24
+"4,780",Bombay Rose,6.4,2019,19
+"4,781",Yeh Suhaagraat Impossible,7.6,2019,4
+"4,782",Is She Raju?,5.5,2019,1
+"4,784",Milan Talkies,5.1,2019,11
+"4,785",Sharma Ji Ki Lag Gayi,4.8,2019,2
+"4,786",22 Yards,5.9,2019,16
+"4,787",Risknamaa,8.3,2019,0
+"4,788",377 AbNormal,5.4,2019,5
+"4,790",Kesari,7.4,2019,21
+"4,791",Railway Raju,9.5,2019,8
+"4,792",Junglee,5.5,2019,21
+"4,793",Gone Kesh,6.9,2019,20
+"4,795",Tennis Buddies,5.7,2019,2
+"4,796",Notebook,6.9,2019,16
+"4,797",Ram Ki Janmabhoomi,4.4,2019,8
+"4,798",Romeo Akbar Walter,6.6,2019,1
+"4,799",Jai Chhathi Maa,8.7,2019,0
+"4,800",PM Narendra Modi,3,2019,18
+"4,801",Chousar Firangi,7.1,2019,2
+"4,802",2 Band Radio,9.4,2019,0
+"4,803",The Pickup Artist,5.2,2019,8
+"4,804",The Tashkent Files,8.1,2019,11
+"4,806",Gun Pe Done,4.4,2019,0
+"4,807",Albert Pinto Ko Gussa Kyun Aata Hai?,5.6,2019,3
+"4,808",Paharganj,4.5,2019,4
+"4,809",3 Dev,1.6,2019,13
+"4,810",Phir Ussi Mod Par,8.8,2019,0
+"4,811",Blackboard vs Whiteboard,5.7,2019,6
+"4,813",What are the Odds?,5.2,2019,24
+"4,814",Kalank,3.5,2019,23
+"4,815",Jersey,8.5,2019,1
+"4,816",Music Teacher,6.2,2019,23
+"4,817",My Angel My Teacher,7.6,2019,1
+"4,820",Grihalakshmi - The Awakening,8.8,2019,2
+"4,821",Tarpan: The Salvation,8.6,2019,19
+"4,823",Blank,6.1,2019,25
+"4,824",1978: A Teen Night Out,4.6,2019,0
+"4,825",The Himalayan Diaries,8.9,2019,2
+"4,826",3rd EYE,6,2019,0
+"4,827",Setters,5.2,2019,7
+"4,828",Hansa Ek Sanyog,9.1,2019,1
+"4,831",Student of the Year 2,2.1,2019,9
+"4,832",Chhota Bheem Kung Fu Dhamaka,5.4,2019,5
+"4,833",Badnaam Gali,7,2019,1
+"4,836",Last Chance: The Moment I Finally Embraced the Futility of Existence,8.8,2019,0
+"4,837",De De Pyaar De,6.5,2019,17
+"4,838",Chhorriyan Chhoron Se Kam Nahi Hoti,7.1,2019,2
+"4,839",Gunwali Dulhaniya,3.4,2019,2
+"4,841",India's Most Wanted,4.7,2019,6
+"4,842",Kadke Kamal Ke,6.9,2019,0
+"4,844",Har Har Mahadev,7.4,2019,1
+"4,845",Chopsticks,6.5,2019,24
+"4,846",Naughty Gang,3.7,2019,1
+"4,847",Shuruaat Ka Twist,5.6,2019,2
+"4,848",Nakkash,7.2,2019,2
+"4,850",Bharat,4.7,2019,22
+"4,853",Devil (Maupassant's Le Diable),5.7,2019,0
+"4,854",Devil's Daughter,2.5,2019,5
+"4,855",Fazeeta,9.7,2019,0
+"4,857",Kissebaaz,4.6,2019,12
+"4,858",Remember Amnesia,7.9,2019,15
+"4,859",Khamoshi,3.5,2019,8
+"4,860",Rescue,4.7,2019,1
+"4,862",Article 15,8.1,2019,21
+"4,863",#Gadhvi (He thought he was Gandhi),7.4,2019,0
+"4,864",Kabir Singh,7,2019,11
+"4,866",Fastey Fasaatey,4.5,2019,19
+"4,868",Jungle Mystery Of Murder,5.2,2019,0
+"4,869",Beheaded,3,2019,0
+"4,870",The Great Indian Escape,7.3,2019,5
+"4,871",Chippa,6.5,2019,9
+"4,873",Tottaa Pataaka Item Maal,7.5,2019,9
+"4,874",One Day: Justice Delivered,5.1,2019,12
+"4,875",The Great Indian Casino,8.8,2019,0
+"4,876",Dank,5.4,2019,5
+"4,877",Malaal,5.8,2019,21
+"4,878",Hume Tumse Pyaar Kitna,4.4,2019,8
+"4,879",Marudhar Express,6.1,2019,9
+"4,880",Time To Retaliate: MASOOM,5.7,2019,3
+"4,881",Nirmal Anand Ki Puppy,9.1,2019,0
+"4,882",Super 30,7.9,2019,19
+"4,885",Shaadi Ke Patasey,6.1,2019,0
+"4,886",Penalty,5.3,2019,3
+"4,887",Hyderabad Nawabs 2,5.9,2019,0
+"4,889",Wig Boss,2.1,2019,1
+"4,891",Jhootha Kahin Ka,4.6,2019,13
+"4,892",Family of Thakurganj,8.4,2019,11
+"4,893",Lihaaf: The Quilt,6.1,2019,2
+"4,896",Arjun Patiala,4.3,2019,11
+"4,897",Judgementall Hai Kya,6,2019,6
+"4,898",Moksh To Maya,4.3,2019,4
+"4,900",Ghost,4.8,2019,4
+"4,903",Nirvana Inn,5.8,2019,13
+"4,905",Khandaani Shafakhana,4.3,2019,12
+"4,906",Barot House,7.2,2019,22
+"4,908",Singham,4.2,2019,8
+"4,911",Chicken Curry Law,5.8,2019,4
+"4,912",Pranaam,4.2,2019,18
+"4,913",Jabariya Jodi,3.9,2019,14
+"4,914",Mushkil,4.8,2019,7
+"4,918",Ranj,8.3,2019,0
+"4,920",Batla House,7.2,2019,15
+"4,921",Mission Mangal,6.5,2019,17
+"4,922",Ahaan,7,2019,3
+"4,924",Darklight,7.5,2019,0
+"4,926",Saaho,5,2019,24
+"4,928",The Sky Is Pink,7.6,2019,9
+"4,929",Chhichhore,8.2,2019,5
+"4,933",Pailwaan,6.2,2019,18
+"4,934",Section 375,8.1,2019,6
+"4,935",Dream Girl,7,2019,23
+"4,937",Cypher,8.7,2019,11
+"4,938",Pyaar Se from Kolkata - Pari,4.8,2019,0
+"4,939",Pal Pal Dil Ke Paas,4.5,2019,25
+"4,940",The Zoya Factor,4.3,2019,21
+"4,941",Prassthanam,5.8,2019,20
+"4,942",Scotland,4.8,2019,14
+"4,944",Phulmania,5.8,2019,2
+"4,945",Kandy Twist,8.5,2019,0
+"4,949",Main Zaroor Aaunga,4.2,2019,2
+"4,950",Little Baby,8.7,2019,5
+"4,951",Chai Coffee,8.6,2019,1
+"4,952",Jhalki,6.9,2019,3
+"4,954",Mera Ram Kho Gaya,9.1,2019,0
+"4,955",Ekram,6,2019,0
+"4,957",Love You Krishna,7.4,2019,0
+"4,959",Daawat-e-Biryani,7.7,2019,3
+"4,960",Filter Coffee Liquor Cha,7.2,2019,1
+"4,961",Gumnaami,7.8,2019,24
+"4,962",War,6.5,2019,25
+"4,963",Shehjar,7.8,2019,0
+"4,964",Axone,6.9,2019,24
+"4,965",Chanakya,5.4,2019,16
+"4,966",Dolly Kitty Aur Woh Chamakte Sitare,5.4,2019,10
+"4,967",Aise Hee,7.9,2019,1
+"4,968",Roam Rome Mein,7,2019,5
+"4,969",Aadhaar,6.3,2019,1
+"4,972",99 Songs,6.5,2019,17
+"4,975",Tara Mira,6.7,2019,0
+"4,976",The Destiny Samaj of Banjaraa,8.2,2019,0
+"4,978",Saand Ki Aankh,7.7,2019,22
+"4,979",Ramprasad Ki Tehrvi,7.5,2019,19
+"4,981",Officer Arjun Singh IPS,7.6,2019,6
+"4,982",P Se Pyaar F Se Faraar,6.5,2019,23
+"4,983",Kirket,7.9,2019,11
+"4,984",Life Mein Time Nahi Hai Kisi Ko,7.3,2019,2
+"4,985",#Yaaram,4.5,2019,2
+"4,986",Make in India,7.9,2019,0
+"4,987",Upstarts,6.7,2019,5
+"4,988",Chhappad Phaad Ke,6.3,2019,25
+"4,989",Kastoori,9.4,2019,12
+"4,991",Junction Varanasi,4,2019,1
+"4,992",Cargo,5.6,2019,1
+"4,993",Laal Kaptaan,7.2,2019,23
+"4,994",Raahgir,7.9,2019,0
+"4,995",Eeb Allay Ooo!,7.2,2019,8
+"4,996",Khanaur,7.1,2019,0
+"4,997",Aani Maani,7.4,2019,2
+"4,999",Kaithi,8.5,2019,3
+"5,000",Adventure Kids,6.8,2019,1
+"5,001",Housefull 4,3.5,2019,22
+"5,003",Made in China,6.2,2019,1
+"5,004",Kanpuriye,6.2,2019,16
+"5,005",Bedhab,5.5,2019,9
+"5,007",Marne Bhi Do Yaaron,5.2,2019,3
+"5,008",Ujda Chaman,6.9,2019,11
+"5,009",Drive,3.1,2019,18
+"5,010",Zindagi Tumse,6,2019,2
+"5,012",Jwlwi - The Seed,8.3,2019,3
+"5,014",Bala,7.3,2019,22
+"5,015",Josef - Born in Grace,8.6,2019,1
+"5,018",Ekta,7.1,2019,10
+"5,019",Bypass Road,5.4,2019,3
+"5,020",Satellite Shankar,6.3,2019,19
+"5,022",Action,4.6,2019,25
+"5,023",House Arrest,5.5,2019,20
+"5,025",Keep Safe Distance,No ratings,2019,2
+"5,026",Motichoor Chaknachoor,5.8,2019,1
+"5,027",Marjaavaan,3.6,2019,22
+"5,029",Alajh Palajh,8.7,2019,0
+"5,030",Lorni - The Flaneur,6.7,2019,1
+"5,031",Hum Bhi Akele Tum Bhi Akele,5.3,2019,6
+"5,033",La cinta de Alex,5.9,2019,2
+"5,035",Pagalpanti,3.2,2019,11
+"5,036",Odd Couple,4.6,2019,3
+"5,037",Kadakh,6.9,2019,11
+"5,039",Marksheet,2.5,2019,0
+"5,040",Yeh Saali Aashiqui,7.9,2019,19
+"5,041",A Gift of Love: Sifar,8.3,2019,0
+"5,043",LuvUTurn,8,2019,0
+"5,044",X Ray: The Inner Image,3.8,2019,0
+"5,045",Commando 3,5.9,2019,21
+"5,046",Damayanthi,7.4,2019,7
+"5,049",Devi Aur Hero,8.5,2019,5
+"5,051",Panipat,5.2,2019,9
+"5,052",Pati Patni Aur Woh,5.8,2019,7
+"5,056",The Body,5.4,2019,23
+"5,057",Mudda 370 J&K,8,2019,23
+"5,060",Mardaani 2,7.3,2019,3
+"5,061",Unfriends,8.4,2019,0
+"5,063",Dabangg 3,3,2019,19
+"5,066",Happi,7.6,2019,4
+"5,068",Upeksha,8.6,2019,0
+"5,069",Good Newwz,6.8,2019,5
+"5,080",Fyaar,8.6,2019,0
+"5,085",Lohardaga,7.9,2019,0
+"5,087",Seasons Greeting,7.2,2019,1
+"5,090",Dimensions,7,2019,0
+"5,091",Baal Ki Khaal,7.8,2019,0
+"5,092",Used,8.3,2019,0
+"5,093",Dhumkkudiya,No ratings,2019,2
+"5,096",Verdict,6.3,2019,1
+"5,099",Lakhmipur ke Lukkhe,No ratings,2019,1
+"5,108",Dhuusar,8.9,2019,2
+"5,110",Ghost Stories,4.4,2020,13
+"5,111",Beautiful,7.3,2020,0
+"5,113",Koler Gaan,7.2,2020,0
+"5,115",Astounding Courage in Distress,7.1,2020,5
+"5,116",Antervyathaa,5.6,2020,0
+"5,119",Shimla Mirchi,4.6,2020,15
+"5,120",English Ki Taay Taay Fisss ...,7.2,2020,0
+"5,121",Sab Kushal Mangal,4.2,2020,10
+"5,122",Bhangra Paa Le,6.3,2020,23
+"5,124",Darbar,6,2020,21
+"5,125",Tanhaji: The Unsung Warrior,7.5,2020,11
+"5,126",Chhapaak,5.3,2020,9
+"5,127",Ala Vaikunthapurramuloo,7.3,2020,9
+"5,128",Dhauli,8,2020,0
+"5,129",Bunker,7.2,2020,18
+"5,130",Awasaan,8.8,2020,7
+"5,132",Jai Mummy Di,3.7,2020,14
+"5,133",Court Martial,7.1,2020,12
+"5,136",Panga,6.8,2020,25
+"5,137",Street Dancer 3D,3.6,2020,6
+"5,138",Gul Makai,2.5,2020,1
+"5,139",Kottayam,8,2020,4
+"5,141",Ek Sainik: The Tale of a Warrior,9.4,2020,9
+"5,143",Happy Hardy and Heer,5.6,2020,15
+"5,144",Run Zindagi Run,8.9,2020,0
+"5,145",Pagleaazam,7.7,2020,0
+"5,146",Deendayal Ek Yug Purush,9.1,2020,0
+"5,147",Jawaani Jaaneman,6.5,2020,14
+"5,148",Marma Mudichu,6.6,2020,0
+"5,151",Malang - Unleash the Madness,6.5,2020,9
+"5,152",Shikara,3.3,2020,16
+"5,153",Khwab Sare Jhootey,8.1,2020,3
+"5,154",Taanashah,7.7,2020,0
+"5,155",Hacked,4.3,2020,19
+"5,156",3 Shyaane,8.3,2020,0
+"5,158",Kaanchli Life in a Slough,4.9,2020,4
+"5,159",The Journey Weekend Night,7,2020,0
+"5,161",Yahan Sabhi Gyani Hain,4.9,2020,9
+"5,162",Love Aaj Kal,4.7,2020,21
+"5,163",A Game Called Relationship,4.7,2020,17
+"5,164",Shukranu,6.4,2020,16
+"5,166",Bhoot: Part One - The Haunted Ship,5.4,2020,19
+"5,167",Yeh Ballet,7.5,2020,9
+"5,168",Shubh Mangal Zyada Saavdhan,5.8,2020,14
+"5,169",The Hundred Bucks,6.4,2020,2
+"5,171",Thappad,7,2020,9
+"5,172",Sthalpuran,6.5,2020,0
+"5,173",Doordarshan,6.1,2020,5
+"5,174",O Pushpa I Hate Tears,5.3,2020,0
+"5,175",Haunted Hills,7.4,2020,9
+"5,176",Guns of Banaras,5.8,2020,1
+"5,177",Kehta Hai Yeh Dil,3.9,2020,0
+"5,178",Cookie,5.9,2020,17
+"5,179",Rizwan,7.8,2020,2
+"5,181",Laila Aur Satt Geet,6.6,2020,2
+"5,186",Dheet Patangey,7.2,2020,11
+"5,187",Welcome on Board,8.4,2020,8
+"5,189",Baaghi 3,2.1,2020,10
+"5,190",Guilty,5.4,2020,18
+"5,191",Most Common Budbak,7.8,2020,14
+"5,192",Operation Parindey,4.7,2020,10
+"5,194",Atithi Kab Aoge Shhamshan,5.2,2020,0
+"5,195",Angrezi Medium,7.2,2020,23
+"5,199",Wanton,3.1,2020,7
+"5,202",Maska,5.9,2020,1
+"5,205",Bamfaad,7.3,2020,15
+"5,207",One Stop for Love,8.9,2020,1
+"5,208",The Pushkar Lodge,8.9,2020,0
+"5,210",Ateet,4.4,2020,19
+"5,212",Mrs. Serial Killer,4.2,2020,16
+"5,214",Vyavastha,9,2020,0
+"5,219",Silence of Sleep,No ratings,2020,1
+"5,220",Parinati,7.6,2020,1
+"5,221",The Motorcycle Man,No ratings,2020,2
+"5,222",Ghoomketu,5.5,2020,1
+"5,223",Little Singham: Kaal Ka Badla,7.4,2020,0
+"5,227",Choked: Paisa Bolta Hai,5.7,2020,10
+"5,228",Ek Battey Do,8.7,2020,0
+"5,229",Chintu Ka Birthday,7.7,2020,5
+"5,230",Climax,2.1,2020,15
+"5,231",Gulabo Sitabo,6.3,2020,16
+"5,232",Home Stories,3.5,2020,0
+"5,233",Chaman Bahaar,6.9,2020,2
+"5,235",Jannat House,7.3,2020,0
+"5,236",Bulbbul,6.5,2020,2
+"5,237",Unlock,5.9,2020,0
+"5,240",I Know You,3.6,2020,6
+"5,242",Virgin Bhanupriya,2.7,2020,25
+"5,243",No Man's Truth,6.9,2020,10
+"5,244",Gunjan Saxena: The Kargil Girl,5.6,2020,20
+"5,245",Dil Bechara,8.1,2020,10
+"5,246",Baabul Ki Dua,8.7,2020,1
+"5,247",Yaara,6.1,2020,11
+"5,248",Lootcase,7.6,2020,14
+"5,249",Shakuntala Devi,6.1,2020,13
+"5,251",Raat Akeli Hai,7.2,2020,25
+"5,253",My Client's Wife,6.2,2020,12
+"5,254",Maali,8.5,2020,1
+"5,255",Pareeksha,8.1,2020,14
+"5,258",The Hidden Strike,3.6,2020,7
+"5,262",Khuda Haafiz,7.1,2020,14
+"5,263",Filmi Raasleela,8.3,2020,2
+"5,264",Class of 83,5.8,2020,21
+"5,265",Mee Raqsam,6.7,2020,5
+"5,266",Kriya,5,2020,4
+"5,268",Ram Singh Charlie,7.9,2020,25
+"5,269",Sadak 2,1.1,2020,1
+"5,270",Meel patthar,6.6,2020,22
+"5,271",Tallukh,5.8,2020,18
+"5,272",Atkan Chatkan,7.7,2020,24
+"5,273",I Am Not Blind,9,2020,15
+"5,274",Love Qubool Hai,9.5,2020,0
+"5,277",Regards & Peace,5.8,2020,0
+"5,279",Vilom,6.2,2020,6
+"5,281",London Confidential,6.1,2020,15
+"5,285",The Evening Show,9.3,2020,7
+"5,286",Halahal,7,2020,17
+"5,287",Nympho: The Lust Story,5,2020,4
+"5,288",X Zone,3.1,2020,0
+"5,289",Dhoosarit - the Grey,6.6,2020,10
+"5,290",Black Rose,8.4,2020,10
+"5,292",Badnaam,6.9,2020,3
+"5,293",Serious Men,6.8,2020,4
+"5,294",Khaali Peeli,2.4,2020,24
+"5,295",Bahut Hua Sammaan,7.2,2020,4
+"5,297",Ginny Weds Sunny,5.7,2020,13
+"5,299",376 D,5.2,2020,14
+"5,300",Evil Eye,4.8,2020,2
+"5,302",Chote Nawab,6.4,2020,1
+"5,303",Shahzada Ali,8.4,2020,0
+"5,306",The Reluctant Crime,9.2,2020,0
+"5,307",Comedy Couple,7.4,2020,18
+"5,308",Colour Photo,8.2,2020,5
+"5,309",Matto Ki Saikil,9,2020,5
+"5,310",The Cage of Life,8.8,2020,0
+"5,311",Footfairy,4.6,2020,20
+"5,312",Damru-story behind a small change,8.7,2020,0
+"5,313",Kaali Khuhi,3.5,2020,8
+"5,316",Taish,7.4,2020,22
+"5,319",One and a Half Knot,9.2,2020,15
+"5,321",Kosa,7.6,2020,1
+"5,322",Shehri Gabru,8.6,2020,10
+"5,323",Shubh Raatri,4.7,2020,20
+"5,325",Pepper Chicken,5.7,2020,11
+"5,326",Welcome Home,7.4,2020,3
+"5,328",Laxmii,2.6,2020,25
+"5,331",Soorarai Pottru,8.7,2020,1
+"5,332",Fukrey Boyzzz: Space Mein Fukrapanti,8.5,2020,0
+"5,333",Ludo,7.6,2020,5
+"5,334",Chhalaang,6.7,2020,13
+"5,336",Siyavar Ram - Ramayana,6.4,2020,0
+"5,338",Suraj Pe Mangal Bhari,5.9,2020,5
+"5,339",Scorned,3.3,2020,2
+"5,341",Mera Ramrajya Nai Kranti,9.3,2020,9
+"5,342",Das Capital Gulamon Ki Rajdhani,7.2,2020,2
+"5,343",LLD,8.6,2020,0
+"5,344",Meher,9.3,2020,1
+"5,345",Aahvaan,8.2,2020,0
+"5,347",Namumkin Tere Bin Jeena,5.5,2020,1
+"5,348",Vinash Kaal,6.2,2020,0
+"5,349",Shaheen Baghi,8,2020,0
+"5,350",Captain Vidyut,7.4,2020,1
+"5,357",Darbaan,7.4,2020,20
+"5,359",Bye2,8.1,2020,1
+"5,361",Durgamati: The Myth,4,2020,6
+"5,362",Indoo Ki Jawani,3.3,2020,17
+"5,363",Wishlist,4.4,2020,24
+"5,364",Torbaaz,6.8,2020,24
+"5,365",Teri Diwali Meri Christmas,5.9,2020,8
+"5,366",Musings of an Uninspired Artist,9.1,2020,6
+"5,368",Unpaused,7,2020,20
+"5,369",Omprakash Zindabad,5.5,2020,0
+"5,370",Sayonee,5.9,2020,11
+"5,372",Coolie No. 1,4.2,2020,6
+"5,373",AK vs AK,6.9,2020,12
+"5,374",The whammy,8.6,2020,3
+"5,375",Shakeela,3.3,2020,24
+"5,378",Balakot: the true story,5.8,2020,0
+"5,395",Vidhan,6.1,2020,1
+"5,396",Sragaal,8.7,2020,0
+"5,401",Ghost Story - An Abstract Film,7.6,2020,0
+"5,405",Amar Prem,4.7,2020,1
+"5,406",Myakut,4.9,2020,1
+"5,419",Nail Polish,7.3,2021,6
+"5,420",Yug the law of karma,6.2,2021,1
+"5,422",Kaagaz,7.3,2021,24
+"5,423",12 O'Clock,3.1,2021,15
+"5,424",My Darling,5.6,2021,0
+"5,425",Master,7.3,2021,18
+"5,426",The Power,5.4,2021,10
+"5,428",Tribhanga,6.2,2021,20
+"5,431","Indradhanush, the Grey Shades of Love",8.4,2021,0
+"5,432",Bolo Hau,6.5,2021,0
+"5,434",Aavartan,8.6,2021,0
+"5,435",Jamun,7.3,2021,13
+"5,436",Boxed,5.7,2021,0
+"5,437",Main Mulayam Singh Yadav,3.8,2021,10
+"5,438",Machaan,5.4,2021,9
+"5,439",Evil Dead Is Back,3.2,2021,0
+"5,440",Madam Chief Minister,4.8,2021,21
+"5,441",The White Tiger,7.1,2021,7
+"5,445",Koi Sath Hai,3.1,2021,4
+"5,446",Om Shri Satya Sai Baba,9.4,2021,0
+"5,447",Majjma,7.5,2021,3
+"5,449",Fire in the Mountains,6.9,2021,0
+"5,450",Noise of Silence,7.4,2021,5
+"5,451",NCR: Chapter One,8.4,2021,5
+"5,452",Lahore Confidential,2.9,2021,18
+"5,453",Harpal Pagalpan,9,2021,0
+"5,454",8119 Miles,6.5,2021,10
+"5,455",Barah by Barah,7.3,2021,3
+"5,456",Fabulous fashion week,No ratings,2021,1
+"5,458",The Right Click,6.6,2021,0
+"5,461",Bawri Chhori,4,2021,10
+"5,462",Victim,5.3,2021,1
+"5,463",Tuesdays and Fridays,4.4,2021,7
+"5,464",Tank Cleaner,6.8,2021,15
+"5,468",The Girl on the Train,4.4,2021,2
+"5,474",Roohi,4.3,2021,9
+"5,475",Fauji calling,5.3,2021,19
+"5,476",Jeene Ki Umeed Tumse Hi,8.7,2021,3
+"5,477",Time to Dance,2.3,2021,22
+"5,478",Aakhet,5.5,2021,0
+"5,479",Mumbai Saga,5.9,2021,6
+"5,480",Mosagallu,5.1,2021,24
+"5,481",Raka,10,2021,0
+"5,482",The Wife,4.5,2021,23
+"5,483",Sandeep Aur Pinky Faraar,6.3,2021,10
+"5,485",Haathi Mere Saathi,6.2,2021,25
+"5,487",Pagglait,6.9,2021,10
+"5,488",Silence... Can You Hear It?,6.5,2021,8
+"5,489",Queen of Sajjangarh,5.8,2021,3
+"5,490",Ab Ye Galtiyan Na Ho,No ratings,2021,1
+"5,491",Raag,8.2,2021,0
+"5,493",Ammaa Ki Boli,7.1,2021,12
+"5,494",Saina,4.4,2021,17
+"5,495",Ghar Pe Bataao,7.6,2021,5
+"5,496",Baikunth,8.2,2021,6
+"5,497",Koi Jaane Na,3.6,2021,15
+"5,498",Flight,5.8,2021,20
+"5,499",My Goal football,6.1,2021,1
+"5,500",Yamuna Paar,8.5,2021,0
+"5,502",The Big Bull,5.9,2021,14
+"5,503",Hello Charlie,5.6,2021,14
+"5,505",Refl3ct,5.6,2021,18
+"5,507",Bansuri: The Flute,5,2021,0
+"5,508",Raat Baaki Hai,5.1,2021,25
+"5,509",Black Rose,5.2,2021,3
+"5,510",Ajeeb Daastaans,6.7,2021,3
+"5,514",VanRakshak,7.9,2021,1
+"5,515",Switchh,3.7,2021,4
+"5,517",In The Month of July,8.3,2021,0
+"5,518",Doctor I Love You,7.7,2021,0
+"5,519",B.A. Pass 3,6.5,2021,1
+"5,525",Radhe,1.9,2021,14
+"5,526",The Purple Night,6.1,2021,3
+"5,527",RK/RKAY,7,2021,12
+"5,528",Gaurav Gupta: Market Down Hai,7.4,2021,10
+"5,529",Antenna,6.5,2021,1
+"5,530",D Company,5.5,2021,9
+"5,532",Angithee,5.4,2021,0
+"5,534",Kabaad- The Coin,6.5,2021,15
+"5,535",Sardar Ka Grandson,4.2,2021,9
+"5,536",Viraat,7.7,2021,1
+"5,537",The Tenant,8.2,2021,4
+"5,538",Vishudha Rathrikal,8.2,2021,2
+"5,539",Main Wahan Kyon Tha,No ratings,2021,1
+"5,541",Motu Patlu Kung Fu Kings Returns,5.1,2021,0
+"5,542",Toofan Mail 8 Down,6,2021,5
+"5,544",Love Sorries,8.8,2021,24
+"5,546",Not Today,8,2021,1
+"5,547",House No. 446,9.1,2021,0
+"5,550",Ek Tha Gaon,8.5,2021,0
+"5,551",Bulbule,8.9,2021,24
+"5,552",Galti,5.4,2021,0
+"5,553",Everything Is Cinema,6.3,2021,0
+"5,557",Zindagi Unlimited,5.3,2021,0
+"5,559",Out of Time,6.7,2021,4
+"5,561",Shaadisthan,5.5,2021,21
+"5,562",Skater Girl,6.6,2021,15
+"5,563",Jaan! Jaan Loge Kya?,3.8,2021,0
+"5,564",Sherni,6.8,2021,6
+"5,565",Puratchi Thalaivi,7.4,2021,0
+"5,570",Rajnigandha,7.5,2021,0
+"5,572",27-Sep,7.8,2021,4
+"5,576",Undertaker,8.3,2021,0
+"5,577",Haseen Dillruba,6.9,2021,23
+"5,578",Googly Gumm Hai,6.1,2021,18
+"5,581",Ishq Jaam Zeher,No ratings,2021,1
+"5,583",Kal Hamara Hai,7.3,2021,0
+"5,586",State of Siege: Temple Attack,7.7,2021,9
+"5,587",Collar Bomb,5,2021,12
+"5,588",The Successful Loosers,7.4,2021,2
+"5,589",Toofaan,5.6,2021,10
+"5,590",Wrongleela,7.4,2021,0
+"5,591",Track the Mystery,3.6,2021,0
+"5,592",Lost Mind,5.7,2021,2
+"5,593",The Rise of Kirmada,8.4,2021,0
+"5,595",Silsila Sidnaaz Ka,9.6,2021,0
+"5,596",14 Phere,6.3,2021,21
+"5,597",Hungama 2,3.2,2021,4
+"5,598",COD Cash on Delivery 2021,9.7,2021,0
+"5,599",Mimi,7.9,2021,6
+"5,600",Dihadi,9.1,2021,9
+"5,601",Lines,5.6,2021,20
+"5,602",Love Siyapaaa,7.8,2021,0
+"5,604",Balcony Buddies,8.4,2021,1
+"5,605",Jhatka Jaroori Hai,8.2,2021,0
+"5,608",Dial 100,5.9,2021,18
+"5,609",Oye Mamu!,7.2,2021,4
+"5,610",Lockdown to Unlock,2.4,2021,0
+"5,615",Lights! Camera! Murder!,7.3,2021,0
+"5,616",Shershaah,8.4,2021,24
+"5,617",Bhuj: The Pride of India,4.6,2021,13
+"5,619",Sitapur: The City of Gangsters,5.2,2021,1
+"5,620",Out of the Blue,5.2,2021,0
+"5,623",Bellbottom,6.1,2021,8
+"5,624",Crazy Uncles,9.2,2021,7
+"5,625",Choices,7.6,2021,0
+"5,627",Consequence Karma,8.9,2021,19
+"5,628",The Darling Wife,4.9,2021,0
+"5,629",200: Halla Ho,7.5,2021,8
+"5,631",Chehre,6.4,2021,24
+"5,632",Beti: The Angel of God on the Earth,9,2021,0
+"5,633",Red Mercury Mission in India,8.7,2021,0
+"5,636",The Interview: Night of 26/11,4,2021,0
+"5,637",The Last Show,5.8,2021,0
+"5,639",Helmet,6.5,2021,22
+"5,640",Faactory,6.5,2021,12
+"5,642",Premaatur,6.9,2021,0
+"5,643",The Last Letter,9.5,2021,16
+"5,645",Bhoot Police,7,2021,8
+"5,647",Thalaivi,5.9,2021,5
+"5,648",Kya Meri Sonam Gupta Bewafa Hai,4.1,2021,24
+"5,649",Urf Ghanta,6.1,2021,11
+"5,651",Supada Dada,No ratings,2021,1
+"5,652",Breed,6.9,2021,9
+"5,653",Chai - a bond undefined,9.3,2021,0
+"5,654",Shooter,6.9,2021,0
+"5,655",Ye Kaisa Pyar,10,2021,0
+"5,656",Friendship,5.3,2021,17
+"5,657",Ankahi Kahaniya,5.5,2021,4
+"5,658",Mahua,5.9,2021,1
+"5,659",Dilli Kaand,5.2,2021,0
+"5,660",Roomies in Scamland,7.1,2021,0
+"5,664",Deja Vu,8.5,2021,0
+"5,669",Friction,7.6,2021,2
+"5,671",Extra Pen,8.1,2021,0
+"5,672",Shiddat,7.6,2021,1
+"5,673",Sumeru,7.6,2021,0
+"5,674",Bhavai,5.6,2021,2
+"5,675",Safaibaaz - The Scavenger,9,2021,0
+"5,678",The Rapist,7.7,2021,1
+"5,679",Manasvi,8.4,2021,3
+"5,680",Nobel Peace,6.4,2021,0
+"5,681",No Land's Man,8.5,2021,0
+"5,682",I Am Not a Player,1.7,2021,0
+"5,684",Sardar Udham,8.4,2021,11
+"5,685",Rashmi Rocket,7.4,2021,1
+"5,686",Sanak,6.7,2021,18
+"5,690",Rip Real Horror Story,9,2021,0
+"5,691",Tathagat,7.1,2021,1
+"5,692",Babloo Bachelor,4.8,2021,1
+"5,695",Dybbuk: The Curse Is Real,5,2021,6
+"5,697",Hum Do Hamare Do,6,2021,18
+"5,698",Peepal Tree,9.5,2021,0
+"5,699",Aafat-e-Ishq,4.3,2021,21
+"5,700",Bekhudi,7.2,2021,24
+"5,702",Barun Rai and the House on the Cliff,6.2,2021,20
+"5,706",Jai Bhim,8.9,2021,24
+"5,707",Jhini Bini Chadariya,7.8,2021,0
+"5,709",Shoebox,8.4,2021,1
+"5,710",Enemy,6.3,2021,10
+"5,712",Sooryavanshi,6.1,2021,15
+"5,713",Meenakshi Sundareshwar,7,2021,10
+"5,714",Man Maiden Mercenary,8.9,2021,0
+"5,715",Tryst with Destiny,6.2,2021,8
+"5,719",Uljhan: The Topper Blues,9,2021,0
+"5,721",Veer Gomtesha,6.7,2021,7
+"5,722",Squad,4.5,2021,1
+"5,723",Gahara Asar Dil Tak,7.7,2021,0
+"5,724",Bunty Aur Babli 2,4.1,2021,25
+"5,725",Dangerous,4.4,2021,2
+"5,726",Ye Mard Bechara,8.7,2021,13
+"5,727",Dhamaka,7.1,2021,4
+"5,728",Shrimad Rajchandra,9.3,2021,0
+"5,729",Cash,6.9,2021,17
+"5,730",The Last Resort,8.8,2021,0
+"5,731",Andaman,8.7,2021,14
+"5,732",2024,5.8,2021,2
+"5,735",Satyameva Jayate 2,4.1,2021,14
+"5,736",Chhorii,6.8,2021,18
+"5,737",Antim: The Final Truth,6.7,2021,5
+"5,741",Boomerang,5.6,2021,0
+"5,742",Tadap,5.1,2021,20
+"5,743",Bob Biswas,6.7,2021,22
+"5,744",Halfpace,8.1,2021,2
+"5,745",Chandigarh Kare Aashiqui,6.8,2021,11
+"5,746",Velle,6.4,2021,3
+"5,747",Antardhaan,6,2021,1
+"5,750",Mumbai Special Pav Bhaji,7.9,2021,0
+"5,753",12 Bulbule,8.9,2021,0
+"5,755",Sakha,8,2021,2
+"5,757",Pushpa: The Rise - Part 1,7.6,2021,2
+"5,758",Godaam,9.6,2021,1
+"5,759",420 IPC,6.5,2021,12
+"5,760",R23 Criminals Diary,6.4,2021,4
+"5,762",A Method in Multishade,9,2021,0
+"5,763",DRE7MS,9.1,2021,9
+"5,764",83,7.5,2021,13
+"5,765",Aankhen 2,7.6,2021,0
+"5,766",Atrangi Re,6.4,2021,15
+"5,770",Zamaanat: And Justice for All,3,2021,0
+"5,772",Dostana 2,3,2021,0
+"5,773",Sam Bahadur,8.8,2021,0
+"5,778",Aparajitha Ayodhya,6.1,2021,0
+"5,801",Taalismaan,3.2,2021,0
+"5,804",Banda Yeh Bindaas Hai,6.2,2021,0
+"5,815",Someone,7.9,2021,9
+"5,819",Nyay: The Justice,1,2021,0
+"5,836",Am I Next,8,2021,2
+"5,840",Rohingya - People from nowhere,5.2,2021,0
+"5,844",Asli Cricket,5.1,2021,7
+"5,845",Koochie Koochie Hota Hai,6.2,2021,0
+"5,848",Murder at Teesri Manzil 302,4,2021,9
+"5,852",Desi Magic,6.1,2021,0
+"5,854",Pati Patni and Joe,6.6,2021,2
+"5,855",Tom Dick and Harry Returns,4.2,2021,0
+"5,856",Waah Zindagi,5.6,2021,4
+"5,862",Cinemaa Zindabad,4.2,2022,6
+"5,863",Abey Yaar Lagg Gayi,9.9,2022,0
+"5,866",Chuhiya,9.3,2022,1
+"5,867",Sorry Day,5.9,2022,0
+"5,868",36 Farmhouse,3.7,2022,20
+"5,869",Phas Gaye Yaaro,8.8,2022,0
+"5,870",Udd Ja Re,6.8,2022,0
+"5,873",Hai Tujhe Salaam India,8.1,2022,5
+"5,874",FOUR: Vol. I,8.5,2022,6
+"5,876",Varchasva,9.3,2022,0
+"5,881",Agam,9.6,2022,0
+"5,882",Looop Lapeta,5.2,2022,18
+"5,883",Parvatinagar,9.7,2022,0
+"5,885",Sunset Girl,8.4,2022,1
+"5,886",Ferrous,6.4,2022,3
+"5,887",Gangubai Kathiawadi,7,2022,4
+"5,890",Gehraiyaan,5.9,2022,16
+"5,891",Badhaai Do,7,2022,16
+"5,892",Rosie: The Saffron Chapter,8.8,2022,0
+"5,893",A Thursday,7.7,2022,22
+"5,895",Pyar Mein Thoda Twist,4.4,2022,0
+"5,896",#Homecoming,7.4,2022,0
+"5,897",Before You Die,9.1,2022,4
+"5,901",Pondicherry,8.4,2022,4
+"5,902",Love Hostel,6,2022,5
+"5,903",Rahasyamayi Book,8.5,2022,0
+"5,906",Mixtape,8.7,2022,0
+"5,910",Moksha,9.3,2022,16
+"5,911",Toolsidas Junior,7.4,2022,22
+"5,912",Sher Gujjar,8.5,2022,0
+"5,913",One Story Many Ends,7.9,2022,0
+"5,914",Jhund,7.4,2022,12
+"5,915",Sankraman,9.6,2022,0
+"5,918",Kalpataru (The Tree),8.7,2022,1
+"5,920",The Kashmir Files,8.3,2022,11
+"5,921",10 Nahi 40,8.8,2022,12
+"5,922",Meow Meow,6.7,2022,0
+"5,923",Aisa Q,7.5,2022,8
+"5,926",Bachchhan Paandey,5.2,2022,25
+"5,927",Jalsa,6.6,2022,10
+"5,928",I'm Not the River Jhelum,8.7,2022,1
+"5,930",Banaras ke Rasiya,9.7,2022,1
+"5,932",Escape,3.8,2022,0
+"5,933",Hero of Nation Chandra Shekhar Azad,9,2022,0
+"5,936",Sharmaji Namkeen,7.6,2022,21
+"5,937",Kaun Pravin Tambe?,8.4,2022,12
+"5,939",Attack,6.8,2022,25
+"5,940",Cobalt Blue,6.5,2022,21
+"5,941",Lift 8055,7.1,2022,0
+"5,943",Dasvi,7.3,2022,18
+"5,944",Hurdang,5.2,2022,12
+"5,952",Supreme Motherhood: The Journey of Mata Sahib Kaur,9.3,2022,11
+"5,953",Jersey,7.3,2022,16
+"5,954",GOW - Ghost of Wuhan,No ratings,2022,1
+"5,956",Maid for each other,9.6,2022,0
+"5,957",Quota - The Reservation,9.7,2022,6
+"5,958",Zinga,8.4,2022,0
+"5,959",Operation Romeo,6.3,2022,11
+"5,960",Khudbudi,9.3,2022,1
+"5,961",Chidiya Ghar,9.6,2022,0
+"5,962",Muqaam,8.2,2022,0
+"5,963",Runway 34,7,2022,12
+"5,964",Heropanti 2,2.6,2022,17
+"5,967",Sorry Karma Returns,9.6,2022,0
+"5,968",Bholaa Bhaai,8.2,2022,4
+"5,970",Nishachar,9.8,2022,0
+"5,971",Live in Relation,9.7,2022,2
+"5,973",Mere Desh Ki Dharti,7,2022,3
+"5,974",Thar,6.1,2022,23
+"5,975",Dwimukha,8.5,2022,1
+"5,976",The Conversion,8.9,2022,4
+"5,977",Void,8.2,2022,14
+"5,979",Decent Boy,8.6,2022,1
+"5,981",Dark Rose: The Name of Fear,7.6,2022,0
+"5,982",Khel Kood Aur Bhoot,7.6,2022,3
+"5,983",Jayeshbhai Jordaar,6,2022,17
+"5,986",Triple Cross,3.4,2022,0
+"5,988",Bhool Bhulaiyaa 2,5.7,2022,10
+"5,989",Rocketry: The Nambi Effect,8.8,2022,19
+"5,990",Dhaakad,4,2022,15
+"5,992",Chitrakut,8.8,2022,17
+"5,993",The Cannabis Diary,9.5,2022,1
+"5,997",Aliya Basu Gayab Hai,6.3,2022,0
+"5,998",Anek,6.6,2022,2
+"5,999",Dehati Disco,5.6,2022,4
+"6,000",Amaris,5.1,2022,1
+"6,001",Love in Ukraine,9.4,2022,0
+"6,002",Haemolymph,7.2,2022,0
+"6,004",Chidiya,8,2022,0
+"6,012",Rishi Ki Dunia,No ratings,2022,1
+"6,014",Major,8.2,2022,3
+"6,015",Vikram,8.4,2022,17
+"6,016",Samrat Prithviraj,5.8,2022,5
+"6,018",Anya The Other,8.6,2022,2
+"6,020",Janhit Mein Jaari,6.9,2022,16
+"6,021",Gadera,7.3,2022,0
+"6,022",Dear Dia,8.1,2022,0
+"6,023",Prapti (Receipt),9.6,2022,0
+"6,024",Ardh,7.7,2022,20
+"6,026",Dare and Lovely,1.3,2022,0
+"6,027",Nikamma,2.6,2022,8
+"6,028",Ittu Si Baat,7.3,2022,15
+"6,030",Dobaaraa,4.3,2022,1
+"6,031",Jug Jugg Jeeyo,6.1,2022,18
+"6,032",Gotakhor,5,2022,8
+"6,033",Forensic,6.3,2022,5
+"6,035",Sherdil,6.6,2022,22
+"6,043",Nautanki,8.1,2022,0
+"6,044",Om - The Battle Within,2.7,2022,18
+"6,045",Dear Molly,8,2022,1
+"6,046",Tale of Rising Rani,8.8,2022,2
+"6,047",Salvation at Sunrise,8.6,2022,0
+"6,049",Red Forest Khooni Jungle,No ratings,2022,1
+"6,051",Khuda Haafiz Chapter II: Agni Pariksha,7.6,2022,24
+"6,052",Pyali,8.6,2022,5
+"6,054",Titu Ambani,8.6,2022,5
+"6,059",HIT: The First Case,6.9,2022,4
+"6,060",The Warriorr,4.6,2022,2
+"6,061",Jaadugar,6.9,2022,9
+"6,062",Judaa Hoke Bhi,6.2,2022,23
+"6,063",Really Main Deewana Ho Gaya,No ratings,2022,1
+"6,064",Shabaash Mithu,5.6,2022,21
+"6,065",MAATI 2 Kahani kisaan ki,9.6,2022,0
+"6,068",Pyaar Ki Roshni,9.6,2022,0
+"6,070",X or Y,7.6,2022,0
+"6,071",Shamshera,4.8,2022,25
+"6,072",Hasta Khel Ta Parivaar,No ratings,2022,1
+"6,074",The Legend,5.6,2022,19
+"6,075",Ek Villain Returns,4.5,2022,3
+"6,077",Good Luck Jerry,5.5,2022,11
+"6,078",Antaryatri Mahapurush (The Walking God),9.9,2022,2
+"6,085",Darlings,6.6,2022,20
+"6,086",Unfinished Story,7.6,2022,1
+"6,087",Masoom Sawaal,2.2,2022,2
+"6,088",Naar Ka Sur,9.6,2022,6
+"6,089",Haryana,9.6,2022,4
+"6,090",Miami Seh New York,8.3,2022,0
+"6,093",Match Of Life,7.6,2022,0
+"6,094",Sayanna Varthakal,4.9,2022,9
+"6,095",Paggal,8.9,2022,0
+"6,096",Kanmani Pappa,6.6,2022,0
+"6,097",Death Slayer 2,9,2022,3
+"6,098",Laal Singh Chaddha,5.5,2022,17
+"6,099",Raksha Bandhan,5.1,2022,14
+"6,102",Cadaver,6.5,2022,9
+"6,103",Karthikeya 2,7.9,2022,11
+"6,106",Swaraj: Bharat Ke Swatantrata Sangram Ki Samagra Gatha,9.6,2022,1
+"6,107",Iftikhar,9.1,2022,0
+"6,109",Maali,9.3,2022,0
+"6,111",Firrkie,5.3,2022,0
+"6,114",Peace,7.2,2022,6
+"6,115",Aanchhi,9.2,2022,0
+"6,116",Liger,3,2022,1
+"6,118",Holy Cow,6.8,2022,0
+"6,120",The Last Prank,6.5,2022,0
+"6,123",Cuttputlli,5.8,2022,3
+"6,128",Brahmastra Part One: Shiva,5.6,2022,5
+"6,129",The Lift,8.6,2022,0
+"6,131",Subway,10,2022,3
+"6,132",Mrigja,9.4,2022,0
+"6,133",Monica O My Darling,7.7,2022,24
+"6,134",Kacchey Limbu,9.1,2022,1
+"6,136",Zwigato,8.5,2022,0
+"6,138",Khalli Balli,6.8,2022,0
+"6,141",Jahaan Chaar Yaar,4.1,2022,20
+"6,142",Siya,7.4,2022,7
+"6,143",Middle Class Love,7.4,2022,7
+"6,144",Jogi,7.2,2022,11
+"6,145",Mimamsa,2,2022,0
+"6,146",Dhaage,6.9,2022,5
+"6,147",Saroj Ka Rishta,9.6,2022,0
+"6,149",Chup,8.4,2022,19
+"6,151",Dhokha: Round D Corner,8.2,2022,15
+"6,152",Pokhar Ke Dunu Paar,6.1,2022,0
+"6,153",Atithi Bhooto Bhava,6.1,2022,21
+"6,154",Babli Bouncer,7,2022,15
+"6,155",Ishq Pashmina,9.1,2022,14
+"6,160",Raebareli,9.3,2022,0
+"6,161",Vikram Vedha,7.1,2022,12
+"6,163",Woh 3 Din,8.5,2022,0
+"6,165",Plan A Plan B,4.6,2022,7
+"6,169",Godfather,5.9,2022,8
+"6,171",Maja Ma,6.1,2022,18
+"6,172",Aa Bhi Ja O Piya,9.8,2022,3
+"6,173",Goodbye,8.1,2022,24
+"6,174",Hindutva,4.2,2022,0
+"6,177",Chakki,9.1,2022,1
+"6,178",Nazar Andaaz,8,2022,0
+"6,179",Nazar Andaaz,8,2022,0
+"6,182",Modi Ji Ki Beti,8.7,2022,0
+"6,183",Aye Zindagi,8.9,2022,1
+"6,186",Kahani Rubberband Ki,9.7,2022,3
+"6,188",Love You Loktantra,9.9,2022,1
+"6,190",Code Name: Tiranga,1.8,2022,10
+"6,191",Mid Day Meeal,6.6,2022,0
+"6,192",Jaggu Ki Lalten,7.8,2022,2
+"6,193",Doctor G,7.4,2022,16
+"6,196",The Bridge,6.8,2022,0
+"6,197",Ram Setu,5.2,2022,22
+"6,198",Ginna,8.3,2022,0
+"6,203",Thank God,6.1,2022,14
+"6,205",Har Har Mahadev,8.1,2022,14
+"6,207",Tara vs Bilal,3.5,2022,2
+"6,208",GG - Gandhada Gudi,9.6,2022,20
+"6,213",Double XL,6.2,2022,6
+"6,215",Ramrajya,8.6,2022,1
+"6,216",Phone Bhoot,7.2,2022,7
+"6,218",Mili,8.1,2022,12
+"6,221",Banaras,9.4,2022,5
+"6,222",Dhoop chhaon,9.6,2022,0
+"6,224",Boss Climax abhi Baki hai,10,2022,0
+"6,225",San' 75 (Pachattar),7.4,2022,0
+"6,226",Tadka,7,2022,1
+"6,227",Dada Lakhmi Chand,9.4,2022,7
+"6,229",Uunchai,8.1,2022,13
+"6,230",Yashoda,8.8,2022,12
+"6,234",Anth the End,6.6,2022,0
+"6,235",Rocket Gang,6.1,2022,2
+"6,268",Smile Hearts,No ratings,2022,1
+"6,300",The Green Force Mission 14th March,No ratings,2022,21

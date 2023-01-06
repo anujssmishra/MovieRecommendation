@@ -1,0 +1,543 @@
+Place,Movie Title,Rating,Year,Reviews
+1,Tapish,6.5,2000,2
+3,Kannan Varuvaan,6.2,2000,1
+4,Vamsee,4.6,2000,0
+8,Agniputra,5.1,2000,1
+9,Justice Chowdhary,4.6,2000,1
+11,Qurbaniyaan,4.6,2000,0
+13,Kaala Mandir,3.6,2000,0
+16,Bhoot Raaj,3.7,2000,0
+20,Champakali,4.7,2000,0
+26,Basanti,4.4,2000,0
+32,Zindagi,2.8,2000,0
+41,Bhayanak Maut,7.4,2000,0
+58,Khooni Kaala Jadu,6.6,2000,0
+63,Kaali Pahadi,4.6,2000,0
+80,Shamshaan,3.4,2000,0
+83,Saamri,3.2,2000,0
+118,Mansoor Miyanar Ghora,6.7,2000,0
+127,Jai Maa Durga,6.4,2000,0
+138,Chimanee Pakhre,7.9,2000,0
+140,Dum: Man Of Power,6.8,2000,0
+142,Uyirile Kalanthathu,6.3,2000,0
+154,Bulandi,5.2,2000,8
+155,Mela,3.6,2000,13
+156,Paromitar Ek Din,7.6,2000,5
+157,Kaho Naa... Pyaar Hai,6.9,2000,11
+158,Dulhan Hum Le Jayenge,5.1,2000,11
+159,Phir Bhi Dil Hai Hindustani,6.1,2000,22
+161,Mere Aagosh Mein,6.5,2000,0
+162,Sultaan,5.8,2000,1
+163,Dacait,6.1,2000,0
+164,Pukar,6.7,2000,9
+165,Badal,5.0,2000,4
+166,Apradhi Kaun,5.6,2000,0
+167,Aaj Ka Nanha Farishta,6.1,2000,0
+168,Hey Ram,7.9,2000,23
+169,Daku Ramkali,5.5,2000,0
+170,Khauff,4.5,2000,2
+171,Krodh,4.5,2000,3
+172,Papa the Great,5.5,2000,0
+174,Hera Pheri,8.1,2000,20
+175,Baaghi,4.4,2000,5
+176,Gang,6.2,2000,5
+177,Hadh Kar Di Aapne,5.3,2000,7
+179,Raja Kali Amman,4.3,2000,0
+180,Hari-Bhari,7.6,2000,3
+181,Chal Mere Bhai,4.7,2000,13
+182,Jung,4.2,2000,5
+183,Kya Kehna,5.8,2000,7
+184,Daak Bangla,4.8,2000,0
+185,Hum To Mohabbat Karega,3.0,2000,2
+187,Josh,6.1,2000,14
+188,Kabrastan,3.1,2000,0
+189,Joru Ka Ghulam,5.1,2000,2
+190,Tarkieb,5.0,2000,5
+191,Refugee,5.2,2000,7
+192,Bichhoo,5.0,2000,2
+193,Jungle,6.1,2000,9
+194,Kunwara,5.1,2000,3
+195,Har Dil Jo Pyar Karega...,5.1,2000,14
+196,Nidaan,6.4,2000,0
+197,Ek Ajooba,6.5,2000,0
+198,Deewane,4.6,2000,3
+199,Dhadkan,6.5,2000,23
+200,Woh Bewafa Thi,4.6,2000,0
+201,Tera Jadoo Chal Gayaa,3.1,2000,3
+202,Hamara Dil Aapke Paas Hai,5.5,2000,8
+203,Daku Ganga Jamuna,4.5,2000,0
+204,Bas Yaari Rakho,6.4,2000,1
+205,The Revenge: Geeta Mera Naam,2.7,2000,0
+206,Fiza,6.0,2000,20
+207,Karobaar: The Business of Love,3.8,2000,3
+208,Rhythm,7.7,2000,12
+209,Kaali Topi Lal Rumaal,6.2,2000,0
+210,Dil Pe Mat Le Yaar!!,5.2,2000,4
+211,Aaj Ka Ravan,4.4,2000,0
+214,Shikari,4.7,2000,8
+215,Aaghaaz,4.6,2000,5
+216,Astitva,7.4,2000,11
+218,Jis Desh Mein Ganga Rehta Hain,4.9,2000,7
+219,Mohabbatein,7.0,2000,24
+220,Mission Kashmir,6.6,2000,19
+221,Kurukshetra,6.1,2000,4
+222,Beti No. 1,3.7,2000,0
+223,Kahin Pyaar Na Ho Jaaye,4.4,2000,9
+224,Kaali Ki Saugandh,6.4,2000,0
+226,Bawandar,7.0,2000,3
+227,Anjaane,4.4,2000,0
+228,Ghaath,4.8,2000,2
+229,Gaja Gamini,4.4,2000,6
+230,Sabse Bada Be-Imaan,5.8,2000,0
+231,Raju Chacha,5.1,2000,5
+232,Raja Ko Rani Se Pyar Ho Gaya,3.6,2000,0
+233,Champion,4.5,2000,5
+234,Pandavas: The Five Warriors,4.7,2000,4
+235,Khiladi 420,5.2,2000,6
+236,Dhaai Akshar Prem Ke,3.5,2000,7
+237,Zindagi Zindabad,7.6,2000,0
+238,Snip!,5.5,2000,4
+239,Bhai Thakur,3.4,2000,0
+240,Satyameva Jayate,5.4,2000,0
+242,Tune Mera Dil Le Liyaa,3.7,2000,0
+243,Biwi No. 2,5.8,2000,0
+244,Jallad No. 1,4.5,2000,0
+245,Snegithiye,6.7,2000,2
+246,Nagadevathe,5.7,2000,0
+247,Choo Lenge Akash,7.5,2000,0
+248,Le Chal Apne Sang,6.2,2000,0
+249,Ek Sthree,6.1,2000,0
+250,Anokha Moti,7.6,2000,0
+252,Meri Jung Ka Elaan,5.8,2000,0
+253,Billa No. 786,4.5,2000,0
+254,Shikaar,3.9,2000,2
+256,Raat Ki Baat,4.2,2000,0
+257,Glamour Girl,2.1,2000,0
+259,Bechainee,No ratings,2000,1
+261,Sudhandhiram,4.2,2000,0
+262,Ayudha Pooja,5.6,2000,0
+264,Jwalamukhi,4.5,2000,0
+265,Ethirum Puthirum,5.4,2001,0
+266,Mohanayanangal,5.6,2001,0
+270,Apna Bana Ke Dekho,5.9,2001,0
+271,Adhipathi,4.4,2001,0
+273,Zakhmi Sherni,3.8,2001,0
+278,Junglee Tarzan,5.4,2001,0
+280,Mahakali Ka Insaaf,5.9,2001,0
+287,Bhooton Ka Honeymoon,5.3,2001,0
+289,Badla Sherni Ka,8.1,2001,0
+300,Josh-E-Jawaani,5.1,2001,0
+314,Meri Dhoti Tera Ghagra,5.6,2001,0
+315,Kottai Mariamman,4.0,2001,2
+334,Qatil Chudail,5.4,2001,0
+346,Aag Ke Sholay,7.3,2001,0
+350,Vatsyayana Kamasutra,5.9,2001,0
+374,Sai Teri Maya,6.8,2001,0
+377,Maut Ki Pukar,No ratings,2001,1
+385,Taandav: Tune of Taandav,3.1,2001,1
+386,Jaan Likhu Janam Likhu,3.6,2001,0
+394,Rowdy Cheetah,8.3,2001,0
+398,Galiyon Ka Badshah,6.6,2001,0
+399,Bindiya Mange Bandook,4.3,2001,0
+400,Farz,4.4,2001,6
+401,Devi Putrudu,5.7,2001,0
+402,Zubeidaa,6.5,2001,23
+403,Kuch Khatti Kuch Meethi,4.7,2001,5
+404,Bhairav,4.8,2001,2
+405,Aashiq,4.0,2001,4
+407,Bhagawat Ek Jung,4.8,2001,1
+408,Kasoor,6.0,2001,16
+410,Censor,3.1,2001,4
+411,Grahan,5.2,2001,3
+412,Jagira,5.6,2001,0
+414,Jeetenge Hum,6.1,2001,0
+415,Qatil Haseeno Ka,3.1,2001,0
+416,Ek Aur Jung,5.9,2001,0
+417,Zahreela,4.9,2001,1
+418,Chori Chori Chupke Chupke,5.5,2001,17
+419,Prematho Raa,5.2,2001,0
+420,Officer,4.3,2001,5
+421,American Desi,6.6,2001,15
+422,Rahul,5.4,2001,3
+424,One 2 Ka 4,5.4,2001,8
+425,Eduruleni Manishi,4.4,2001,0
+426,Love You Hamesha,5.2,2001,4
+427,Jungle Ki Sherni,6.9,2001,0
+428,Jodi No. 1,5.8,2001,2
+429,Little John,5.1,2001,1
+430,Albela,3.6,2001,7
+431,Chhupa Rustam: A Musical Thriller,4.9,2001,3
+432,Pyaar Tune Kya Kiya...,5.7,2001,9
+435,Ek Lootera,7.5,2001,0
+436,Daman: A Victim of Marital Violence,5.5,2001,4
+437,Uljhan,4.7,2001,2
+438,Khatron Ke Khiladi,4.2,2001,0
+440,Ek Rishtaa: The Bond of Love,5.2,2001,12
+441,Ammayi Kosam,5.8,2001,0
+442,Mujhe Kucch Kehna Hai,4.7,2001,11
+443,Mis Chalu,6.0,2001,0
+444,Avgat,5.0,2001,1
+445,Zaroorat,3.6,2001,0
+446,Paagalpan,6.8,2001,0
+447,Lagaan: Once Upon a Time in India,8.1,2001,7
+448,Gadar: Ek Prem Katha,7.3,2001,19
+449,Bhalevadivi Basu,5.1,2001,0
+451,Mujhe Meri Biwi Se Bachaao,4.2,2001,3
+452,Yaadein...,4.2,2001,8
+453,Love Ke Liye Kuch Bhi Karega,6.0,2001,5
+454,Bas Itna Sa Khwaab Hai...,3.8,2001,1
+455,Aks,5.8,2001,21
+456,Tum Bin...: Love Will Find a Way,7.5,2001,13
+457,Dhill,7.0,2001,2
+458,Gumnam Qatil,3.3,2001,0
+460,Laadli,8.8,2001,0
+462,Dil Chahta Hai,8.1,2001,4
+463,Yeh Raaste Hain Pyaar Ke,4.0,2001,3
+464,Meri Pyaari Bahania Banegi Dulhania,5.9,2001,0
+465,Cover Story,5.5,2001,1
+466,Monsoon Wedding,7.3,2001,17
+467,Lajja,6.6,2001,19
+468,Nayak: The Real Hero,7.8,2001,20
+469,Shirdi Sai Baba,4.5,2001,3
+470,Maya,7.1,2001,15
+471,Pyaar Zindagi Hai,6.5,2001,3
+472,Everybody Says I'm Fine!,5.9,2001,9
+473,Asoka,6.4,2001,8
+474,Ajnabee,6.3,2001,15
+475,Kyo Kii... Main Jhuth Nahin Bolta,5.4,2001,5
+476,The Warrior,6.7,2001,1
+477,Pyaar Ishq Aur Mohabbat,4.2,2001,5
+478,Chandni Bar,7.6,2001,16
+479,Saugandh Geeta Ki,4.4,2001,0
+480,The Mystic Masseur,5.8,2001,17
+481,Dial 100,No ratings,2001,1
+483,Yeh Teraa Ghar Yeh Meraa Ghar,5.9,2001,5
+484,Rehnaa Hai Terre Dil Mein,7.6,2001,18
+486,Indian,5.4,2001,7
+487,Mitti,5.1,2001,0
+488,Bhago Boot,7.6,2001,1
+489,Daughters of This Century,7.1,2001,0
+490,Tera Mera Saath Rahen,5.1,2001,4
+491,Boond,4.6,2001,0
+492,Aalavandhan,7.1,2001,21
+493,Yeh Zindagi Ka Safar,3.6,2001,3
+494,Deewaanapan,4.6,2001,2
+495,Kasam,2.9,2001,2
+496,Arjun Devaa,3.9,2001,1
+497,Moksha: Salvation,6.3,2001,12
+498,Ehsaas: The Feeling,5.3,2001,4
+499,Bub (Father),8.8,2001,0
+500,Kabhi Khushi Kabhie Gham...,7.4,2001,25
+501,Majunu,5.1,2001,0
+502,Tere Liye,5.6,2001,0
+503,Aamdani Atthanni Kharcha Rupaiya,4.7,2001,6
+504,Style,6.7,2001,5
+505,Dil Ne Phir Yaad Kiya,3.3,2001,1
+506,Rakkilikal,3.4,2001,0
+507,Dattak,7.7,2001,5
+508,Hum Ho Gaye Aap Ke,4.4,2001,6
+509,Ittefaq,4.8,2001,1
+510,Veer Savarkar,7.7,2001,5
+512,Master,5.0,2001,0
+513,Hadh: Life on the Edge of Death,4.2,2001,0
+514,Baaja,6.7,2001,0
+516,Afsana Dilwalon Ka,3.6,2001,0
+517,Is Pyaar Ko Kya Naam Doon,6.2,2001,0
+518,Bengal Tiger,5.4,2001,1
+519,Inteqam,2.8,2001,0
+520,Husn Ke Lootere,4.2,2001,0
+521,Tamboo Mein Bamoo,7.7,2001,0
+522,Hum Deewane Pyar Ke,6.7,2001,1
+523,Devi Durga Shakti,6.1,2001,0
+524,Dal: The Gang,5.5,2001,0
+525,Meri Adaalat,4.4,2001,1
+526,Aaj Ka Gunda,5.0,2001,0
+527,Yeh Hai Pyar Ka Mausam,3.8,2001,1
+528,Jai Ganesh Deva,4.0,2001,0
+529,Bhooka Sher,5.2,2001,1
+530,Amma Nagamma,6.3,2001,0
+532,Thavasi,4.7,2001,0
+533,Dafan,4.4,2001,0
+535,Kasam Tere Pyar Ki,6.3,2001,1
+538,Yamini,4.5,2002,0
+539,Miss Suvarna,6.2,2002,0
+540,Soundharyalahari,4.4,2002,0
+542,Taqdeer Ka Sikander,5.8,2002,0
+543,Dushmani,7.6,2002,0
+544,Gautam Govinda,3.1,2002,1
+545,Hindustani Sipahi,5.8,2002,0
+546,Mawali No.1,3.9,2002,0
+547,Meri Partigya,4.0,2002,0
+549,Badmaash No.1,4.9,2002,1
+550,Raat Ke Saudagar,No ratings,2002,1
+553,Tarzan Ki Beti,5.1,2002,0
+562,Shola Bai,3.2,2002,0
+609,Har Har Mahadev,7.8,2002,0
+610,Aag Ka Prem Yudh,9.0,2002,0
+625,Yodha the Warrior,7.9,2002,0
+627,Durga Maiya,No ratings,2002,1
+631,Daag: The Burning Fire,7.7,2002,0
+633,Simhadriya Simha,8.1,2002,0
+634,Bhagat Singh,3.3,2002,0
+637,Pitaah,6.4,2002,8
+638,Inth Ka Jawab Patthar,3.3,2002,0
+640,Koi Mere Dil Se Poochhe,3.4,2002,3
+641,Takkari Donga,6.6,2002,1
+642,Yeh Dil Aashiqanaa,4.3,2002,6
+643,Maa Tujhhe Salaam,3.6,2002,2
+644,Filhaal...,5.7,2002,10
+645,Raaz,6.6,2002,7
+646,Kali Salwaar,6.1,2002,1
+647,Yeh Mohabbat Hai,5.2,2002,1
+648,Haan Maine Bhi Pyaar Kiya,3.6,2002,10
+649,Mitr: My Friend,6.8,2002,7
+650,Tumko Na Bhool Paayenge,5.7,2002,19
+652,Kranti,3.9,2002,1
+653,16 December,6.9,2002,10
+654,Kitne Door... Kitne Paas,4.4,2002,2
+655,Vadh,6.1,2002,5
+656,Ansh: The Deadly Part,6.5,2002,3
+657,Aankhen,7.4,2002,4
+658,Divine Temple Khajuraho,4.7,2002,0
+659,Kya Yehi Pyaar Hai,4.2,2002,6
+660,Gemini,6.2,2002,2
+661,Thamizhan,5.9,2002,0
+662,Company,8.0,2002,21
+663,Aap Mujhe Achche Lagne Lage,3.1,2002,13
+664,Pyaar Diwana Hota Hai,3.8,2002,5
+665,Tum Se Achcha Kaun Hai,4.8,2002,6
+666,Lal Salaam,6.6,2002,2
+667,Santosham,7.2,2002,2
+668,Na Tum Jaano Na Hum,4.9,2002,8
+669,Ab Ke Baras,3.4,2002,1
+670,Danger,6.9,2002,3
+671,Kabhie Tum Kabhie Hum,4.4,2002,0
+673,Devdas,7.5,2002,24
+674,Hum Tumhare Hain Sanam,5.3,2002,19
+675,Yeh Kaisi Mohabbat,3.9,2002,4
+676,Hum Kisi Se Kum Nahin,4.2,2002,7
+677,Shaheed-E-Azam,7.6,2002,1
+678,The Legend of Bhagat Singh,8.2,2002,4
+679,Mere Yaar Ki Shaadi Hai,5.4,2002,13
+680,23rd March 1931: Shaheed,5.2,2002,11
+681,Badhaai Ho Badhaai,4.7,2002,4
+682,Awara Paagal Deewana,6.2,2002,21
+683,Kuch Tum Kaho Kuch Hum Kahein,5.9,2002,4
+684,Kyaa Dil Ne Kahaa,2.9,2002,3
+687,Yeh Hai Jalwa,4.8,2002,6
+688,Om Jai Jagadish,5.5,2002,10
+689,Shararat,4.8,2002,4
+690,Border Kashmir,4.5,2002,0
+691,Humraaz,6.4,2002,17
+692,Akhiyon Se Goli Maare,5.1,2002,6
+693,Mujhse Dosti Karoge!,5.0,2002,3
+694,Chhal,6.6,2002,3
+695,Encounter: The Killing,6.2,2002,2
+696,Devi Ahilya Bai,7.0,2002,1
+697,Gangobai,3.7,2002,0
+698,Jaani Dushman: Ek Anokhi Kahani,2.6,2002,2
+699,Maine Dil Tujhko Diya,4.0,2002,7
+700,Soch,4.4,2002,2
+701,Chor Machaaye Shor,4.3,2002,5
+702,Sabse Badhkar Hum,2.8,2002,1
+703,Dil Hai Tumhaara,5.5,2002,16
+704,Ek Chhotisi Love Story,3.1,2002,13
+705,King,5.6,2002,0
+706,Sur: The Melody of Life,6.5,2002,11
+708,Shakthi: The Power,6.0,2002,24
+709,Road,5.7,2002,12
+710,Darwaza,4.5,2002,2
+711,Dhumm,7.4,2002,0
+712,Zindagi Khoobsoorat Hai,5.7,2002,1
+713,Pyaasa,3.4,2002,1
+714,Yeh Kya Ho Raha Hai?,4.7,2002,1
+715,Gunaah,3.4,2002,6
+716,Dil Vil Pyar Vyar,5.4,2002,5
+717,Hathyar: Face to Face with Reality,5.7,2002,7
+718,The Truth... Yathharth,6.7,2002,0
+719,Deewangee,6.5,2002,17
+720,Makdee,7.5,2002,7
+721,Annarth,3.0,2002,5
+722,Waah! Tera Kya Kehna,3.8,2002,3
+723,Hum Pyar Tumhi Se Kar Baithe,5.5,2002,0
+724,Kehtaa Hai Dil Baar Baar,4.7,2002,3
+725,Reshma Aur Sultaan,6.8,2002,0
+726,Jeena Sirf Merre Liye,3.9,2002,3
+727,Desh Devi,9.8,2002,0
+728,Maseeha,4.1,2002,2
+729,Rishtey,4.8,2002,8
+730,Karz: The Burden of Truth,4.0,2002,3
+731,Hum Hain Pyaar Mein,3.6,2002,0
+732,Guru Mahaaguru,4.2,2002,1
+733,Kaante,6.6,2002,10
+734,Saathiya,6.8,2002,4
+735,Chalo Ishq Ladaaye,4.4,2002,5
+736,Pyar Ki Dhun,2.5,2002,0
+737,Durga,5.1,2002,0
+738,Angaar: The Fire,4.5,2002,1
+739,Bharat Bhagya Vidhata,6.3,2002,0
+740,Nishad,5.7,2002,0
+741,Junoon,4.3,2002,0
+745,Amma,7.6,2002,0
+746,Desh,5.1,2002,0
+747,Haathi Ka Anda,6.8,2002,0
+748,Duplicate Sholay,6.8,2002,0
+749,Ghaav: The Wound,6.1,2002,0
+750,Pratha,6.5,2002,2
+752,Aakhri Inteqam,2.8,2002,1
+753,Mulaqaat,3.2,2002,0
+755,Tum Jiyo Hazaron Saal,6.2,2002,0
+756,Ek Aur Visphot,4.0,2002,0
+757,Marshal,5.9,2002,1
+758,Kaaboo,6.9,2002,1
+759,Be-Lagaam,3.4,2002,0
+762,Sainika,7.5,2002,0
+763,Marma,7.0,2002,1
+764,Dharini,7.9,2002,0
+769,Ottran,5.7,2003,0
+771,Sabse Badi Ganga Ki Saugandh,3.2,2003,0
+774,Bad Boys,3.8,2003,0
+776,Bhoot Ke Peeche Bhoot,4.0,2003,0
+778,Maut Ke Peeche Maut,6.4,2003,0
+814,Pyaasi,6.7,2003,0
+815,Pyaasa Haiwan,6.5,2003,0
+816,Pyaasi Bhootni,6.5,2003,0
+831,Mahima Kashi Vishwanath Ki,8.0,2003,0
+835,Main Hoon Chalbaaz,6.5,2003,0
+836,Neelambari,7.8,2003,0
+849,Swarg Aashram,3.7,2003,0
+852,Diwan,3.2,2003,0
+855,Talaash: The Hunt Begins...,4.3,2003,5
+856,Tujhe Meri Kasam,6.3,2003,5
+857,Ek Alag Mausam,7.0,2003,1
+858,Hollywood,7.4,2003,3
+859,Aapko Pehle Bhi Kahin Dekha Hai,4.7,2003,5
+860,Swaraaj,7.6,2003,0
+861,Anbe Sivam,8.7,2003,13
+862,Dil Ka Rishta,4.8,2003,18
+863,Jism,5.3,2003,15
+865,Dum,5.7,2003,4
+866,Kucch To Hai,4.3,2003,9
+868,Satta,6.8,2003,10
+869,Khushi,4.2,2003,5
+870,Baaz: A Bird in Danger,3.4,2003,5
+871,Escape from Taliban,4.5,2003,10
+872,Love at Times Square,2.2,2003,5
+873,Kash... Aap Hamare Hote,5.1,2003,2
+874,Bas Yun Hi,5.6,2003,4
+875,Dhund: The Fog,2.9,2003,9
+876,Valentine Days,1.8,2003,0
+878,Indian Babu,4.8,2003,2
+879,Meri Ganga Ki Saugandh,7.0,2003,0
+880,Chura Liyaa Hai Tumne,3.8,2003,10
+881,Om,4.3,2003,0
+883,Yeh Dil,4.0,2003,7
+884,The Hero: Love Story of a Spy,5.4,2003,14
+885,Ishq Vishk,6.1,2003,7
+886,Chota Jadugar,4.9,2003,0
+887,Pran Jaaye Par Shaan Na Jaaye,6.3,2003,4
+888,Pudhiya Geethai,4.7,2003,1
+889,Kaise Kahoon Ke... Pyaar Hai,3.9,2003,2
+890,Armaan,5.3,2003,14
+891,Stumped,2.6,2003,3
+892,Haasil,7.6,2003,13
+893,Andaaz,5.2,2003,14
+894,Bhoot,6.4,2003,4
+895,Parasuram,4.7,2003,0
+896,Jajantaram Mamantaram,5.9,2003,10
+897,Khwahish,4.1,2003,9
+898,Nayee Padosan,5.5,2003,4
+899,3 Deewarein,7.8,2003,10
+900,Aaj Ka Andha Kanoon,3.6,2003,0
+901,Chalte Chalte,6.5,2003,9
+902,Jhankaar Beats,7.2,2003,17
+903,Supari,4.3,2003,1
+904,Border Hindustan Ka,5.2,2003,0
+905,Main Prem Ki Diwani Hoon,3.8,2003,15
+906,88 Antop Hill,4.6,2003,2
+907,Khanjar,3.3,2003,4
+908,Calcutta Mail,5.7,2003,6
+909,Hawa,3.2,2003,9
+910,Saaya,5.7,2003,10
+911,Kahan Ho Tum,4.2,2003,2
+912,Qayamat: City Under Threat,4.7,2003,12
+913,Jaal: The Trap,4.3,2003,5
+914,Maa Santoshi Maa,8.8,2003,0
+915,Darna Mana Hai,6.3,2003,8
+916,Kabirdas,6.6,2003,2
+917,Chori Chori,4.9,2003,7
+918,Hungama,7.6,2003,1
+919,Sambaram,6.1,2003,0
+920,Chaalbaaz,5.7,2003,0
+921,Koi... Mil Gaya,7.1,2003,6
+922,Basti,7.6,2003,0
+923,Tere Naam,7.2,2003,21
+924,Footpath,5.4,2003,7
+925,Raghu Romeo,6.9,2003,7
+926,Hawayein,7.2,2003,3
+927,Bhayaanak Panjaa,5.3,2003,0
+928,Mumbai Se Aaya Mera Dost,3.3,2003,4
+929,Seetayya,6.4,2003,0
+930,Kuch Naa Kaho,5.4,2003,21
+931,Gangaajal,7.8,2003,23
+932,Tada,5.3,2003,2
+933,Miss India: The Mystery,3.7,2003,0
+934,Rules: Pyaar Ka Superhit Formula,6.4,2003,2
+936,Boom,2.3,2003,23
+937,Maqbool,8.0,2003,17
+938,Matrubhoomi: A Nation Without Women,7.7,2003,25
+939,Joggers' Park,6.2,2003,5
+940,Parwana,2.5,2003,1
+941,Chupke Se,5.6,2003,3
+942,Market,4.1,2003,4
+943,Paanch,7.6,2003,1
+944,Hum Panchi Ek Daal Ke,5.6,2003,0
+945,Mumbai Matinee,5.1,2003,6
+946,Zameen,5.4,2003,9
+947,Xcuse Me,5.7,2003,5
+948,Aanch,5.6,2003,2
+951,Three Roses,4.4,2003,0
+952,Baghban,7.4,2003,22
+953,Guru,5.4,2003,0
+954,Main Madhuri Dixit Banna Chahti Hoon!,6.3,2003,12
+955,Kagaar: Life on the Edge,5.9,2003,2
+956,Samay: When Time Strikes,7.0,2003,25
+957,Pinjar: Beyond Boundaries...,7.9,2003,13
+958,Sssshhh...,4.4,2003,8
+959,Inteha,5.3,2003,4
+960,Raja Bhaiya,3.8,2003,2
+961,Anjaneya,3.4,2003,2
+962,Jung Ke Sholay,6.6,2003,0
+963,Road to Ladakh,5.9,2003,4
+964,Ek Din 24 Ghante,4.0,2003,5
+965,Dhoop,7.5,2003,7
+966,Patth,5.5,2003,0
+967,Khel,4.1,2003,6
+968,Jodi Kya Banayi Wah Wah Ramji,4.1,2003,2
+969,Waisa Bhi Hota Hai Part II,7.4,2003,10
+971,Yeh Hai Chakkad Bakkad Bumbe Bo,6.3,2003,0
+972,Tehzeeb,5.7,2003,11
+973,Out of Control,3.3,2003,4
+974,Taj Mahal: A Monument of Love,6.9,2003,6
+975,Janasheen,3.1,2003,8
+976,Kal Ho Naa Ho,7.9,2003,15
+977,Sandhya,7.1,2003,0
+978,LOC: Kargil,5.3,2003,13
+979,Dil Pardesi Ho Gayaa,5.0,2003,4
+980,Wrong Number,4.3,2003,2
+981,Mudda: The Issue,4.2,2003,1
+982,Munna Bhai M.B.B.S.,8.1,2003,22
+983,Fun2shh... Dudes in the 10th Century,4.6,2003,5
+986,Paap,5.2,2003,7
+987,"Knock Knock, I'm Looking to Marry",5.6,2003,5
+990,Ek Hindustani,6.2,2003,0
+991,Sanatta: The Silence,4.4,2003,0
+992,Oops!,3.7,2003,2
+993,Danav,5.0,2003,1
+994,Chameli,6.8,2003,22
+995,Hazaaron Khwaishein Aisi,7.9,2003,18
+996,2 October,5.4,2003,2
+997,Naag Lok,3.9,2003,0
+998,Tu Bal Bramhachari Main Hoon Kanya Kunwari,4.4,2003,0
+999,Kyon?,3.5,2003,1
+"1,000",Raghu More: Bachelor of Hearts,4.8,2003,1

@@ -1,0 +1,704 @@
+Place,Movie Title,Rating,Year,Reviews
+"5,001",Housefull 4,3.5,2019,22
+"5,003",Made in China,6.2,2019,1
+"5,004",Kanpuriye,6.2,2019,16
+"5,005",Bedhab,5.5,2019,9
+"5,007",Marne Bhi Do Yaaron,5.2,2019,3
+"5,008",Ujda Chaman,6.9,2019,11
+"5,009",Drive,3.1,2019,18
+"5,010",Zindagi Tumse,6.0,2019,2
+"5,012",Jwlwi - The Seed,8.3,2019,3
+"5,014",Bala,7.3,2019,22
+"5,015",Josef - Born in Grace,8.6,2019,1
+"5,018",Ekta,7.1,2019,10
+"5,019",Bypass Road,5.4,2019,3
+"5,020",Satellite Shankar,6.3,2019,19
+"5,022",Action,4.6,2019,25
+"5,023",House Arrest,5.5,2019,20
+"5,025",Keep Safe Distance,No ratings,2019,2
+"5,026",Motichoor Chaknachoor,5.8,2019,1
+"5,027",Marjaavaan,3.6,2019,22
+"5,029",Alajh Palajh,8.7,2019,0
+"5,030",Lorni - The Flaneur,6.7,2019,1
+"5,031",Hum Bhi Akele Tum Bhi Akele,5.3,2019,6
+"5,033",La cinta de Alex,5.9,2019,2
+"5,035",Pagalpanti,3.2,2019,11
+"5,036",Odd Couple,4.6,2019,3
+"5,037",Kadakh,6.9,2019,11
+"5,039",Marksheet,2.5,2019,0
+"5,040",Yeh Saali Aashiqui,7.9,2019,19
+"5,041",A Gift of Love: Sifar,8.3,2019,0
+"5,043",LuvUTurn,8.0,2019,0
+"5,044",X Ray: The Inner Image,3.8,2019,0
+"5,045",Commando 3,5.9,2019,21
+"5,046",Damayanthi,7.4,2019,7
+"5,049",Devi Aur Hero,8.5,2019,5
+"5,051",Panipat,5.2,2019,9
+"5,052",Pati Patni Aur Woh,5.8,2019,7
+"5,056",The Body,5.4,2019,23
+"5,057",Mudda 370 J&K,8.0,2019,23
+"5,060",Mardaani 2,7.3,2019,3
+"5,061",Unfriends,8.4,2019,0
+"5,063",Dabangg 3,3.0,2019,19
+"5,066",Happi,7.6,2019,4
+"5,068",Upeksha,8.6,2019,0
+"5,069",Good Newwz,6.8,2019,5
+"5,080",Fyaar,8.6,2019,0
+"5,085",Lohardaga,7.9,2019,0
+"5,087",Seasons Greeting,7.2,2019,1
+"5,090",Dimensions,7.0,2019,0
+"5,091",Baal Ki Khaal,7.8,2019,0
+"5,092",Used,8.3,2019,0
+"5,093",Dhumkkudiya,No ratings,2019,2
+"5,096",Verdict,6.3,2019,1
+"5,099",Lakhmipur ke Lukkhe,No ratings,2019,1
+"5,108",Dhuusar,8.9,2019,2
+"5,110",Ghost Stories,4.4,2020,13
+"5,111",Beautiful,7.3,2020,0
+"5,113",Koler Gaan,7.2,2020,0
+"5,115",Astounding Courage in Distress,7.1,2020,5
+"5,116",Antervyathaa,5.6,2020,0
+"5,119",Shimla Mirchi,4.6,2020,15
+"5,120",English Ki Taay Taay Fisss ...,7.2,2020,0
+"5,121",Sab Kushal Mangal,4.2,2020,10
+"5,122",Bhangra Paa Le,6.3,2020,23
+"5,124",Darbar,6.0,2020,21
+"5,125",Tanhaji: The Unsung Warrior,7.5,2020,11
+"5,126",Chhapaak,5.3,2020,9
+"5,127",Ala Vaikunthapurramuloo,7.3,2020,9
+"5,128",Dhauli,8.0,2020,0
+"5,129",Bunker,7.2,2020,18
+"5,130",Awasaan,8.8,2020,7
+"5,132",Jai Mummy Di,3.7,2020,14
+"5,133",Court Martial,7.1,2020,12
+"5,136",Panga,6.8,2020,25
+"5,137",Street Dancer 3D,3.6,2020,6
+"5,138",Gul Makai,2.5,2020,1
+"5,139",Kottayam,8.0,2020,4
+"5,141",Ek Sainik: The Tale of a Warrior,9.4,2020,9
+"5,143",Happy Hardy and Heer,5.6,2020,15
+"5,144",Run Zindagi Run,8.9,2020,0
+"5,145",Pagleaazam,7.7,2020,0
+"5,146",Deendayal Ek Yug Purush,9.1,2020,0
+"5,147",Jawaani Jaaneman,6.5,2020,14
+"5,148",Marma Mudichu,6.6,2020,0
+"5,151",Malang - Unleash the Madness,6.5,2020,9
+"5,152",Shikara,3.3,2020,16
+"5,153",Khwab Sare Jhootey,8.1,2020,3
+"5,154",Taanashah,7.7,2020,0
+"5,155",Hacked,4.3,2020,19
+"5,156",3 Shyaane,8.3,2020,0
+"5,158",Kaanchli Life in a Slough,4.9,2020,4
+"5,159",The Journey Weekend Night,7.0,2020,0
+"5,161",Yahan Sabhi Gyani Hain,4.9,2020,9
+"5,162",Love Aaj Kal,4.7,2020,21
+"5,163",A Game Called Relationship,4.7,2020,17
+"5,164",Shukranu,6.4,2020,16
+"5,166",Bhoot: Part One - The Haunted Ship,5.4,2020,19
+"5,167",Yeh Ballet,7.5,2020,9
+"5,168",Shubh Mangal Zyada Saavdhan,5.8,2020,14
+"5,169",The Hundred Bucks,6.4,2020,2
+"5,171",Thappad,7.0,2020,9
+"5,172",Sthalpuran,6.5,2020,0
+"5,173",Doordarshan,6.1,2020,5
+"5,174",O Pushpa I Hate Tears,5.3,2020,0
+"5,175",Haunted Hills,7.4,2020,9
+"5,176",Guns of Banaras,5.8,2020,1
+"5,177",Kehta Hai Yeh Dil,3.9,2020,0
+"5,178",Cookie,5.9,2020,17
+"5,179",Rizwan,7.8,2020,2
+"5,181",Laila Aur Satt Geet,6.6,2020,2
+"5,186",Dheet Patangey,7.2,2020,11
+"5,187",Welcome on Board,8.4,2020,8
+"5,189",Baaghi 3,2.1,2020,10
+"5,190",Guilty,5.4,2020,18
+"5,191",Most Common Budbak,7.8,2020,14
+"5,192",Operation Parindey,4.7,2020,10
+"5,194",Atithi Kab Aoge Shhamshan,5.2,2020,0
+"5,195",Angrezi Medium,7.2,2020,23
+"5,199",Wanton,3.1,2020,7
+"5,202",Maska,5.9,2020,1
+"5,205",Bamfaad,7.3,2020,15
+"5,207",One Stop for Love,8.9,2020,1
+"5,208",The Pushkar Lodge,8.9,2020,0
+"5,210",Ateet,4.4,2020,19
+"5,212",Mrs. Serial Killer,4.2,2020,16
+"5,214",Vyavastha,9.0,2020,0
+"5,219",Silence of Sleep,No ratings,2020,1
+"5,220",Parinati,7.6,2020,1
+"5,221",The Motorcycle Man,No ratings,2020,2
+"5,222",Ghoomketu,5.5,2020,1
+"5,223",Little Singham: Kaal Ka Badla,7.4,2020,0
+"5,227",Choked: Paisa Bolta Hai,5.7,2020,10
+"5,228",Ek Battey Do,8.7,2020,0
+"5,229",Chintu Ka Birthday,7.7,2020,5
+"5,230",Climax,2.1,2020,15
+"5,231",Gulabo Sitabo,6.3,2020,16
+"5,232",Home Stories,3.5,2020,0
+"5,233",Chaman Bahaar,6.9,2020,2
+"5,235",Jannat House,7.3,2020,0
+"5,236",Bulbbul,6.5,2020,2
+"5,237",Unlock,5.9,2020,0
+"5,240",I Know You,3.6,2020,6
+"5,242",Virgin Bhanupriya,2.7,2020,25
+"5,243",No Man's Truth,6.9,2020,10
+"5,244",Gunjan Saxena: The Kargil Girl,5.6,2020,20
+"5,245",Dil Bechara,8.1,2020,10
+"5,246",Baabul Ki Dua,8.7,2020,1
+"5,247",Yaara,6.1,2020,11
+"5,248",Lootcase,7.6,2020,14
+"5,249",Shakuntala Devi,6.1,2020,13
+"5,251",Raat Akeli Hai,7.2,2020,25
+"5,253",My Client's Wife,6.2,2020,12
+"5,254",Maali,8.5,2020,1
+"5,255",Pareeksha,8.1,2020,14
+"5,258",The Hidden Strike,3.6,2020,7
+"5,262",Khuda Haafiz,7.1,2020,14
+"5,263",Filmi Raasleela,8.3,2020,2
+"5,264",Class of 83,5.8,2020,21
+"5,265",Mee Raqsam,6.7,2020,5
+"5,266",Kriya,5.0,2020,4
+"5,268",Ram Singh Charlie,7.9,2020,25
+"5,269",Sadak 2,1.1,2020,1
+"5,270",Meel patthar,6.6,2020,22
+"5,271",Tallukh,5.8,2020,18
+"5,272",Atkan Chatkan,7.7,2020,24
+"5,273",I Am Not Blind,9.0,2020,15
+"5,274",Love Qubool Hai,9.5,2020,0
+"5,277",Regards & Peace,5.8,2020,0
+"5,279",Vilom,6.2,2020,6
+"5,281",London Confidential,6.1,2020,15
+"5,285",The Evening Show,9.3,2020,7
+"5,286",Halahal,7.0,2020,17
+"5,287",Nympho: The Lust Story,5.0,2020,4
+"5,288",X Zone,3.1,2020,0
+"5,289",Dhoosarit - the Grey,6.6,2020,10
+"5,290",Black Rose,8.4,2020,10
+"5,292",Badnaam,6.9,2020,3
+"5,293",Serious Men,6.8,2020,4
+"5,294",Khaali Peeli,2.4,2020,24
+"5,295",Bahut Hua Sammaan,7.2,2020,4
+"5,297",Ginny Weds Sunny,5.7,2020,13
+"5,299",376 D,5.2,2020,14
+"5,300",Evil Eye,4.8,2020,2
+"5,302",Chote Nawab,6.4,2020,1
+"5,303",Shahzada Ali,8.4,2020,0
+"5,306",The Reluctant Crime,9.2,2020,0
+"5,307",Comedy Couple,7.4,2020,18
+"5,308",Colour Photo,8.2,2020,5
+"5,309",Matto Ki Saikil,9.0,2020,5
+"5,310",The Cage of Life,8.8,2020,0
+"5,311",Footfairy,4.6,2020,20
+"5,312",Damru-story behind a small change,8.7,2020,0
+"5,313",Kaali Khuhi,3.5,2020,8
+"5,316",Taish,7.4,2020,22
+"5,319",One and a Half Knot,9.2,2020,15
+"5,321",Kosa,7.6,2020,1
+"5,322",Shehri Gabru,8.6,2020,10
+"5,323",Shubh Raatri,4.7,2020,20
+"5,325",Pepper Chicken,5.7,2020,11
+"5,326",Welcome Home,7.4,2020,3
+"5,328",Laxmii,2.6,2020,25
+"5,331",Soorarai Pottru,8.7,2020,1
+"5,332",Fukrey Boyzzz: Space Mein Fukrapanti,8.5,2020,0
+"5,333",Ludo,7.6,2020,5
+"5,334",Chhalaang,6.7,2020,13
+"5,336",Siyavar Ram - Ramayana,6.4,2020,0
+"5,338",Suraj Pe Mangal Bhari,5.9,2020,5
+"5,339",Scorned,3.3,2020,2
+"5,341",Mera Ramrajya Nai Kranti,9.3,2020,9
+"5,342",Das Capital Gulamon Ki Rajdhani,7.2,2020,2
+"5,343",LLD,8.6,2020,0
+"5,344",Meher,9.3,2020,1
+"5,345",Aahvaan,8.2,2020,0
+"5,347",Namumkin Tere Bin Jeena,5.5,2020,1
+"5,348",Vinash Kaal,6.2,2020,0
+"5,349",Shaheen Baghi,8.0,2020,0
+"5,350",Captain Vidyut,7.4,2020,1
+"5,357",Darbaan,7.4,2020,20
+"5,359",Bye2,8.1,2020,1
+"5,361",Durgamati: The Myth,4.0,2020,6
+"5,362",Indoo Ki Jawani,3.3,2020,17
+"5,363",Wishlist,4.4,2020,24
+"5,364",Torbaaz,6.8,2020,24
+"5,365",Teri Diwali Meri Christmas,5.9,2020,8
+"5,366",Musings of an Uninspired Artist,9.1,2020,6
+"5,368",Unpaused,7.0,2020,20
+"5,369",Omprakash Zindabad,5.5,2020,0
+"5,370",Sayonee,5.9,2020,11
+"5,372",Coolie No. 1,4.2,2020,6
+"5,373",AK vs AK,6.9,2020,12
+"5,374",The whammy,8.6,2020,3
+"5,375",Shakeela,3.3,2020,24
+"5,378",Balakot: the true story,5.8,2020,0
+"5,395",Vidhan,6.1,2020,1
+"5,396",Sragaal,8.7,2020,0
+"5,401",Ghost Story - An Abstract Film,7.6,2020,0
+"5,405",Amar Prem,4.7,2020,1
+"5,406",Myakut,4.9,2020,1
+"5,419",Nail Polish,7.3,2021,6
+"5,420",Yug the law of karma,6.2,2021,1
+"5,422",Kaagaz,7.3,2021,24
+"5,423",12 O'Clock,3.1,2021,15
+"5,424",My Darling,5.6,2021,0
+"5,425",Master,7.3,2021,18
+"5,426",The Power,5.4,2021,10
+"5,428",Tribhanga,6.2,2021,20
+"5,431","Indradhanush, the Grey Shades of Love",8.4,2021,0
+"5,432",Bolo Hau,6.5,2021,0
+"5,434",Aavartan,8.6,2021,0
+"5,435",Jamun,7.3,2021,13
+"5,436",Boxed,5.7,2021,0
+"5,437",Main Mulayam Singh Yadav,3.8,2021,10
+"5,438",Machaan,5.4,2021,9
+"5,439",Evil Dead Is Back,3.2,2021,0
+"5,440",Madam Chief Minister,4.8,2021,21
+"5,441",The White Tiger,7.1,2021,7
+"5,445",Koi Sath Hai,3.1,2021,4
+"5,446",Om Shri Satya Sai Baba,9.4,2021,0
+"5,447",Majjma,7.5,2021,3
+"5,449",Fire in the Mountains,6.9,2021,0
+"5,450",Noise of Silence,7.4,2021,5
+"5,451",NCR: Chapter One,8.4,2021,5
+"5,452",Lahore Confidential,2.9,2021,18
+"5,453",Harpal Pagalpan,9.0,2021,0
+"5,454",8119 Miles,6.5,2021,10
+"5,455",Barah by Barah,7.3,2021,3
+"5,456",Fabulous fashion week,No ratings,2021,1
+"5,458",The Right Click,6.6,2021,0
+"5,461",Bawri Chhori,4.0,2021,10
+"5,462",Victim,5.3,2021,1
+"5,463",Tuesdays and Fridays,4.4,2021,7
+"5,464",Tank Cleaner,6.8,2021,15
+"5,468",The Girl on the Train,4.4,2021,2
+"5,474",Roohi,4.3,2021,9
+"5,475",Fauji calling,5.3,2021,19
+"5,476",Jeene Ki Umeed Tumse Hi,8.7,2021,3
+"5,477",Time to Dance,2.3,2021,22
+"5,478",Aakhet,5.5,2021,0
+"5,479",Mumbai Saga,5.9,2021,6
+"5,480",Mosagallu,5.1,2021,24
+"5,481",Raka,10.0,2021,0
+"5,482",The Wife,4.5,2021,23
+"5,483",Sandeep Aur Pinky Faraar,6.3,2021,10
+"5,485",Haathi Mere Saathi,6.2,2021,25
+"5,487",Pagglait,6.9,2021,10
+"5,488",Silence... Can You Hear It?,6.5,2021,8
+"5,489",Queen of Sajjangarh,5.8,2021,3
+"5,490",Ab Ye Galtiyan Na Ho,No ratings,2021,1
+"5,491",Raag,8.2,2021,0
+"5,493",Ammaa Ki Boli,7.1,2021,12
+"5,494",Saina,4.4,2021,17
+"5,495",Ghar Pe Bataao,7.6,2021,5
+"5,496",Baikunth,8.2,2021,6
+"5,497",Koi Jaane Na,3.6,2021,15
+"5,498",Flight,5.8,2021,20
+"5,499",My Goal football,6.1,2021,1
+"5,500",Yamuna Paar,8.5,2021,0
+"5,502",The Big Bull,5.9,2021,14
+"5,503",Hello Charlie,5.6,2021,14
+"5,505",Refl3ct,5.6,2021,18
+"5,507",Bansuri: The Flute,5.0,2021,0
+"5,508",Raat Baaki Hai,5.1,2021,25
+"5,509",Black Rose,5.2,2021,3
+"5,510",Ajeeb Daastaans,6.7,2021,3
+"5,514",VanRakshak,7.9,2021,1
+"5,515",Switchh,3.7,2021,4
+"5,517",In The Month of July,8.3,2021,0
+"5,518",Doctor I Love You,7.7,2021,0
+"5,519",B.A. Pass 3,6.5,2021,1
+"5,525",Radhe,1.9,2021,14
+"5,526",The Purple Night,6.1,2021,3
+"5,527",RK/RKAY,7.0,2021,12
+"5,528",Gaurav Gupta: Market Down Hai,7.4,2021,10
+"5,529",Antenna,6.5,2021,1
+"5,530",D Company,5.5,2021,9
+"5,532",Angithee,5.4,2021,0
+"5,534",Kabaad- The Coin,6.5,2021,15
+"5,535",Sardar Ka Grandson,4.2,2021,9
+"5,536",Viraat,7.7,2021,1
+"5,537",The Tenant,8.2,2021,4
+"5,538",Vishudha Rathrikal,8.2,2021,2
+"5,539",Main Wahan Kyon Tha,No ratings,2021,1
+"5,541",Motu Patlu Kung Fu Kings Returns,5.1,2021,0
+"5,542",Toofan Mail 8 Down,6.0,2021,5
+"5,544",Love Sorries,8.8,2021,24
+"5,546",Not Today,8.0,2021,1
+"5,547",House No. 446,9.1,2021,0
+"5,550",Ek Tha Gaon,8.5,2021,0
+"5,551",Bulbule,8.9,2021,24
+"5,552",Galti,5.4,2021,0
+"5,553",Everything Is Cinema,6.3,2021,0
+"5,557",Zindagi Unlimited,5.3,2021,0
+"5,559",Out of Time,6.7,2021,4
+"5,561",Shaadisthan,5.5,2021,21
+"5,562",Skater Girl,6.6,2021,15
+"5,563",Jaan! Jaan Loge Kya?,3.8,2021,0
+"5,564",Sherni,6.8,2021,6
+"5,565",Puratchi Thalaivi,7.4,2021,0
+"5,570",Rajnigandha,7.5,2021,0
+"5,572",27 September,7.8,2021,4
+"5,576",Undertaker,8.3,2021,0
+"5,577",Haseen Dillruba,6.9,2021,23
+"5,578",Googly Gumm Hai,6.1,2021,18
+"5,581",Ishq Jaam Zeher,No ratings,2021,1
+"5,583",Kal Hamara Hai,7.3,2021,0
+"5,586",State of Siege: Temple Attack,7.7,2021,9
+"5,587",Collar Bomb,5.0,2021,12
+"5,588",The Successful Loosers,7.4,2021,2
+"5,589",Toofaan,5.6,2021,10
+"5,590",Wrongleela,7.4,2021,0
+"5,591",Track the Mystery,3.6,2021,0
+"5,592",Lost Mind,5.7,2021,2
+"5,593",The Rise of Kirmada,8.4,2021,0
+"5,595",Silsila Sidnaaz Ka,9.6,2021,0
+"5,596",14 Phere,6.3,2021,21
+"5,597",Hungama 2,3.2,2021,4
+"5,598",COD Cash on Delivery 2021,9.7,2021,0
+"5,599",Mimi,7.9,2021,6
+"5,600",Dihadi,9.1,2021,9
+"5,601",Lines,5.6,2021,20
+"5,602",Love Siyapaaa,7.8,2021,0
+"5,604",Balcony Buddies,8.4,2021,1
+"5,605",Jhatka Jaroori Hai,8.2,2021,0
+"5,608",Dial 100,5.9,2021,18
+"5,609",Oye Mamu!,7.2,2021,4
+"5,610",Lockdown to Unlock,2.4,2021,0
+"5,615",Lights! Camera! Murder!,7.3,2021,0
+"5,616",Shershaah,8.4,2021,24
+"5,617",Bhuj: The Pride of India,4.6,2021,13
+"5,619",Sitapur: The City of Gangsters,5.2,2021,1
+"5,620",Out of the Blue,5.2,2021,0
+"5,623",Bellbottom,6.1,2021,8
+"5,624",Crazy Uncles,9.2,2021,7
+"5,625",Choices,7.6,2021,0
+"5,627",Consequence Karma,8.9,2021,19
+"5,628",The Darling Wife,4.9,2021,0
+"5,629",200: Halla Ho,7.5,2021,8
+"5,631",Chehre,6.4,2021,24
+"5,632",Beti: The Angel of God on the Earth,9.0,2021,0
+"5,633",Red Mercury Mission in India,8.7,2021,0
+"5,636",The Interview: Night of 26/11,4.0,2021,0
+"5,637",The Last Show,5.8,2021,0
+"5,639",Helmet,6.5,2021,22
+"5,640",Faactory,6.5,2021,12
+"5,642",Premaatur,6.9,2021,0
+"5,643",The Last Letter,9.5,2021,16
+"5,645",Bhoot Police,7.0,2021,8
+"5,647",Thalaivi,5.9,2021,5
+"5,648",Kya Meri Sonam Gupta Bewafa Hai,4.1,2021,24
+"5,649",Urf Ghanta,6.1,2021,11
+"5,651",Supada Dada,No ratings,2021,1
+"5,652",Breed,6.9,2021,9
+"5,653",Chai - a bond undefined,9.3,2021,0
+"5,654",Shooter,6.9,2021,0
+"5,655",Ye Kaisa Pyar,10.0,2021,0
+"5,656",Friendship,5.3,2021,17
+"5,657",Ankahi Kahaniya,5.5,2021,4
+"5,658",Mahua,5.9,2021,1
+"5,659",Dilli Kaand,5.2,2021,0
+"5,660",Roomies in Scamland,7.1,2021,0
+"5,664",Deja Vu,8.5,2021,0
+"5,669",Friction,7.6,2021,2
+"5,671",Extra Pen,8.1,2021,0
+"5,672",Shiddat,7.6,2021,1
+"5,673",Sumeru,7.6,2021,0
+"5,674",Bhavai,5.6,2021,2
+"5,675",Safaibaaz - The Scavenger,9.0,2021,0
+"5,678",The Rapist,7.7,2021,1
+"5,679",Manasvi,8.4,2021,3
+"5,680",Nobel Peace,6.4,2021,0
+"5,681",No Land's Man,8.5,2021,0
+"5,682",I Am Not a Player,1.7,2021,0
+"5,684",Sardar Udham,8.4,2021,11
+"5,685",Rashmi Rocket,7.4,2021,1
+"5,686",Sanak,6.7,2021,18
+"5,690",Rip Real Horror Story,9.0,2021,0
+"5,691",Tathagat,7.1,2021,1
+"5,692",Babloo Bachelor,4.8,2021,1
+"5,695",Dybbuk: The Curse Is Real,5.0,2021,6
+"5,697",Hum Do Hamare Do,6.0,2021,18
+"5,698",Peepal Tree,9.5,2021,0
+"5,699",Aafat-e-Ishq,4.3,2021,21
+"5,700",Bekhudi,7.2,2021,24
+"5,702",Barun Rai and the House on the Cliff,6.2,2021,20
+"5,706",Jai Bhim,8.9,2021,24
+"5,707",Jhini Bini Chadariya,7.8,2021,0
+"5,709",Shoebox,8.4,2021,1
+"5,710",Enemy,6.3,2021,10
+"5,712",Sooryavanshi,6.1,2021,15
+"5,713",Meenakshi Sundareshwar,7.0,2021,10
+"5,714",Man Maiden Mercenary,8.9,2021,0
+"5,715",Tryst with Destiny,6.2,2021,8
+"5,719",Uljhan: The Topper Blues,9.0,2021,0
+"5,721",Veer Gomtesha,6.7,2021,7
+"5,722",Squad,4.5,2021,1
+"5,723",Gahara Asar Dil Tak,7.7,2021,0
+"5,724",Bunty Aur Babli 2,4.1,2021,25
+"5,725",Dangerous,4.4,2021,2
+"5,726",Ye Mard Bechara,8.7,2021,13
+"5,727",Dhamaka,7.1,2021,4
+"5,728",Shrimad Rajchandra,9.3,2021,0
+"5,729",Cash,6.9,2021,17
+"5,730",The Last Resort,8.8,2021,0
+"5,731",Andaman,8.7,2021,14
+"5,732",2024,5.8,2021,2
+"5,735",Satyameva Jayate 2,4.1,2021,14
+"5,736",Chhorii,6.8,2021,18
+"5,737",Antim: The Final Truth,6.7,2021,5
+"5,741",Boomerang,5.6,2021,0
+"5,742",Tadap,5.1,2021,20
+"5,743",Bob Biswas,6.7,2021,22
+"5,744",Halfpace,8.1,2021,2
+"5,745",Chandigarh Kare Aashiqui,6.8,2021,11
+"5,746",Velle,6.4,2021,3
+"5,747",Antardhaan,6.0,2021,1
+"5,750",Mumbai Special Pav Bhaji,7.9,2021,0
+"5,753",12 Bulbule,8.9,2021,0
+"5,755",Sakha,8.0,2021,2
+"5,757",Pushpa: The Rise - Part 1,7.6,2021,2
+"5,758",Godaam,9.6,2021,1
+"5,759",420 IPC,6.5,2021,12
+"5,760",R23 Criminals Diary,6.4,2021,4
+"5,762",A Method in Multishade,9.0,2021,0
+"5,763",DRE7MS,9.1,2021,9
+"5,764",83,7.5,2021,13
+"5,765",Aankhen 2,7.6,2021,0
+"5,766",Atrangi Re,6.4,2021,15
+"5,770",Zamaanat: And Justice for All,3.0,2021,0
+"5,772",Dostana 2,3.0,2021,0
+"5,773",Sam Bahadur,8.8,2021,0
+"5,778",Aparajitha Ayodhya,6.1,2021,0
+"5,801",Taalismaan,3.2,2021,0
+"5,804",Banda Yeh Bindaas Hai,6.2,2021,0
+"5,815",Someone,7.9,2021,9
+"5,819",Nyay: The Justice,1.0,2021,0
+"5,836",Am I Next,8.0,2021,2
+"5,840",Rohingya - People from nowhere,5.2,2021,0
+"5,844",Asli Cricket,5.1,2021,7
+"5,845",Koochie Koochie Hota Hai,6.2,2021,0
+"5,848",Murder at Teesri Manzil 302,4.0,2021,9
+"5,852",Desi Magic,6.1,2021,0
+"5,854",Pati Patni and Joe,6.6,2021,2
+"5,855",Tom Dick and Harry Returns,4.2,2021,0
+"5,856",Waah Zindagi,5.6,2021,4
+"5,862",Cinemaa Zindabad,4.2,2022,6
+"5,863",Abey Yaar Lagg Gayi,9.9,2022,0
+"5,866",Chuhiya,9.3,2022,1
+"5,867",Sorry Day,5.9,2022,0
+"5,868",36 Farmhouse,3.7,2022,20
+"5,869",Phas Gaye Yaaro,8.8,2022,0
+"5,870",Udd Ja Re,6.8,2022,0
+"5,873",Hai Tujhe Salaam India,8.1,2022,5
+"5,874",FOUR: Vol. I,8.5,2022,6
+"5,876",Varchasva,9.3,2022,0
+"5,881",Agam,9.6,2022,0
+"5,882",Looop Lapeta,5.2,2022,18
+"5,883",Parvatinagar,9.7,2022,0
+"5,885",Sunset Girl,8.4,2022,1
+"5,886",Ferrous,6.4,2022,3
+"5,887",Gangubai Kathiawadi,7.0,2022,4
+"5,890",Gehraiyaan,5.9,2022,16
+"5,891",Badhaai Do,7.0,2022,16
+"5,892",Rosie: The Saffron Chapter,8.8,2022,0
+"5,893",A Thursday,7.7,2022,22
+"5,895",Pyar Mein Thoda Twist,4.4,2022,0
+"5,896",#Homecoming,7.4,2022,0
+"5,897",Before You Die,9.1,2022,4
+"5,901",Pondicherry,8.4,2022,4
+"5,902",Love Hostel,6.0,2022,5
+"5,903",Rahasyamayi Book,8.5,2022,0
+"5,906",Mixtape,8.7,2022,0
+"5,910",Moksha,9.3,2022,16
+"5,911",Toolsidas Junior,7.4,2022,22
+"5,912",Sher Gujjar,8.5,2022,0
+"5,913",One Story Many Ends,7.9,2022,0
+"5,914",Jhund,7.4,2022,12
+"5,915",Sankraman,9.6,2022,0
+"5,918",Kalpataru (The Tree),8.7,2022,1
+"5,920",The Kashmir Files,8.3,2022,11
+"5,921",10 Nahi 40,8.8,2022,12
+"5,922",Meow Meow,6.7,2022,0
+"5,923",Aisa Q,7.5,2022,8
+"5,926",Bachchhan Paandey,5.2,2022,25
+"5,927",Jalsa,6.6,2022,10
+"5,928",I'm Not the River Jhelum,8.7,2022,1
+"5,930",Banaras ke Rasiya,9.7,2022,1
+"5,932",Escape,3.8,2022,0
+"5,933",Hero of Nation Chandra Shekhar Azad,9.0,2022,0
+"5,936",Sharmaji Namkeen,7.6,2022,21
+"5,937",Kaun Pravin Tambe?,8.4,2022,12
+"5,939",Attack,6.8,2022,25
+"5,940",Cobalt Blue,6.5,2022,21
+"5,941",Lift 8055,7.1,2022,0
+"5,943",Dasvi,7.3,2022,18
+"5,944",Hurdang,5.2,2022,12
+"5,952",Supreme Motherhood: The Journey of Mata Sahib Kaur,9.3,2022,11
+"5,953",Jersey,7.3,2022,16
+"5,954",GOW - Ghost of Wuhan,No ratings,2022,1
+"5,956",Maid for each other,9.6,2022,0
+"5,957",Quota - The Reservation,9.7,2022,6
+"5,958",Zinga,8.4,2022,0
+"5,959",Operation Romeo,6.3,2022,11
+"5,960",Khudbudi,9.3,2022,1
+"5,961",Chidiya Ghar,9.6,2022,0
+"5,962",Muqaam,8.2,2022,0
+"5,963",Runway 34,7.0,2022,12
+"5,964",Heropanti 2,2.6,2022,17
+"5,967",Sorry Karma Returns,9.6,2022,0
+"5,968",Bholaa Bhaai,8.2,2022,4
+"5,970",Nishachar,9.8,2022,0
+"5,971",Live in Relation,9.7,2022,2
+"5,973",Mere Desh Ki Dharti,7.0,2022,3
+"5,974",Thar,6.1,2022,23
+"5,975",Dwimukha,8.5,2022,1
+"5,976",The Conversion,8.9,2022,4
+"5,977",Void,8.2,2022,14
+"5,979",Decent Boy,8.6,2022,1
+"5,981",Dark Rose: The Name of Fear,7.6,2022,0
+"5,982",Khel Kood Aur Bhoot,7.6,2022,3
+"5,983",Jayeshbhai Jordaar,6.0,2022,17
+"5,986",Triple Cross,3.4,2022,0
+"5,988",Bhool Bhulaiyaa 2,5.7,2022,10
+"5,989",Rocketry: The Nambi Effect,8.8,2022,19
+"5,990",Dhaakad,4.0,2022,15
+"5,992",Chitrakut,8.8,2022,17
+"5,993",The Cannabis Diary,9.5,2022,1
+"5,997",Aliya Basu Gayab Hai,6.3,2022,0
+"5,998",Anek,6.6,2022,2
+"5,999",Dehati Disco,5.6,2022,4
+"6,000",Amaris,5.1,2022,1
+"6,001",Love in Ukraine,9.4,2022,0
+"6,002",Haemolymph,7.2,2022,0
+"6,004",Chidiya,8.0,2022,0
+"6,012",Rishi Ki Dunia,No ratings,2022,1
+"6,014",Major,8.2,2022,3
+"6,015",Vikram,8.4,2022,17
+"6,016",Samrat Prithviraj,5.8,2022,5
+"6,018",Anya The Other,8.6,2022,2
+"6,020",Janhit Mein Jaari,6.9,2022,16
+"6,021",Gadera,7.3,2022,0
+"6,022",Dear Dia,8.1,2022,0
+"6,023",Prapti (Receipt),9.6,2022,0
+"6,024",Ardh,7.7,2022,20
+"6,026",Dare and Lovely,1.3,2022,0
+"6,027",Nikamma,2.6,2022,8
+"6,028",Ittu Si Baat,7.3,2022,15
+"6,030",Dobaaraa,4.3,2022,1
+"6,031",Jug Jugg Jeeyo,6.1,2022,18
+"6,032",Gotakhor,5.0,2022,8
+"6,033",Forensic,6.3,2022,5
+"6,035",Sherdil,6.6,2022,22
+"6,043",Nautanki,8.1,2022,0
+"6,044",Om - The Battle Within,2.7,2022,18
+"6,045",Dear Molly,8.0,2022,1
+"6,046",Tale of Rising Rani,8.8,2022,2
+"6,047",Salvation at Sunrise,8.6,2022,0
+"6,049",Red Forest Khooni Jungle,No ratings,2022,1
+"6,051",Khuda Haafiz Chapter II: Agni Pariksha,7.6,2022,24
+"6,052",Pyali,8.6,2022,5
+"6,054",Titu Ambani,8.6,2022,5
+"6,059",HIT: The First Case,6.9,2022,4
+"6,060",The Warriorr,4.6,2022,2
+"6,061",Jaadugar,6.9,2022,9
+"6,062",Judaa Hoke Bhi,6.2,2022,23
+"6,063",Really Main Deewana Ho Gaya,No ratings,2022,1
+"6,064",Shabaash Mithu,5.6,2022,21
+"6,065",MAATI 2 Kahani kisaan ki,9.6,2022,0
+"6,068",Pyaar Ki Roshni,9.6,2022,0
+"6,070",X or Y,7.6,2022,0
+"6,071",Shamshera,4.8,2022,25
+"6,072",Hasta Khel Ta Parivaar,No ratings,2022,1
+"6,074",The Legend,5.6,2022,19
+"6,075",Ek Villain Returns,4.5,2022,3
+"6,077",Good Luck Jerry,5.5,2022,11
+"6,078",Antaryatri Mahapurush (The Walking God),9.9,2022,2
+"6,085",Darlings,6.6,2022,20
+"6,086",Unfinished Story,7.6,2022,1
+"6,087",Masoom Sawaal,2.2,2022,2
+"6,088",Naar Ka Sur,9.6,2022,6
+"6,089",Haryana,9.6,2022,4
+"6,090",Miami Seh New York,8.3,2022,0
+"6,093",Match Of Life,7.6,2022,0
+"6,094",Sayanna Varthakal,4.9,2022,9
+"6,095",Paggal,8.9,2022,0
+"6,096",Kanmani Pappa,6.6,2022,0
+"6,097",Death Slayer 2,9.0,2022,3
+"6,098",Laal Singh Chaddha,5.5,2022,17
+"6,099",Raksha Bandhan,5.1,2022,14
+"6,102",Cadaver,6.5,2022,9
+"6,103",Karthikeya 2,7.9,2022,11
+"6,106",Swaraj: Bharat Ke Swatantrata Sangram Ki Samagra Gatha,9.6,2022,1
+"6,107",Iftikhar,9.1,2022,0
+"6,109",Maali,9.3,2022,0
+"6,111",Firrkie,5.3,2022,0
+"6,114",Peace,7.2,2022,6
+"6,115",Aanchhi,9.2,2022,0
+"6,116",Liger,3.0,2022,1
+"6,118",Holy Cow,6.8,2022,0
+"6,120",The Last Prank,6.5,2022,0
+"6,123",Cuttputlli,5.8,2022,3
+"6,128",Brahmastra Part One: Shiva,5.6,2022,5
+"6,129",The Lift,8.6,2022,0
+"6,131",Subway,10.0,2022,3
+"6,132",Mrigja,9.4,2022,0
+"6,133",Monica O My Darling,7.7,2022,24
+"6,134",Kacchey Limbu,9.1,2022,1
+"6,136",Zwigato,8.5,2022,0
+"6,138",Khalli Balli,6.8,2022,0
+"6,141",Jahaan Chaar Yaar,4.1,2022,20
+"6,142",Siya,7.4,2022,7
+"6,143",Middle Class Love,7.4,2022,7
+"6,144",Jogi,7.2,2022,11
+"6,145",Mimamsa,2.0,2022,0
+"6,146",Dhaage,6.9,2022,5
+"6,147",Saroj Ka Rishta,9.6,2022,0
+"6,149",Chup,8.4,2022,19
+"6,151",Dhokha: Round D Corner,8.2,2022,15
+"6,152",Pokhar Ke Dunu Paar,6.1,2022,0
+"6,153",Atithi Bhooto Bhava,6.1,2022,21
+"6,154",Babli Bouncer,7.0,2022,15
+"6,155",Ishq Pashmina,9.1,2022,14
+"6,160",Raebareli,9.3,2022,0
+"6,161",Vikram Vedha,7.1,2022,12
+"6,163",Woh 3 Din,8.5,2022,0
+"6,165",Plan A Plan B,4.6,2022,7
+"6,169",Godfather,5.9,2022,8
+"6,171",Maja Ma,6.1,2022,18
+"6,172",Aa Bhi Ja O Piya,9.8,2022,3
+"6,173",Goodbye,8.1,2022,24
+"6,174",Hindutva,4.2,2022,0
+"6,177",Chakki,9.1,2022,1
+"6,178",Nazar Andaaz,8.0,2022,0
+"6,179",Nazar Andaaz,8.0,2022,0
+"6,182",Modi Ji Ki Beti,8.7,2022,0
+"6,183",Aye Zindagi,8.9,2022,1
+"6,186",Kahani Rubberband Ki,9.7,2022,3
+"6,188",Love You Loktantra,9.9,2022,1
+"6,190",Code Name: Tiranga,1.8,2022,10
+"6,191",Mid Day Meeal,6.6,2022,0
+"6,192",Jaggu Ki Lalten,7.8,2022,2
+"6,193",Doctor G,7.4,2022,16
+"6,196",The Bridge,6.8,2022,0
+"6,197",Ram Setu,5.2,2022,22
+"6,198",Ginna,8.3,2022,0
+"6,203",Thank God,6.1,2022,14
+"6,205",Har Har Mahadev,8.1,2022,14
+"6,207",Tara vs Bilal,3.5,2022,2
+"6,208",GG - Gandhada Gudi,9.6,2022,20
+"6,213",Double XL,6.2,2022,6
+"6,215",Ramrajya,8.6,2022,1
+"6,216",Phone Bhoot,7.2,2022,7
+"6,218",Mili,8.1,2022,12
+"6,221",Banaras,9.4,2022,5
+"6,222",Dhoop chhaon,9.6,2022,0
+"6,224",Boss Climax abhi Baki hai,10.0,2022,0
+"6,225",San' 75 (Pachattar),7.4,2022,0
+"6,226",Tadka,7.0,2022,1
+"6,227",Dada Lakhmi Chand,9.4,2022,7
+"6,229",Uunchai,8.1,2022,13
+"6,230",Yashoda,8.8,2022,12
+"6,234",Anth the End,6.6,2022,0
+"6,235",Rocket Gang,6.1,2022,2
+"6,268",Smile Hearts,No ratings,2022,1
+"6,300",The Green Force Mission 14th March,No ratings,2022,21
